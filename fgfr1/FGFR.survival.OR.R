@@ -21,7 +21,7 @@ phen$phen2<-id2bin(phen$cases.0.samples.0.submitter_id)
 phen$pid<-phen$project_id
 head(phen)
 
-i=grep("ENSG00000181896",rownames(input))
+i=grep("ENSG00000066468",rownames(input))
 
 idx<-which(phen$phen2==1 | phen$phen2==11)
 phen<-phen[idx,]
@@ -83,7 +83,7 @@ phen<-phen[idx,]
 input<-rnaseqdata[,idx]
 input[1:5,1:5]
 idx<-na.omit(match(OS$submitter_id,phen$phen3))
-input<-input[,idx]
+input<-log(input[,idx]+1,2)
 phen<-phen[idx,]
 phen<-data.frame(phen,OS[match(phen$phen3,OS$submitter_id),])
 phen$censored<-as.numeric(!phen$censored)
@@ -110,8 +110,15 @@ for(z in quantile(input[i,],seq(0, 1, 0.1))[2:9]){
   Z<-rbind(Z,c(z,m$pval.fixed))
   print(c(z,m$pval.fixed))
 }
-  
+
 thres<-Z[which.min(Z[,2]),1]
+
+if(thres==0){
+  thres<-mean(input[i,])
+}
+
+subpanel="T"
+
 HR<-c()
 for(TCGAProject in TCGAProjects){
   newdata<-input[,phen$project_id==paste("TCGA-",TCGAProject,sep="")]
@@ -137,8 +144,8 @@ print(i)
 rownames(HR)<-TCGAProjects
 m<-metagen(HR[,1],seTE=HR[,3],comb.fixed = TRUE,comb.random = TRUE,prediction=F,sm="HR")
 pdf(paste(rownames(input)[i],".OS.HR.PANC.pdf",sep=""))
-  print(rownames(input)[i])
-  forest(m,leftlabs = rownames(HR),
+print(rownames(input)[i])
+forest(m,leftlabs = rownames(HR),
        lab.e = "Intervention",
        pooled.totals = FALSE,
        smlab = "",studlab=rownames(HR),
