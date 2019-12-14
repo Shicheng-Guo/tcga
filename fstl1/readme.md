@@ -15,7 +15,7 @@ xx
 xx
 x
 xxx
-x
+xx
 xx
 xx
 x
