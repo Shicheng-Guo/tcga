@@ -16,7 +16,7 @@ xx
 x
 xxx
 xx
-xx
+xxx
 xx
 x
 x
