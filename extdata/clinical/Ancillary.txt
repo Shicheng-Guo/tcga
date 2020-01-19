@@ -1,0 +1,158 @@
+	bcr_patient_barcode	therapy_types	drug_name	measure_of_response	days_to_drug_therapy_start	days_to_drug_therapy_end	therapy_ongoing
+41	TCGA-AF-3914	Ancillary	Leucovorin	Stable Disease	924	1022	NO
+50	TCGA-AF-6136	Ancillary	Leucovorin	Stable Disease	209	454	NO
+59	TCGA-AF-A56L	Ancillary	Leucovorin	Complete Response	52	255	NO
+99	TCGA-AG-3885	Ancillary	Zoledronic acid		365	NA	YES
+150	TCGA-AH-6544	Ancillary	Leucovorin	Stable Disease	68	229	NO
+153	TCGA-AH-6643	Ancillary	Leucovorin	Complete Response	41	202	NO
+156	TCGA-AH-6903	Ancillary	Leucovorin	Complete Response	70	228	NO
+159	TCGA-CI-6620	Ancillary	Leucovorin	Clinical Progressive Disease	39	160	NO
+220	TCGA-F5-6571	Ancillary	Leucovorin	Complete Response	847	952	NO
+223	TCGA-F5-6571	Ancillary	Leucovorin	Stable Disease	1065	1157	NO
+236	TCGA-F5-6864	Ancillary	Leucovorin	Complete Response	17	191	NO
+396	TCGA-TS-A7OY	Ancillary	Porfimer Sodium(Photofin)		70	73	NO
+397	TCGA-TS-A7P0	Ancillary	Porfimer Sodium (Photofrin)		11	11	NO
+398	TCGA-TS-A7P1	Ancillary	Porfimer Sodium (Photofrin)		51	54	NO
+399	TCGA-TS-A7P3	Ancillary	Porfimer Sodium (Photofrin)		17	20	NO
+400	TCGA-TS-A7P6	Ancillary	2-[1-hexyloxyethyl]-2-devinyl pyropheophorbide-alpha (HPPH or Photochlor)		24	27	NO
+401	TCGA-TS-A7P8	Ancillary	Porfimer Sodium (Photofin)		61	64	NO
+402	TCGA-TS-A7PB	Ancillary	2-[1-hexyloxyethyl]-2-devinyl pyropheophorbide-alpha (HPPH or Photochlor)		487	490	NO
+403	TCGA-TS-A8AF	Ancillary	Porfimer Sodium (Photofin)		39	42	NO
+404	TCGA-TS-A8AI	Ancillary	Porfimer Sodium (Photofin)		25	28	NO
+405	TCGA-TS-A8AS	Ancillary	2-[1-hexyloxyethyl]-2-devinyl pyropheophorbide-alpha (HPPH or Photochlor)		51	54	NO
+406	TCGA-TS-A8AS	Ancillary	2-[1-hexyloxyethyl]-2-devinyl pyropheophorbide-alpha (HPPH or Photochlor)		51	54	NO
+407	TCGA-TS-A8AV	Ancillary	2-[1-hexyloxyethyl]-2-devinyl pyropheophorbide-alpha (HPPH or Photochlor)		199	202	NO
+408	TCGA-TS-A8AY	Ancillary	Porfimer Sodium (Photofin)		37	40	NO
+642	TCGA-CH-5751	Ancillary	Zoledronic acid		245	NA	YES
+855	TCGA-VR-AA4D	Ancillary	Leucovorin	Clinical Progressive Disease	166	288	NO
+1003	TCGA-IE-A6BZ	Ancillary	Mesna	Complete Response	112	204	NO
+1043	TCGA-QQ-A8VD	Ancillary	Sulindac	Clinical Progressive Disease	529	1499	NO
+1163	TCGA-F2-7273	Ancillary	Leucovorin		280	NA	YES
+1182	TCGA-FB-A545	Ancillary	Leucovorin	Clinical Progressive Disease	457	634	NO
+1225	TCGA-HZ-7918	Ancillary	Leucovorin	Stable Disease	553	666	NO
+1229	TCGA-HZ-7918	Ancillary	Leucovorin	Stable Disease	910	960	NO
+1248	TCGA-HZ-A9TJ	Ancillary	Leucovorin		65	81	NO
+1252	TCGA-IB-7645	Ancillary	5-Fluorouracil	Complete Response	38	178	NO
+1257	TCGA-IB-7645	Ancillary	Leucovorin	Clinical Progressive Disease	1309	1377	NO
+1263	TCGA-IB-7651	Ancillary	Leucovorin	Clinical Progressive Disease	581	581	NO
+1285	TCGA-IB-A6UF	Ancillary	Leucovorin		636	NA	YES
+1289	TCGA-IB-A7LX	Ancillary	Leucovorin Calcium	Clinical Progressive Disease	53	151	NO
+1316	TCGA-M8-A5N4	Ancillary	Leucovorin calcium		59	203	NO
+1326	TCGA-RB-A7B8	Ancillary	leucovorin		115	115	NO
+1341	TCGA-S4-A8RO	Ancillary	Leucovorin		421	485	NO
+1342	TCGA-S4-A8RO	Ancillary	Leucovorin		421	485	NO
+1349	TCGA-S4-A8RP	Ancillary	Leucovorin		413	NA	NO
+1353	TCGA-XD-AAUG	Ancillary	leucovorin		130	NA	YES
+1591	TCGA-G2-A2EJ	Ancillary	MESNA	Stable Disease	38	38	NO
+1687	TCGA-XF-A9SH	Ancillary	Mesna	Clinical Progressive Disease	1759	1782	NO
+2144	TCGA-85-8276	Ancillary	Zoledronic acid		1050	NA	YES
+4292	TCGA-A6-2671	Ancillary	Leucovorin	Clinical Progressive Disease	844	844	NO
+4382	TCGA-A6-5664	Ancillary	Leucovorin	Clinical Progressive Disease	301	635	NO
+4420	TCGA-A6-6652	Ancillary	Leucovorin		86	NA	YES
+4433	TCGA-A6-A565	Ancillary	Leucovorin	Clinical Progressive Disease	NA	NA	NO
+4437	TCGA-A6-A566	Ancillary	Leucovorin	Clinical Progressive Disease	76	251	NO
+4440	TCGA-A6-A56B	Ancillary	Leucovorin	Complete Response	82	236	NO
+4445	TCGA-A6-A5ZU	Ancillary	Leucovorin	Complete Response	105	272	NO
+4614	TCGA-AD-6965	Ancillary	Leucovorin	Complete Response	42	196	NO
+4671	TCGA-CK-4950	Ancillary	Leucovorin	Complete Response	49	237	NO
+4687	TCGA-CM-4748	Ancillary	Leucovorin Calcium	Stable Disease	396	518	NO
+4762	TCGA-F4-6569	Ancillary	Leucovorin	Complete Response	23	201	NO
+4766	TCGA-F4-6806	Ancillary	Leucovorin	Complete Response	42	158	NO
+4773	TCGA-F4-6806	Ancillary	Leucovorin	Partial Response	641	760	NO
+4781	TCGA-F4-6856	Ancillary	Leucovorin	Complete Response	11	41	NO
+4900	TCGA-NH-A50U	Ancillary	leucovorin calcium	Partial Response	21	189	NO
+4909	TCGA-NH-A50V	Ancillary	leucovorin	Complete Response	53	210	NO
+4913	TCGA-NH-A6GA	Ancillary	leucovorin	Clinical Progressive Disease	192	302	NO
+4916	TCGA-NH-A6GA	Ancillary	leucovorin	Clinical Progressive Disease	61	135	NO
+4920	TCGA-NH-A6GB	Ancillary	leucovorin	Clinical Progressive Disease	49	576	NO
+4951	TCGA-SS-A7HO	Ancillary	Leucovorin	Complete Response	37	93	NO
+4958	TCGA-05-4384	Ancillary	Zoledronic acid	Clinical Progressive Disease	245	426	NO
+4959	TCGA-05-4384	Ancillary	Zoledronic acid	Clinical Progressive Disease	245	426	NO
+5351	TCGA-86-7701	Ancillary	Zoledronic acid	Stable Disease	454	601	NO
+5352	TCGA-86-7701	Ancillary	Zoledronic acid		706	NA	YES
+5427	TCGA-97-8176	Ancillary	B12	Partial Response	77	417	NO
+5428	TCGA-97-8176	Ancillary	Neulasta		77	417	NO
+5429	TCGA-97-8176	Ancillary	Xgeva		77	417	NO
+6123	TCGA-E1-A7YE	Ancillary	Celebrex	Clinical Progressive Disease	469	703	NO
+6492	TCGA-3M-AB46	Ancillary	Leucovorin	Complete Response	92	212	NO
+6513	TCGA-BR-6457	Ancillary	Leucovorin	Complete Response	31	126	NO
+6516	TCGA-BR-6458	Ancillary	Leucovorin	Complete Response	58	167	NO
+6530	TCGA-BR-6707	Ancillary	Leucovorin	Clinical Progressive Disease	426	491	NO
+6533	TCGA-BR-6709	Ancillary	Leucovorin	Partial Response	61	206	NO
+6536	TCGA-BR-6710	Ancillary	Leucovorin	Complete Response	78	85	NO
+6538	TCGA-BR-6802	Ancillary	Leucovorin	Complete Response	847	854	NO
+6542	TCGA-BR-7196	Ancillary	Leucovorin		348	390	NO
+6545	TCGA-BR-7196	Ancillary	Leucovorin		83	149	NO
+6552	TCGA-BR-8291	Ancillary	Leucovorin	Complete Response	39	137	NO
+6556	TCGA-BR-8296	Ancillary	Leucovorin	Complete Response	44	180	NO
+6559	TCGA-BR-8297	Ancillary	Leucovorin	Clinical Progressive Disease	67	97	NO
+6562	TCGA-BR-8362	Ancillary	Leucovorin	Complete Response	24	154	NO
+6565	TCGA-BR-8362	Ancillary	Leucovorin	Clinical Progressive Disease	370	375	NO
+6568	TCGA-BR-8367	Ancillary	Leucovorin	Complete Response	61	229	NO
+6570	TCGA-BR-8367	Ancillary	Leucovorin	Clinical Progressive Disease	189	611	NO
+6573	TCGA-BR-8370	Ancillary	Leucovorin	Complete Response	34	101	NO
+6577	TCGA-BR-8371	Ancillary	Leucovorin	Clinical Progressive Disease	31	189	NO
+6583	TCGA-BR-8372	Ancillary	Leucovorin	Complete Response	31	174	NO
+6585	TCGA-BR-8373	Ancillary	Leucovorin	Complete Response	55	84	NO
+6589	TCGA-BR-8380	Ancillary	Leucovorin	Complete Response	69	190	NO
+6591	TCGA-BR-8381	Ancillary	Leucovorin	Complete Response	35	161	NO
+6597	TCGA-BR-8590	Ancillary	Leucovorin	Complete Response	42	203	NO
+6600	TCGA-BR-8592	Ancillary	Leucovorin	Complete Response	39	113	NO
+6604	TCGA-BR-8680	Ancillary	Medrol	Complete Response	39	150	NO
+6607	TCGA-BR-8682	Ancillary	Dexamethasone	Complete Response	60	181	NO
+6612	TCGA-BR-8690	Ancillary	Leucovorin	Complete Response	118	122	NO
+6614	TCGA-BR-A44T	Ancillary	Leucovorin	Complete Response	47	196	NO
+6616	TCGA-BR-A44T	Ancillary	Leucovorin	Stable Disease	682	714	NO
+6620	TCGA-BR-A4IU	Ancillary	Dexamethasone	Complete Response	47	156	NO
+6624	TCGA-BR-A4IV	Ancillary	Dexamethasone	Complete Response	51	166	NO
+6628	TCGA-BR-A4IY	Ancillary	Dexamethasone	Complete Response	47	177	NO
+6632	TCGA-BR-A4J2	Ancillary	Dexamethasone	Complete Response	51	125	NO
+6633	TCGA-BR-A4J2	Ancillary	Leukine	Complete Response	51	125	NO
+6636	TCGA-BR-A4QI	Ancillary	Leucovorin		383	NA	YES
+6639	TCGA-BR-A4QI	Ancillary	Leucovorin	Clinical Progressive Disease	383	551	NO
+6642	TCGA-BR-A4QL	Ancillary	Leucovorin	Complete Response	59	90	NO
+6647	TCGA-BR-A4QM	Ancillary	Leucovorin	Complete Response	42	106	NO
+6759	TCGA-D7-6526	Ancillary	LEUCOVORIN		74	NA	YES
+6763	TCGA-D7-6527	Ancillary	Leucovorin		55	116	NO
+6766	TCGA-D7-6818	Ancillary	leucovorin		63	201	NO
+6781	TCGA-EQ-8122	Ancillary	Leucovorin		68	157	NO
+6799	TCGA-FP-8210	Ancillary	Leucovorin	Clinical Progressive Disease	31	62	NO
+6805	TCGA-FP-A9TM	Ancillary	Leucovorin	Complete Response	110	142	NO
+6893	TCGA-MX-A666	Ancillary	Leucovorin	Complete Response	117	131	NO
+7008	TCGA-ED-A459	Ancillary	Alvesin	Complete Response	38	103	NO
+7141	TCGA-FU-A3WB	Ancillary	Aloxi	Complete Response	65	116	NO
+7840	TCGA-D3-A51G	Ancillary	Resiquimod	Complete Response	NA	NA	NO
+7841	TCGA-D3-A51G	Ancillary	Resiquimod	Complete Response	NA	NA	NO
+7874	TCGA-EB-A57M	Ancillary	Zofran	Complete Response	23	157	NO
+7875	TCGA-EB-A57M	Ancillary	Dexamethasone	Complete Response	23	157	NO
+7877	TCGA-EB-A57M	Ancillary	Erythropoietin	Complete Response	23	157	NO
+7879	TCGA-EB-A57M	Ancillary	RenAmin	Complete Response	23	157	NO
+7900	TCGA-EE-A182	Ancillary	PV-10	Clinical Progressive Disease	329	329	NO
+8306	TCGA-A2-A0EW	Ancillary	Zoledronic Acid	Clinical Progressive Disease	1158	1422	NO
+8308	TCGA-A2-A0EW	Ancillary	Denosumab	Clinical Progressive Disease	1425	1718	NO
+8465	TCGA-A2-A3XS	Ancillary	Avastin	Clinical Progressive Disease	895	958	NO
+8495	TCGA-A2-A3XY	Ancillary	Denosumab	Clinical Progressive Disease	816	1058	NO
+8665	TCGA-A8-A075	Ancillary	Zoledronic acid		214	NA	YES
+8703	TCGA-A8-A07R	Ancillary	Zoledronic acid		181	NA	YES
+8755	TCGA-A8-A08O	Ancillary	Ibandronate		60	NA	YES
+8780	TCGA-A8-A091	Ancillary	Zoledronic acid		700	NA	YES
+8781	TCGA-A8-A091	Ancillary	Zoledronic acid		700	NA	YES
+8782	TCGA-A8-A091	Ancillary	Pamidronate	Stable Disease	580	669	NO
+8783	TCGA-A8-A091	Ancillary	Pamidronate	Stable Disease	580	669	NO
+8831	TCGA-A8-A0A6	Ancillary	Zoledronic acid		306	NA	YES
+8872	TCGA-AC-A2QH	Ancillary	Aloxi	Complete Response	94	208	NO
+8908	TCGA-AC-A62V	Ancillary	Denosumab	Partial Response	21	266	NO
+9401	TCGA-AR-A5QQ	Ancillary	MESNA-1		119	143	NO
+9402	TCGA-AR-A5QQ	Ancillary	MESNA-2		119	143	NO
+10173	TCGA-E9-A226	Ancillary	Pamidronate	Partial Response	790	937	NO
+10202	TCGA-E9-A243	Ancillary	Pamidronate	Stable Disease	305	520	NO
+10219	TCGA-E9-A2JS	Ancillary	Pamidronic acid		524	846	NO
+10604	TCGA-S3-A6ZF	Ancillary	Neulasta	Complete Response	78	170	NO
+10612	TCGA-S3-A6ZG	Ancillary	NEULASTA	Complete Response	52	100	NO
+10615	TCGA-S3-A6ZH	Ancillary	Neulasta	Complete Response	141	185	NO
+10618	TCGA-S3-AA0Z	Ancillary	NEULASTA	Complete Response	84	84	NO
+10624	TCGA-S3-AA10	Ancillary	NEULASTA	Complete Response	75	199	NO
+10633	TCGA-S3-AA14	Ancillary	NEULASTA	Complete Response	62	104	NO
+10638	TCGA-S3-AA15	Ancillary	NEULASTA	Complete Response	82	125	NO
+13255	TCGA-N7-A4Y0	Ancillary	Mesna	Stable Disease	305	324	NO
+13302	TCGA-NG-A4VU	Ancillary	Mesna	Clinical Progressive Disease	76	258	NO

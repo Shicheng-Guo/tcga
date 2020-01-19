@@ -1,0 +1,620 @@
+	bcr_patient_barcode	therapy_types	drug_name	measure_of_response	days_to_drug_therapy_start	days_to_drug_therapy_end	therapy_ongoing
+13	TCGA-AF-2689	Targeted Molecular therapy	Bevacizumab		85	239	NO
+17	TCGA-AF-2689	Targeted Molecular therapy	Avastin		462	559	NO
+40	TCGA-AF-3914	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	924	1134	NO
+97	TCGA-AG-3732	Targeted Molecular therapy	Bevacizumab		1277	1673	NO
+102	TCGA-AG-3887	Targeted Molecular therapy	Bevacizumab		1095	NA	
+125	TCGA-AG-A016	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	61	245	NO
+131	TCGA-AG-A01N	Targeted Molecular therapy	Bevacizumab		273	NA	YES
+132	TCGA-AG-A01N	Targeted Molecular therapy	Bevacizumab		273	NA	YES
+141	TCGA-AG-A02G	Targeted Molecular therapy	Bevacizumab	Partial Response	28	242	NO
+144	TCGA-AG-A032	Targeted Molecular therapy	Bevacizumab		458	NA	YES
+225	TCGA-F5-6571	Targeted Molecular therapy	Bevacizumab		1065	NA	YES
+255	TCGA-3H-AB3K	Targeted Molecular therapy	dasatinib	Partial Response	52	71	NO
+256	TCGA-3H-AB3K	Targeted Molecular therapy	Cediranib		898	919	NO
+257	TCGA-3H-AB3L	Targeted Molecular therapy	Dasatinib	Clinical Progressive Disease	69	96	NO
+258	TCGA-3H-AB3M	Targeted Molecular therapy	Dasatinib	Clinical Progressive Disease	38	66	NO
+261	TCGA-3H-AB3M	Targeted Molecular therapy	imatinib	Stable Disease	120	386	NO
+262	TCGA-3H-AB3M	Targeted Molecular therapy	everolimus	Clinical Progressive Disease	120	386	NO
+265	TCGA-3H-AB3M	Targeted Molecular therapy	Bevacizumab	Stable Disease	471	604	NO
+266	TCGA-3H-AB3M	Targeted Molecular therapy	Temsirolimus	Stable Disease	471	604	NO
+267	TCGA-3H-AB3O	Targeted Molecular therapy	Dasatinib	Partial Response	54	93	NO
+268	TCGA-3H-AB3O	Targeted Molecular therapy	Dasatinib	Partial Response	54	93	NO
+269	TCGA-3H-AB3O	Targeted Molecular therapy	Dasatinib	Partial Response	194	908	NO
+270	TCGA-3H-AB3O	Targeted Molecular therapy	Dasatinib	Partial Response	194	908	NO
+275	TCGA-3H-AB3O	Targeted Molecular therapy	Cediranib	Partial Response	1084	1265	NO
+276	TCGA-3H-AB3O	Targeted Molecular therapy	Cediranib	Partial Response	1084	1265	NO
+281	TCGA-3H-AB3S	Targeted Molecular therapy	Dasatinib	Clinical Progressive Disease	47	79	NO
+282	TCGA-3H-AB3S	Targeted Molecular therapy	Dasatinib	Clinical Progressive Disease	47	79	NO
+283	TCGA-3H-AB3S	Targeted Molecular therapy	Tarceva	Clinical Progressive Disease	221	275	NO
+284	TCGA-3H-AB3S	Targeted Molecular therapy	Tarceva	Clinical Progressive Disease	221	275	NO
+287	TCGA-3H-AB3S	Targeted Molecular therapy	R1507	Clinical Progressive Disease	221	271	NO
+288	TCGA-3H-AB3S	Targeted Molecular therapy	R1507	Clinical Progressive Disease	221	271	NO
+289	TCGA-3H-AB3T	Targeted Molecular therapy	Dasatinib	Clinical Progressive Disease	35	61	NO
+290	TCGA-3H-AB3T	Targeted Molecular therapy	Vorinostat	Clinical Progressive Disease	321	370	NO
+292	TCGA-3H-AB3U	Targeted Molecular therapy	Dasatinib	Clinical Progressive Disease	90	110	NO
+293	TCGA-3H-AB3X	Targeted Molecular therapy	Dasatinib		91	123	NO
+296	TCGA-3U-A98E	Targeted Molecular therapy	Amatuximab (MORab-009)		61	509	NO
+297	TCGA-3U-A98E	Targeted Molecular therapy	Amatuximab (MORab-009)		61	509	NO
+302	TCGA-3U-A98E	Targeted Molecular therapy	GDC-0980	Partial Response	802	1060	NO
+303	TCGA-3U-A98E	Targeted Molecular therapy	GDC-0980	Partial Response	802	1060	NO
+304	TCGA-3U-A98E	Targeted Molecular therapy	Tivantinib (ARQ-197)	Stable Disease	1286	1430	NO
+305	TCGA-3U-A98E	Targeted Molecular therapy	Tivantinib (ARQ-197)	Stable Disease	1286	1430	NO
+308	TCGA-3U-A98F	Targeted Molecular therapy		Clinical Progressive Disease	379	463	NO
+311	TCGA-3U-A98H	Targeted Molecular therapy	Tivantinib (ARQ-197)	Clinical Progressive Disease	910	1022	NO
+313	TCGA-3U-A98I	Targeted Molecular therapy			439	467	NO
+318	TCGA-3U-A98J	Targeted Molecular therapy			627	627	NO
+922	TCGA-DX-A6BA	Targeted Molecular therapy	Pazopanib		1493	NA	YES
+924	TCGA-DX-A6BA	Targeted Molecular therapy	Everolimus		525	567	NO
+925	TCGA-DX-A6BA	Targeted Molecular therapy	R1507		525	567	NO
+939	TCGA-DX-A7EQ	Targeted Molecular therapy	Sorafenib	Clinical Progressive Disease	559	675	NO
+993	TCGA-IE-A3OV	Targeted Molecular therapy	EZN-2968	Clinical Progressive Disease	1834	1918	NO
+1062	TCGA-X6-A8C4	Targeted Molecular therapy			156	NA	YES
+1067	TCGA-X6-A8C4	Targeted Molecular therapy	Valproic Acid	Clinical Progressive Disease	327	504	NO
+1077	TCGA-OR-A5JM	Targeted Molecular therapy	sunitinib	Clinical Progressive Disease	378	439	NO
+1078	TCGA-OR-A5JM	Targeted Molecular therapy	ketoconazole	Clinical Progressive Disease	378	439	NO
+1094	TCGA-PK-A5HB	Targeted Molecular therapy	Sorafenib	Clinical Progressive Disease	968	1029	NO
+1095	TCGA-PK-A5HB	Targeted Molecular therapy	Sorafenib	Clinical Progressive Disease	968	1029	NO
+1799	TCGA-KL-8323	Targeted Molecular therapy	PTK-ZK		911	942	NO
+1800	TCGA-KL-8336	Targeted Molecular therapy	Sunitinib		138	559	NO
+1803	TCGA-KL-8339	Targeted Molecular therapy	Sunitinib		111	251	NO
+1804	TCGA-KL-8339	Targeted Molecular therapy	Sunitinib		111	251	NO
+1805	TCGA-KL-8341	Targeted Molecular therapy	Sunitinib		196	366	NO
+1807	TCGA-KL-8341	Targeted Molecular therapy	Sunitinib		397	457	NO
+1809	TCGA-KL-8341	Targeted Molecular therapy	Sorafenib		624	NA	NO
+1810	TCGA-KM-8438	Targeted Molecular therapy	Sutent		2342	2731	NO
+1811	TCGA-KM-8438	Targeted Molecular therapy	Temsirolimus		2731	4436	NO
+1812	TCGA-KM-8438	Targeted Molecular therapy	Bevacizumab		3554	3858	NO
+1813	TCGA-KM-A7Q8	Targeted Molecular therapy	Sunitinib	Clinical Progressive Disease	NA	NA	NO
+1814	TCGA-KN-8426	Targeted Molecular therapy	Avastin		NA	NA	NO
+1815	TCGA-KN-8426	Targeted Molecular therapy	Sorafenib		NA	NA	NO
+1816	TCGA-KN-8428	Targeted Molecular therapy	sorafenib	Clinical Progressive Disease	510	638	NO
+2068	TCGA-60-2715	Targeted Molecular therapy	Tarceva		643	766	NO
+2069	TCGA-60-2715	Targeted Molecular therapy	Tarceva		643	766	NO
+2413	TCGA-06-0139	Targeted Molecular therapy	Avastin		203	278	NO
+2439	TCGA-06-0155	Targeted Molecular therapy	CI980		9	52	NO
+2451	TCGA-06-0165	Targeted Molecular therapy	Accutane		122	153	NO
+2452	TCGA-06-0165	Targeted Molecular therapy	Gleevec		184	214	NO
+2467	TCGA-06-0178	Targeted Molecular therapy	Bevcizumab		2572	2614	NO
+2474	TCGA-06-0185	Targeted Molecular therapy	Arsenic Trioxide (ATO)		19	56	NO
+2475	TCGA-06-0185	Targeted Molecular therapy	Bevacizumab		1664	NA	YES
+2478	TCGA-06-0185	Targeted Molecular therapy	Bevacizumab		739	1397	NO
+2487	TCGA-06-0188	Targeted Molecular therapy	Bevacizumab		965	1342	NO
+2494	TCGA-06-0192	Targeted Molecular therapy	Bevacizumab		816	1153	NO
+2496	TCGA-06-0192	Targeted Molecular therapy	Cediranib/Placebo		725	808	NO
+2527	TCGA-06-0240	Targeted Molecular therapy	Bevacizumab		337	589	NO
+2532	TCGA-06-0241	Targeted Molecular therapy	Bevacizumab		203	799	NO
+2533	TCGA-06-0241	Targeted Molecular therapy	Bevacizumab		1043	1435	NO
+2534	TCGA-06-0241	Targeted Molecular therapy	Cilengitide		84	192	NO
+2536	TCGA-06-0241	Targeted Molecular therapy	Cilengitide		15	81	NO
+2561	TCGA-06-0644	Targeted Molecular therapy	Bevacizumab		96	333	NO
+2570	TCGA-06-0650	Targeted Molecular therapy	Bevacizumab		516	658	NO
+2572	TCGA-06-0686	Targeted Molecular therapy	A4QN		25	66	NO
+2574	TCGA-06-0686	Targeted Molecular therapy	A4QN		25	60	NO
+2575	TCGA-06-0686	Targeted Molecular therapy	AT 101		175	279	NO
+2576	TCGA-06-0686	Targeted Molecular therapy	Bevacizumab		412	412	NO
+2582	TCGA-06-0743	Targeted Molecular therapy	Bevacizumab		203	704	NO
+2583	TCGA-06-0743	Targeted Molecular therapy	Cilengitide		55	178	NO
+2591	TCGA-06-0876	Targeted Molecular therapy	Bevacizumab		462	1146	NO
+2597	TCGA-06-0879	Targeted Molecular therapy	dcVax		84	NA	YES
+2600	TCGA-06-0879	Targeted Molecular therapy	dc Vax (Dendritic Cell Vaccine)		84	580	NO
+2602	TCGA-06-0879	Targeted Molecular therapy	Dendritic Cell Vaccine (dcvax)		708	942	NO
+2603	TCGA-06-0879	Targeted Molecular therapy	Cedicanib		998	1025	NO
+2604	TCGA-06-0879	Targeted Molecular therapy	Cilengitide		998	1025	NO
+2606	TCGA-06-0879	Targeted Molecular therapy	Bevacizumab		1029	1205	NO
+2615	TCGA-06-0882	Targeted Molecular therapy	Bevacizumab		236	403	NO
+2617	TCGA-06-0882	Targeted Molecular therapy	Bevacizumab		447	502	NO
+2619	TCGA-06-0939	Targeted Molecular therapy	Bevacizumab		378	665	NO
+2622	TCGA-06-1084	Targeted Molecular therapy	Avastin		242	323	NO
+2624	TCGA-06-1084	Targeted Molecular therapy	Bevacizumab		242	323	NO
+2632	TCGA-06-1801	Targeted Molecular therapy	Bevacizumab		238	323	NO
+2651	TCGA-06-2561	Targeted Molecular therapy	Bevacizumab		171	492	NO
+2654	TCGA-06-2563	Targeted Molecular therapy	Bevacizumab		934	NA	YES
+2655	TCGA-06-2563	Targeted Molecular therapy	R04929097		885	931	NO
+2661	TCGA-06-2565	Targeted Molecular therapy	Bevacizumab		193	406	NO
+2671	TCGA-06-5408	Targeted Molecular therapy	Avastin		154	337	NO
+2672	TCGA-06-5411	Targeted Molecular therapy	Avastin		213	235	NO
+2677	TCGA-06-5413	Targeted Molecular therapy	Avastin		261	NA	YES
+2684	TCGA-06-5858	Targeted Molecular therapy	Bevacizumab		196	NA	YES
+2691	TCGA-06-6388	Targeted Molecular therapy	Bevacizumab		120	120	NO
+2700	TCGA-06-6697	Targeted Molecular therapy	Bevacozimab		359	NA	YES
+2708	TCGA-06-6700	Targeted Molecular therapy	Vandetanib		22	77	NO
+2723	TCGA-08-0244	Targeted Molecular therapy	Thalidomide		34	483	NO
+2736	TCGA-08-0348	Targeted Molecular therapy	Tamoxifen		215	287	NO
+2739	TCGA-08-0348	Targeted Molecular therapy	Thalidomide		28	136	
+2740	TCGA-08-0349	Targeted Molecular therapy	Thalidomide		38	93	NO
+2745	TCGA-08-0350	Targeted Molecular therapy	Tarceva		678	838	NO
+2746	TCGA-08-0351	Targeted Molecular therapy	Thalidomide		72	581	NO
+2749	TCGA-08-0351	Targeted Molecular therapy	Thalidomide		1594	NA	NO
+2753	TCGA-08-0354	Targeted Molecular therapy	Tarceva		261	320	NO
+2758	TCGA-08-0355	Targeted Molecular therapy	Thalomid		531	572	
+2759	TCGA-08-0355	Targeted Molecular therapy	Enzastaurin		638	671	
+2763	TCGA-08-0355	Targeted Molecular therapy	Tamoxifen		573	607	
+2767	TCGA-08-0357	Targeted Molecular therapy	Rapamycin		736	860	NO
+2769	TCGA-08-0357	Targeted Molecular therapy	Thalidomide		93	136	NO
+2770	TCGA-08-0357	Targeted Molecular therapy	Gleevac		689	733	NO
+2775	TCGA-08-0357	Targeted Molecular therapy	Cytoxan		1097	1112	YES
+2777	TCGA-08-0357	Targeted Molecular therapy	Sorafenib		1007	1084	NO
+2778	TCGA-08-0357	Targeted Molecular therapy	Irinotecan		471	688	YES
+2779	TCGA-08-0357	Targeted Molecular therapy	Tarveca		1007	1084	
+2780	TCGA-08-0357	Targeted Molecular therapy	Avastin		471	688	NO
+2786	TCGA-08-0358	Targeted Molecular therapy	Tarceva		33	75	
+2787	TCGA-08-0358	Targeted Molecular therapy	Tarceva		91	264	
+2789	TCGA-08-0380	Targeted Molecular therapy			275	330	
+2793	TCGA-08-0380	Targeted Molecular therapy	Marimastat		NA	NA	YES
+2794	TCGA-08-0386	Targeted Molecular therapy	Tarceva		94	106	NO
+2796	TCGA-08-0386	Targeted Molecular therapy	Tarceva		29	76	NO
+2800	TCGA-08-0389	Targeted Molecular therapy	EMD		39	NA	
+2805	TCGA-08-0510	Targeted Molecular therapy	Thalidomide		41	64	NO
+2817	TCGA-08-0522	Targeted Molecular therapy	LY317615		423	511	NO
+2819	TCGA-08-0524	Targeted Molecular therapy	Thalidomide		195	NA	
+2820	TCGA-08-0524	Targeted Molecular therapy	SCH63666		73	123	NO
+2821	TCGA-08-0524	Targeted Molecular therapy	Gleevec		138	189	
+2824	TCGA-08-0525	Targeted Molecular therapy	OS1-774		370	402	
+2831	TCGA-12-0615	Targeted Molecular therapy	Avastin		195	278	NO
+2833	TCGA-12-0615	Targeted Molecular therapy	Avastin		278	383	NO
+2838	TCGA-12-0616	Targeted Molecular therapy	Rad001		407	433	NO
+2840	TCGA-12-0616	Targeted Molecular therapy	Gleevac		407	433	NO
+2841	TCGA-12-0616	Targeted Molecular therapy	Avastin		260	348	NO
+2861	TCGA-12-0653	Targeted Molecular therapy	O6B6		281	283	NO
+2862	TCGA-12-0653	Targeted Molecular therapy	O6B6		281	283	NO
+2863	TCGA-12-0654	Targeted Molecular therapy	MAb I-131		44	216	NO
+2864	TCGA-12-0654	Targeted Molecular therapy	mu81c6		44	216	NO
+2869	TCGA-12-0656	Targeted Molecular therapy	MAb I-131		22	22	NO
+2873	TCGA-12-0656	Targeted Molecular therapy	mu81c6		22	22	NO
+2886	TCGA-12-0662	Targeted Molecular therapy	06GB		1133	1135	
+2887	TCGA-12-0662	Targeted Molecular therapy	06GB		1133	1135	
+2893	TCGA-12-0670	Targeted Molecular therapy	MAB I131		43	77	NO
+2905	TCGA-12-0670	Targeted Molecular therapy	ch81c6		43	77	NO
+2923	TCGA-12-0703	Targeted Molecular therapy	MAb I-131		13	125	NO
+2925	TCGA-12-0703	Targeted Molecular therapy	mu81c6		13	125	NO
+2932	TCGA-12-0772	Targeted Molecular therapy	Tarceva		1468	1526	NO
+2933	TCGA-12-0772	Targeted Molecular therapy	ARIAD AP23573		621	670	NO
+2940	TCGA-12-0772	Targeted Molecular therapy	Avastin		1468	1526	
+2941	TCGA-12-0772	Targeted Molecular therapy	Sirolimus		1468	1526	
+2942	TCGA-12-0772	Targeted Molecular therapy	Avastin		1529	1616	
+2943	TCGA-12-0772	Targeted Molecular therapy	Avastin		1307	1468	
+2956	TCGA-12-0773	Targeted Molecular therapy	MAb I-131		55	56	NO
+2958	TCGA-12-0773	Targeted Molecular therapy	MU81C6		55	56	
+2959	TCGA-12-0773	Targeted Molecular therapy	Avastin		1141	1274	
+2960	TCGA-12-0773	Targeted Molecular therapy	mu81c6		55	56	NO
+2966	TCGA-12-0776	Targeted Molecular therapy	Avastin		140	275	NO
+2970	TCGA-12-0778	Targeted Molecular therapy	Avastin		250	329	NO
+2971	TCGA-12-0778	Targeted Molecular therapy	Tarceva		355	385	
+2973	TCGA-12-0778	Targeted Molecular therapy	Rapamcyin		355	385	NO
+2976	TCGA-12-0778	Targeted Molecular therapy	Rapamycin		355	385	NO
+2978	TCGA-12-0780	Targeted Molecular therapy	Avastin		360	388	NO
+2979	TCGA-12-0780	Targeted Molecular therapy	Tarceva		393	434	NO
+2982	TCGA-12-0780	Targeted Molecular therapy	Avastin		111	350	NO
+2983	TCGA-12-0780	Targeted Molecular therapy	Rapamycin		393	434	
+2985	TCGA-12-0818	Targeted Molecular therapy	MAB I-131		26	47	NO
+2987	TCGA-12-0818	Targeted Molecular therapy	81c6		26	47	NO
+2994	TCGA-12-0819	Targeted Molecular therapy	mu81c6		6	180	NO
+2996	TCGA-12-0819	Targeted Molecular therapy	MAB I 131		6	180	NO
+2997	TCGA-12-0820	Targeted Molecular therapy	06-BG		-1	0	NO
+2999	TCGA-12-0820	Targeted Molecular therapy	06-BG		300	341	NO
+3010	TCGA-12-0822	Targeted Molecular therapy	SCH6636		625	652	NO
+3011	TCGA-12-0822	Targeted Molecular therapy	SCH66336		625	625	NO
+3013	TCGA-12-0822	Targeted Molecular therapy	O6BG		190	281	NO
+3019	TCGA-12-0827	Targeted Molecular therapy	81C6		34	76	NO
+3022	TCGA-12-0827	Targeted Molecular therapy	MABI131		34	76	NO
+3028	TCGA-12-0829	Targeted Molecular therapy	Avastin		474	571	NO
+3031	TCGA-12-0829	Targeted Molecular therapy	Avastin		572	599	NO
+3055	TCGA-12-1092	Targeted Molecular therapy	Tarceva		460	551	NO
+3056	TCGA-12-1092	Targeted Molecular therapy	Avastin		119	204	NO
+3061	TCGA-12-1092	Targeted Molecular therapy	Rapamycin		460	551	NO
+3070	TCGA-12-1094	Targeted Molecular therapy	Avastin		286	336	NO
+3076	TCGA-12-1095	Targeted Molecular therapy	Avastin		291	370	NO
+3077	TCGA-12-1095	Targeted Molecular therapy	Avastin		404	412	NO
+3079	TCGA-12-1095	Targeted Molecular therapy	Avastin		95	286	NO
+3080	TCGA-12-1096	Targeted Molecular therapy	Avastin		202	277	NO
+3085	TCGA-12-1097	Targeted Molecular therapy	AMG 102		177	343	NO
+3090	TCGA-12-1099	Targeted Molecular therapy	Avastin		62	104	NO
+3100	TCGA-12-1599	Targeted Molecular therapy	Avastin		621	671	NO
+3101	TCGA-12-1599	Targeted Molecular therapy	Sirolimus		406	433	NO
+3104	TCGA-12-1599	Targeted Molecular therapy	Gleevac		160	391	NO
+3106	TCGA-12-1599	Targeted Molecular therapy	Erlotinib		406	433	NO
+3107	TCGA-12-1599	Targeted Molecular therapy	Gleevac		96	127	NO
+3108	TCGA-12-1599	Targeted Molecular therapy	Avastin		438	602	NO
+3111	TCGA-12-1599	Targeted Molecular therapy	Avastin		675	727	NO
+3112	TCGA-12-1599	Targeted Molecular therapy	Avastin		438	602	NO
+3118	TCGA-12-3644	Targeted Molecular therapy	Avastin		1583	1611	NO
+3119	TCGA-12-3644	Targeted Molecular therapy	Avastin		1639	1722	NO
+3121	TCGA-12-3644	Targeted Molecular therapy	Accutane		1611	1639	NO
+3123	TCGA-12-3644	Targeted Molecular therapy	Rapamycin		1583	1611	NO
+3124	TCGA-12-3644	Targeted Molecular therapy	06BG		1150	1154	NO
+3128	TCGA-12-3644	Targeted Molecular therapy	Acctuane		1639	1722	NO
+3129	TCGA-12-3644	Targeted Molecular therapy	Rapamycin		891	1030	NO
+3130	TCGA-12-3644	Targeted Molecular therapy	Tarceva		1611	1639	NO
+3131	TCGA-12-3644	Targeted Molecular therapy	Avastin		1765	1806	NO
+3132	TCGA-12-3644	Targeted Molecular therapy	Avastin		1611	1639	NO
+3134	TCGA-12-3644	Targeted Molecular therapy	Avastin		1194	1583	NO
+3135	TCGA-12-3644	Targeted Molecular therapy	Tarceva		1583	1611	NO
+3138	TCGA-12-3644	Targeted Molecular therapy	06BG		1150	1154	NO
+3141	TCGA-12-3644	Targeted Molecular therapy	Tarceva		891	1030	NO
+3142	TCGA-12-3644	Targeted Molecular therapy	Rapamycin		1611	1639	NO
+3144	TCGA-12-3644	Targeted Molecular therapy	Chloroquine		1639	1722	NO
+3149	TCGA-12-3646	Targeted Molecular therapy	Avastin		248	334	NO
+3157	TCGA-12-3648	Targeted Molecular therapy	Avastin		738	784	NO
+3159	TCGA-12-3648	Targeted Molecular therapy	Avastin		508	731	NO
+3162	TCGA-12-3649	Targeted Molecular therapy	Avastin		186	240	NO
+3164	TCGA-12-3649	Targeted Molecular therapy	Avastin		240	347	NO
+3166	TCGA-12-3649	Targeted Molecular therapy	Avastin		NA	NA	NO
+3171	TCGA-12-3650	Targeted Molecular therapy	Avastin		239	307	NO
+3172	TCGA-12-3650	Targeted Molecular therapy	Avastin		91	148	NO
+3174	TCGA-12-3650	Targeted Molecular therapy	Avastin		26	72	NO
+3175	TCGA-12-3650	Targeted Molecular therapy	Tarceva		239	307	NO
+3176	TCGA-12-3650	Targeted Molecular therapy	Avastin		148	239	NO
+3177	TCGA-12-3650	Targeted Molecular therapy	Avastin		307	333	NO
+3182	TCGA-12-3651	Targeted Molecular therapy	Avastin		43	85	NO
+3186	TCGA-12-3651	Targeted Molecular therapy	Avastin		221	358	NO
+3190	TCGA-12-3652	Targeted Molecular therapy	Hydroxurea		750	792	NO
+3192	TCGA-12-3652	Targeted Molecular therapy	Gleevac		750	792	NO
+3193	TCGA-12-3652	Targeted Molecular therapy	Hydroxurea		585	750	NO
+3195	TCGA-12-3652	Targeted Molecular therapy	Gleevac		585	750	NO
+3199	TCGA-12-3653	Targeted Molecular therapy	Avastin		316	371	NO
+3200	TCGA-12-3653	Targeted Molecular therapy	Angiocept		287	315	NO
+3204	TCGA-12-5295	Targeted Molecular therapy	Avastin		277	323	NO
+3205	TCGA-12-5295	Targeted Molecular therapy	Avastin		88	277	NO
+3207	TCGA-12-5299	Targeted Molecular therapy	Avastin		45	73	NO
+3232	TCGA-14-0787	Targeted Molecular therapy			NA	NA	NO
+3257	TCGA-14-1037	Targeted Molecular therapy	PS 341		346	433	NO
+3265	TCGA-14-1402	Targeted Molecular therapy	Avastin		659	832	NO
+3270	TCGA-14-1402	Targeted Molecular therapy	Sovatenib		619	633	NO
+3275	TCGA-14-1450	Targeted Molecular therapy	Avastin		1024	1233	NO
+3280	TCGA-14-1451	Targeted Molecular therapy	Erlotinib		382	504	NO
+3302	TCGA-14-1456	Targeted Molecular therapy	Tarceva		102	549	NO
+3305	TCGA-14-1456	Targeted Molecular therapy	Avastin		1129	1246	YES
+3306	TCGA-14-1456	Targeted Molecular therapy	Avastin		102	1128	NO
+3309	TCGA-14-1458	Targeted Molecular therapy	Avastin		89	162	NO
+3324	TCGA-14-1823	Targeted Molecular therapy	Avastin		378	478	NO
+3338	TCGA-14-3477	Targeted Molecular therapy	Avastin		56	70	NO
+3345	TCGA-15-0742	Targeted Molecular therapy	SAHA		259	300	NO
+3431	TCGA-26-1438	Targeted Molecular therapy	Recentin Placebo AXDX2171		221	264	NO
+3454	TCGA-26-A7UX	Targeted Molecular therapy	Avastin	Stable Disease	511	NA	YES
+3558	TCGA-28-2506	Targeted Molecular therapy	BIBW 2992		177	NA	YES
+3560	TCGA-28-2509	Targeted Molecular therapy	Cilenaitide		26	NA	YES
+3563	TCGA-28-2513	Targeted Molecular therapy	Avastin		44	NA	YES
+3641	TCGA-32-2494	Targeted Molecular therapy	Avastin		488	550	NO
+3642	TCGA-32-2494	Targeted Molecular therapy	Avastin		620	620	NO
+3650	TCGA-32-2615	Targeted Molecular therapy	Bevacizumab Avastin		301	NA	YES
+3654	TCGA-32-2615	Targeted Molecular therapy	Avastin		301	NA	YES
+3659	TCGA-32-2616	Targeted Molecular therapy	Motexatin Gadoinium		30	51	NO
+3664	TCGA-32-2638	Targeted Molecular therapy	Bevacizumab or placebo RTOG 0825		49	133	NO
+3671	TCGA-32-4209	Targeted Molecular therapy	Avastin		503	553	NO
+3679	TCGA-32-4213	Targeted Molecular therapy	Avastin		561	NA	YES
+3685	TCGA-41-2572	Targeted Molecular therapy	Temodar		34	76	NO
+3687	TCGA-41-2573	Targeted Molecular therapy	Avastin		171	NA	YES
+3688	TCGA-41-2573	Targeted Molecular therapy	BSI-201		127	142	NO
+3691	TCGA-41-2575	Targeted Molecular therapy	Avastin		166	166	NO
+3699	TCGA-41-5651	Targeted Molecular therapy	Avastin		345	NA	YES
+3700	TCGA-41-5651	Targeted Molecular therapy	Avastin		359	387	NO
+3706	TCGA-74-6575	Targeted Molecular therapy	Avastin		498	NA	YES
+3707	TCGA-74-6575	Targeted Molecular therapy	Avastin		152	498	NO
+3711	TCGA-74-6577	Targeted Molecular therapy	Avastin		132	NA	YES
+3713	TCGA-74-6578	Targeted Molecular therapy	Avastin		222	NA	YES
+3717	TCGA-74-6584	Targeted Molecular therapy	Avastin		98	NA	YES
+3904	TCGA-AX-A06D	Targeted Molecular therapy	VEGF-TRAP		293	293	NO
+3905	TCGA-AX-A06D	Targeted Molecular therapy	VEGF-TRAP		293	293	NO
+3999	TCGA-B5-A11X	Targeted Molecular therapy	Temsirolimus		86	258	NO
+4005	TCGA-B5-A1MS	Targeted Molecular therapy	Bevacizumab		2419	2566	NO
+4017	TCGA-B5-A3FD	Targeted Molecular therapy	Bevacizumab		561	NA	YES
+4280	TCGA-A6-2671	Targeted Molecular therapy	Avastin		96	270	NO
+4284	TCGA-A6-2671	Targeted Molecular therapy	Avastin		551	NA	YES
+4289	TCGA-A6-2671	Targeted Molecular therapy	Avastin		551	739	NO
+4294	TCGA-A6-2671	Targeted Molecular therapy	Avastin	Clinical Progressive Disease	844	984	NO
+4296	TCGA-A6-2671	Targeted Molecular therapy	Erbitux	Clinical Progressive Disease	1041	1091	NO
+4297	TCGA-A6-2674	Targeted Molecular therapy	Avastin		90	237	NO
+4305	TCGA-A6-2674	Targeted Molecular therapy	Bevacizumab		761	944	NO
+4342	TCGA-A6-2683	Targeted Molecular therapy	Avastin		105	287	NO
+4348	TCGA-A6-2683	Targeted Molecular therapy	Avastin		322	350	NO
+4366	TCGA-A6-5662	Targeted Molecular therapy	Bevacizumab		60	395	NO
+4375	TCGA-A6-5664	Targeted Molecular therapy	Bevacizumab		301	NA	YES
+4378	TCGA-A6-5664	Targeted Molecular therapy	Bevacizumab		231	259	NO
+4381	TCGA-A6-5664	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	301	391	NO
+4419	TCGA-A6-6652	Targeted Molecular therapy	Cetuximab		86	NA	YES
+4443	TCGA-A6-A56B	Targeted Molecular therapy	Cetuximab	Complete Response	82	243	NO
+4453	TCGA-AA-3494	Targeted Molecular therapy	Cetuximab	Stable Disease	792	1065	NO
+4458	TCGA-AA-3517	Targeted Molecular therapy	Bevacizumab	Complete Response	821	1127	NO
+4484	TCGA-AA-3679	Targeted Molecular therapy	Bevacizumab		61	NA	YES
+4494	TCGA-AA-3692	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	31	669	NO
+4495	TCGA-AA-3692	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	31	669	NO
+4496	TCGA-AA-3692	Targeted Molecular therapy	Cetuximab	Clinical Progressive Disease	883	883	NO
+4497	TCGA-AA-3692	Targeted Molecular therapy	Cetuximab	Clinical Progressive Disease	883	883	NO
+4514	TCGA-AA-3844	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	393	393	NO
+4515	TCGA-AA-3844	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	393	393	NO
+4526	TCGA-AA-3869	Targeted Molecular therapy	Bevacizumab	Partial Response	365	580	NO
+4527	TCGA-AA-3869	Targeted Molecular therapy	Cetuximab	Partial Response	608	761	NO
+4553	TCGA-AA-3972	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	1246	1369	NO
+4554	TCGA-AA-3972	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	1246	1369	NO
+4558	TCGA-AA-3973	Targeted Molecular therapy	Bevacizumab	Stable Disease	NA	305	NO
+4583	TCGA-AA-A01D	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	214	273	NO
+4584	TCGA-AA-A01D	Targeted Molecular therapy	Panitumumab	Clinical Progressive Disease	273	304	NO
+4600	TCGA-AA-A02F	Targeted Molecular therapy	Bevacizumab	Partial Response	59	1096	NO
+4604	TCGA-AA-A02K	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	31	275	NO
+4779	TCGA-F4-6806	Targeted Molecular therapy	Bevacizumab		1161	NA	YES
+5009	TCGA-44-2665	Targeted Molecular therapy	Bevacizumab		77	308	NO
+5174	TCGA-55-8205	Targeted Molecular therapy	Tarceva		488	NA	YES
+5175	TCGA-55-8205	Targeted Molecular therapy	Tarceva		488	NA	YES
+5202	TCGA-62-A46S	Targeted Molecular therapy	Tarceva		78	198	NO
+5203	TCGA-62-A46S	Targeted Molecular therapy	Placebo		78	198	NO
+5275	TCGA-73-4659	Targeted Molecular therapy	Erlotonib		312	406	NO
+5326	TCGA-78-7145	Targeted Molecular therapy	Gefitinib		605	685	NO
+5369	TCGA-86-8075	Targeted Molecular therapy	Gefitinib		388	NA	YES
+5374	TCGA-86-8278	Targeted Molecular therapy	Gefitinib		178	NA	YES
+5420	TCGA-97-8171	Targeted Molecular therapy	Tarceva		16	NA	YES
+5432	TCGA-97-8177	Targeted Molecular therapy	Tarceva		205	NA	YES
+5457	TCGA-J2-8194	Targeted Molecular therapy	Erlotinib		663	NA	YES
+5458	TCGA-J2-8194	Targeted Molecular therapy	Erlotinib		663	NA	YES
+5805	TCGA-DB-5276	Targeted Molecular therapy	Gleevec		1011	1189	NO
+5806	TCGA-DB-5276	Targeted Molecular therapy	Gleevec		1196	1342	NO
+5826	TCGA-DH-5140	Targeted Molecular therapy	AT 101		385	NA	NO
+5847	TCGA-DU-5847	Targeted Molecular therapy	Bevacizumab		84	265	NO
+5857	TCGA-DU-5854	Targeted Molecular therapy	Bevacizumab		292	NA	YES
+5867	TCGA-DU-5872	Targeted Molecular therapy	Bevacizumab		328	370	NO
+5878	TCGA-DU-6396	Targeted Molecular therapy	Isotretinoin		1823	1946	NO
+5895	TCGA-DU-6404	Targeted Molecular therapy	Bevacizumab		2731	3060	NO
+5898	TCGA-DU-6404	Targeted Molecular therapy	Bevacizumab		3154	3185	NO
+5902	TCGA-DU-6404	Targeted Molecular therapy	Bevacizumab		3227	3581	NO
+5903	TCGA-DU-6404	Targeted Molecular therapy	Bevacizumab		2360	2714	NO
+5904	TCGA-DU-6404	Targeted Molecular therapy	Bevacizumab		4066	4066	NO
+5933	TCGA-DU-7015	Targeted Molecular therapy	Bevacizumab		930	NA	YES
+5945	TCGA-DU-7299	Targeted Molecular therapy	Bevacizumab		721	1016	NO
+5953	TCGA-DU-7300	Targeted Molecular therapy	Bevacizumab		1086	NA	NO
+5954	TCGA-DU-7300	Targeted Molecular therapy	Bevacizumab		1086	NA	NO
+5963	TCGA-DU-7301	Targeted Molecular therapy	Bevacizumab		379	629	NO
+5964	TCGA-DU-7302	Targeted Molecular therapy	Bevacizumab		1691	NA	YES
+5967	TCGA-DU-7304	Targeted Molecular therapy	Bevacizumab		363	623	NO
+5979	TCGA-DU-8161	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	162	638	NO
+6005	TCGA-DU-A5TY	Targeted Molecular therapy	bevacizumab	Clinical Progressive Disease	872	914	NO
+6017	TCGA-DU-A76L	Targeted Molecular therapy	Cilengtide	Clinical Progressive Disease	651	732	NO
+6028	TCGA-DU-A7T8	Targeted Molecular therapy	bevacizumab	Clinical Progressive Disease	4001	4194	NO
+6072	TCGA-E1-5305	Targeted Molecular therapy	Gleevec		1636	1825	NO
+6075	TCGA-E1-5305	Targeted Molecular therapy	Avastin		2128	2241	NO
+6125	TCGA-E1-A7YE	Targeted Molecular therapy	Benzylguanine	Clinical Progressive Disease	704	731	NO
+6280	TCGA-HT-7480	Targeted Molecular therapy	Avastin		2189	NA	YES
+6323	TCGA-HT-8013	Targeted Molecular therapy	Avastin	Clinical Progressive Disease	1610	1693	NO
+6328	TCGA-HT-8564	Targeted Molecular therapy	Avastin	Complete Response	184	NA	
+6367	TCGA-IK-7675	Targeted Molecular therapy	Bevacizumab		NA	510	NO
+6411	TCGA-S9-A6TS	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	1704	1859	NO
+6418	TCGA-S9-A6U0	Targeted Molecular therapy	Bevacizumab		698	NA	YES
+6422	TCGA-S9-A6U8	Targeted Molecular therapy	Bevacizumab		2832	2988	NO
+6430	TCGA-S9-A6WM	Targeted Molecular therapy	Bevacizumab		524	NA	YES
+6432	TCGA-S9-A6WN	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	425	805	NO
+6435	TCGA-S9-A6WN	Targeted Molecular therapy	Pembrolizumab		846	NA	YES
+6439	TCGA-S9-A7IX	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	350	413	NO
+6449	TCGA-S9-A7J0	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	490	609	NO
+6734	TCGA-CG-5725	Targeted Molecular therapy	Cetuximab	Clinical Progressive Disease	NA	NA	NO
+6985	TCGA-CC-A8HV	Targeted Molecular therapy	Nexavar	Clinical Progressive Disease	158	188	NO
+7009	TCGA-EP-A2KA	Targeted Molecular therapy	Sorafenib		312	NA	YES
+7017	TCGA-G3-A3CG	Targeted Molecular therapy	Sorafenib	Stable Disease	367	577	NO
+7018	TCGA-G3-A3CG	Targeted Molecular therapy	Sorafenib	Stable Disease	367	577	NO
+7020	TCGA-G3-A3CJ	Targeted Molecular therapy	Sorafenib	Clinical Progressive Disease	346	367	NO
+7028	TCGA-UB-A7MA	Targeted Molecular therapy	temsirolimus		485	NA	YES
+7029	TCGA-UB-A7MA	Targeted Molecular therapy	sorafenib		485	NA	YES
+7030	TCGA-UB-A7MB	Targeted Molecular therapy	sorafenib	Clinical Progressive Disease	123	168	NO
+7031	TCGA-UB-A7MB	Targeted Molecular therapy		Stable Disease	187	382	NO
+7034	TCGA-UB-A7MB	Targeted Molecular therapy			525	NA	YES
+7035	TCGA-WX-AA44	Targeted Molecular therapy	SORAFENIB	Partial Response	306	375	NO
+7345	TCGA-CN-6996	Targeted Molecular therapy	xeloda	Clinical Progressive Disease	378	378	NO
+7346	TCGA-CN-6996	Targeted Molecular therapy	Vorinostat	Clinical Progressive Disease	378	378	NO
+7562	TCGA-IQ-7630	Targeted Molecular therapy	Cetuximab	Complete Response	102	147	NO
+7577	TCGA-MZ-A6I9	Targeted Molecular therapy	rigosertib	Clinical Progressive Disease	365	421	NO
+7582	TCGA-MZ-A7D7	Targeted Molecular therapy	Cetuximab		526	NA	YES
+7602	TCGA-QK-A6IH	Targeted Molecular therapy	Erbitux	Stable Disease	NA	396	NO
+7606	TCGA-QK-A6II	Targeted Molecular therapy	Erbitux	Clinical Progressive Disease	183	183	NO
+7622	TCGA-T2-A6WZ	Targeted Molecular therapy	px-866	Stable Disease	247	303	NO
+7633	TCGA-A3-3317	Targeted Molecular therapy	Sorafenib		605	886	NO
+7635	TCGA-A3-3347	Targeted Molecular therapy	Perifosine		1097	NA	NO
+7636	TCGA-A3-3347	Targeted Molecular therapy	Sorafenib		NA	NA	NO
+7661	TCGA-BP-4161	Targeted Molecular therapy	Sunitinib		2752	NA	
+7662	TCGA-BP-4165	Targeted Molecular therapy	Sunitinib		2594	NA	YES
+7664	TCGA-BP-4169	Targeted Molecular therapy	Axitinib		127	253	NO
+7666	TCGA-BP-4329	Targeted Molecular therapy	Temsirolimus		204	510	NO
+7669	TCGA-BP-4338	Targeted Molecular therapy	Sorafenib		2460	2572	NO
+7670	TCGA-BP-4338	Targeted Molecular therapy	Sunitinib		1765	2450	NO
+7672	TCGA-BP-4352	Targeted Molecular therapy	Sunitinib		35	59	NO
+7673	TCGA-BP-4354	Targeted Molecular therapy	Temsirolimus		721	NA	YES
+7674	TCGA-BP-4354	Targeted Molecular therapy	Sunitinib		10	454	NO
+7675	TCGA-BP-4354	Targeted Molecular therapy	Sorafenib		595	NA	NO
+7676	TCGA-BP-4354	Targeted Molecular therapy	Sunitinib		490	525	NO
+7677	TCGA-BP-4354	Targeted Molecular therapy	Sorafenib		583	589	NO
+7678	TCGA-BP-4354	Targeted Molecular therapy	Gefitinib		10	454	NO
+7680	TCGA-BP-4787	Targeted Molecular therapy	Sorafenib		361	388	NO
+7682	TCGA-BP-4787	Targeted Molecular therapy	Sunitinib		53	333	NO
+7683	TCGA-BP-4804	Targeted Molecular therapy	Sunitinib		1373	NA	YES
+7684	TCGA-BP-4804	Targeted Molecular therapy	Sunitinib		1289	1359	NO
+7685	TCGA-BP-4974	Targeted Molecular therapy	Sunitinib		56	58	NO
+7686	TCGA-BP-4974	Targeted Molecular therapy	Sunitinib		75	155	NO
+7687	TCGA-BP-4974	Targeted Molecular therapy	Sorafenib		178	NA	NO
+7688	TCGA-BP-4974	Targeted Molecular therapy	Gefitinib		56	59	NO
+7689	TCGA-BP-4985	Targeted Molecular therapy	Sunitinib		307	728	NO
+7692	TCGA-BP-5009	Targeted Molecular therapy	Pazopanib		1029	NA	NO
+7693	TCGA-BP-5009	Targeted Molecular therapy	Pazopanib		1029	NA	NO
+7698	TCGA-BP-5178	Targeted Molecular therapy	Sorafenib		407	772	NO
+7699	TCGA-BP-5178	Targeted Molecular therapy	Sorafenib		407	772	NO
+7700	TCGA-BP-5189	Targeted Molecular therapy	Temsirolimus		661	773	NO
+7701	TCGA-BP-5189	Targeted Molecular therapy	Temsirolimus		661	773	NO
+7707	TCGA-CJ-4637	Targeted Molecular therapy	Bortezomib		1476	1742	NO
+7708	TCGA-CJ-4637	Targeted Molecular therapy	Sorafenib		849	861	NO
+7709	TCGA-CJ-4637	Targeted Molecular therapy	Avastin		1868	1883	NO
+7710	TCGA-CJ-4637	Targeted Molecular therapy	nab-rapamycin		1213	1468	NO
+7711	TCGA-CJ-4637	Targeted Molecular therapy	AZD		1868	1888	NO
+7713	TCGA-CJ-4637	Targeted Molecular therapy	Pazopanib		1962	2053	NO
+7722	TCGA-CJ-4644	Targeted Molecular therapy	Tarceva		229	316	NO
+7723	TCGA-CJ-4644	Targeted Molecular therapy	Avastin		229	316	NO
+7727	TCGA-CJ-4868	Targeted Molecular therapy	Nexavar		379	534	NO
+7729	TCGA-CJ-4868	Targeted Molecular therapy	Avastin		135	282	NO
+7731	TCGA-CJ-4868	Targeted Molecular therapy	Tarceva		114	288	NO
+7733	TCGA-CJ-4869	Targeted Molecular therapy	Sutent		881	1963	NO
+7735	TCGA-CJ-4875	Targeted Molecular therapy	Nexavar		1083	NA	YES
+7736	TCGA-CJ-4881	Targeted Molecular therapy	temsirolimus		1931	NA	YES
+7738	TCGA-CJ-4888	Targeted Molecular therapy	sutent		576	1456	NO
+7740	TCGA-CJ-4890	Targeted Molecular therapy	Nexavar		1483	1636	NO
+7741	TCGA-CJ-4890	Targeted Molecular therapy	Tipifarnib		263	444	NO
+7742	TCGA-CJ-4890	Targeted Molecular therapy	Sutent		480	1483	NO
+7743	TCGA-CJ-4890	Targeted Molecular therapy	Sorafenib		263	444	NO
+7744	TCGA-CJ-4890	Targeted Molecular therapy	Afinitor		1636	1698	NO
+7747	TCGA-CJ-4895	Targeted Molecular therapy	Tarceva		45	228	NO
+7749	TCGA-CJ-4895	Targeted Molecular therapy	Avastin		45	559	NO
+7751	TCGA-CJ-4900	Targeted Molecular therapy	Tarceva		-92	0	NO
+7752	TCGA-CJ-4900	Targeted Molecular therapy	Avastin		-92	0	NO
+7753	TCGA-CJ-4904	Targeted Molecular therapy	Nexavar		295	463	NO
+7754	TCGA-CJ-4904	Targeted Molecular therapy	Nexavar		295	463	NO
+7755	TCGA-CJ-4913	Targeted Molecular therapy	Sutent		861	1020	NO
+7758	TCGA-CJ-5676	Targeted Molecular therapy	pazopanib		2227	NA	YES
+7766	TCGA-CJ-5679	Targeted Molecular therapy	avastin		344	547	NO
+7771	TCGA-CJ-5680	Targeted Molecular therapy	avastin		275	616	NO
+7772	TCGA-CJ-5680	Targeted Molecular therapy	Tarceva		466	629	NO
+7774	TCGA-CJ-5681	Targeted Molecular therapy	avastin		235	318	NO
+7775	TCGA-CJ-5681	Targeted Molecular therapy	RAD001		305	365	NO
+7781	TCGA-CJ-6028	Targeted Molecular therapy	Sorafenib		1033	1625	NO
+7783	TCGA-CJ-6028	Targeted Molecular therapy	Sunitinib		903	1033	NO
+7785	TCGA-CJ-6033	Targeted Molecular therapy	Avastin		81	144	NO
+7788	TCGA-CJ-6033	Targeted Molecular therapy	Iressa		74	144	NO
+7790	TCGA-CW-5585	Targeted Molecular therapy	Sutent (Sunitinib)		2563	NA	
+7796	TCGA-CZ-4860	Targeted Molecular therapy	sorafenib		53	132	NO
+7797	TCGA-CZ-4861	Targeted Molecular therapy	Sorafenib - Nexavar		-43	32	NO
+7798	TCGA-CZ-5454	Targeted Molecular therapy	sutent (sunitinib)		37	324	NO
+7799	TCGA-CZ-5456	Targeted Molecular therapy	Pazopanib		1124	1286	NO
+7801	TCGA-CZ-5461	Targeted Molecular therapy	sunitinib (sutent)		45	278	NO
+7803	TCGA-CZ-5464	Targeted Molecular therapy	sunitinib		52	571	NO
+7804	TCGA-CZ-5464	Targeted Molecular therapy	Pazopanib		1407	1730	NO
+7805	TCGA-CZ-5469	Targeted Molecular therapy	sunitinib		223	597	NO
+7806	TCGA-DV-5565	Targeted Molecular therapy	ZD6474		1189	NA	YES
+7807	TCGA-DV-5565	Targeted Molecular therapy	ZD6474		1189	NA	YES
+7808	TCGA-DV-A4VX	Targeted Molecular therapy	Sunitinib	Stable Disease	56	482	NO
+7809	TCGA-DV-A4VX	Targeted Molecular therapy	Sorafenib	Clinical Progressive Disease	482	1503	NO
+7810	TCGA-G6-A5PC	Targeted Molecular therapy	Sutent	Clinical Progressive Disease	62	208	NO
+7852	TCGA-DA-A3F5	Targeted Molecular therapy	Vemurafenib	Clinical Progressive Disease	6830	6869	NO
+7903	TCGA-EE-A29C	Targeted Molecular therapy	GSK Braf Inhibitor	Clinical Progressive Disease	1114	1502	NO
+7905	TCGA-EE-A29C	Targeted Molecular therapy	Dabrafenib	Clinical Progressive Disease	2262	2413	NO
+7906	TCGA-EE-A29C	Targeted Molecular therapy	Trametinib	Clinical Progressive Disease	2262	2413	NO
+7909	TCGA-EE-A29H	Targeted Molecular therapy	Vemurafenib		1294	NA	YES
+7911	TCGA-EE-A29T	Targeted Molecular therapy	Vemurafenib		11015	NA	YES
+7921	TCGA-EE-A2GS	Targeted Molecular therapy	Dabrafenib	Clinical Progressive Disease	1596	1978	NO
+7923	TCGA-EE-A2GS	Targeted Molecular therapy		Clinical Progressive Disease	2127	NA	NO
+7924	TCGA-EE-A2GS	Targeted Molecular therapy		Clinical Progressive Disease	2257	2354	NO
+7925	TCGA-EE-A2GS	Targeted Molecular therapy	Vemurafenib	Clinical Progressive Disease	2372	NA	NO
+7942	TCGA-EE-A3AD	Targeted Molecular therapy	BRAF inhibitor	Clinical Progressive Disease	632	NA	NO
+7945	TCGA-EE-A3AG	Targeted Molecular therapy		Clinical Progressive Disease	741	NA	NO
+7946	TCGA-EE-A3AG	Targeted Molecular therapy		Clinical Progressive Disease	741	NA	NO
+7991	TCGA-FS-A1ZE	Targeted Molecular therapy	Angiocal	Clinical Progressive Disease	896	1034	NO
+8052	TCGA-W3-AA1Q	Targeted Molecular therapy	Herceptin	Clinical Progressive Disease	1735	NA	NO
+8073	TCGA-WE-A8ZQ	Targeted Molecular therapy	Dabrafenib		1853	NA	YES
+8086	TCGA-Z2-A8RT	Targeted Molecular therapy			722	NA	YES
+8087	TCGA-Z2-AA3V	Targeted Molecular therapy			228	NA	YES
+8117	TCGA-A1-A0SN	Targeted Molecular therapy	herceptin		179	879	NO
+8164	TCGA-A2-A04W	Targeted Molecular therapy	Herceptin		198	352	NO
+8168	TCGA-A2-A04X	Targeted Molecular therapy	HERCEPTIN		133	383	NO
+8173	TCGA-A2-A04Y	Targeted Molecular therapy	Herceptin		149	659	NO
+8174	TCGA-A2-A04Y	Targeted Molecular therapy	Herceptin		149	659	NO
+8238	TCGA-A2-A0CX	Targeted Molecular therapy	Herceptin		162	367	NO
+8258	TCGA-A2-A0D1	Targeted Molecular therapy	Herceptin		79	428	NO
+8265	TCGA-A2-A0D3	Targeted Molecular therapy	Herceptin		69	196	NO
+8282	TCGA-A2-A0EQ	Targeted Molecular therapy	Herceptin		229	586	NO
+8316	TCGA-A2-A0EY	Targeted Molecular therapy	Lapatinib		183	NA	YES
+8318	TCGA-A2-A0EY	Targeted Molecular therapy	Herceptin		183	NA	YES
+8339	TCGA-A2-A0SY	Targeted Molecular therapy	Herceptin		NA	NA	NO
+8346	TCGA-A2-A0T1	Targeted Molecular therapy	Herceptin		46	NA	YES
+8379	TCGA-A2-A0YG	Targeted Molecular therapy	Herceptin		152	NA	YES
+8478	TCGA-A2-A3XV	Targeted Molecular therapy	Trastuzumab	Complete Response	62	428	NO
+8498	TCGA-A2-A3XZ	Targeted Molecular therapy	Trastuzumab	Complete Response	97	423	NO
+8538	TCGA-A7-A13E	Targeted Molecular therapy	Bevacizumab		67	193	NO
+8581	TCGA-A7-A2KD	Targeted Molecular therapy	Herceptin	Complete Response	57	435	NO
+8582	TCGA-A7-A2KD	Targeted Molecular therapy	Herceptin	Complete Response	57	435	NO
+8623	TCGA-A7-A4SF	Targeted Molecular therapy	Trastuzumab	Complete Response	89	453	NO
+8689	TCGA-A8-A07I	Targeted Molecular therapy	Trastuzumab	Complete Response	183	334	NO
+8725	TCGA-A8-A08B	Targeted Molecular therapy	Trastuzumab	Complete Response	214	579	NO
+8754	TCGA-A8-A08O	Targeted Molecular therapy	Bevacizumab	Clinical Progressive Disease	60	335	NO
+8761	TCGA-A8-A08P	Targeted Molecular therapy	Trastuzumab	Complete Response	213	578	NO
+8767	TCGA-A8-A08X	Targeted Molecular therapy	Trastuzumab	Complete Response	182	1249	NO
+8895	TCGA-AC-A3W5	Targeted Molecular therapy	Herceptin	Complete Response	56	392	NO
+8896	TCGA-AC-A3W5	Targeted Molecular therapy	Herceptin	Complete Response	56	392	NO
+9012	TCGA-AO-A0JE	Targeted Molecular therapy	TRASTUZUMAB		119	462	NO
+9038	TCGA-AO-A0JL	Targeted Molecular therapy	TRASTUZUMAB		136	493	NO
+9042	TCGA-AO-A0JM	Targeted Molecular therapy	TRASTUZUMAB		134	498	NO
+9074	TCGA-AO-A12C	Targeted Molecular therapy	Trastuzumab		179	524	NO
+9076	TCGA-AO-A12D	Targeted Molecular therapy	Trastuzumab		170	503	NO
+9806	TCGA-E2-A10A	Targeted Molecular therapy	Zometa		148	NA	YES
+10634	TCGA-S3-AA14	Targeted Molecular therapy	TRASTUZUMAB		118	NA	YES
+10668	TCGA-04-1331	Targeted Molecular therapy	Velcade		481	498	NO
+10715	TCGA-04-1349	Targeted Molecular therapy	Avastin		NA	NA	NO
+10723	TCGA-04-1350	Targeted Molecular therapy	Tamoxifen		1580	NA	NO
+10726	TCGA-04-1350	Targeted Molecular therapy	Fuluestrant		1726	NA	NO
+10728	TCGA-04-1350	Targeted Molecular therapy	Aromasin		1622	NA	NO
+10731	TCGA-04-1350	Targeted Molecular therapy	Faslodex		1726	NA	NO
+10801	TCGA-04-1525	Targeted Molecular therapy	Irolfluvin		436	464	NO
+10918	TCGA-09-1662	Targeted Molecular therapy	Avastin		2566	2650	NO
+10920	TCGA-09-1662	Targeted Molecular therapy	Avastin		2503	2517	NO
+11044	TCGA-10-0931	Targeted Molecular therapy	Irressa		792	848	
+11110	TCGA-13-0764	Targeted Molecular therapy	Bevacizumab		76	160	NO
+11115	TCGA-13-0765	Targeted Molecular therapy	Bevacizumab		176	519	NO
+11116	TCGA-13-0765	Targeted Molecular therapy	Bevacizumab		71	155	NO
+11160	TCGA-13-0804	Targeted Molecular therapy	90Y-HU3S193		270	270	NO
+11204	TCGA-13-0901	Targeted Molecular therapy	Cetuximab		44	88	NO
+11209	TCGA-13-0903	Targeted Molecular therapy	Cetuximab		169	335	NO
+11210	TCGA-13-0903	Targeted Molecular therapy	Cetuximab		22	141	NO
+11240	TCGA-13-0916	Targeted Molecular therapy	Bevacizumab		70	182	
+11249	TCGA-13-0924	Targeted Molecular therapy	Bevacizumab or Placebo		60	143	
+11252	TCGA-13-0924	Targeted Molecular therapy	Bevacizumab or placebo		164	213	
+11316	TCGA-13-1495	Targeted Molecular therapy	Cetuximab		21	119	NO
+11319	TCGA-13-1495	Targeted Molecular therapy	Cetuximab		147	224	NO
+11325	TCGA-13-1497	Targeted Molecular therapy	Cetuximab		22	71	NO
+11610	TCGA-24-0966	Targeted Molecular therapy	Avastin/bevacizumab/placebo		71	120	
+11660	TCGA-24-1105	Targeted Molecular therapy	Avastin		1228	1298	NO
+11680	TCGA-24-1418	Targeted Molecular therapy	Bevacizamab/Placebo		43	231	NO
+11760	TCGA-24-1467	Targeted Molecular therapy	Bevacizumab		2819	2889	NO
+11769	TCGA-24-1467	Targeted Molecular therapy	Bevacizumab		2989	3059	NO
+11783	TCGA-24-1471	Targeted Molecular therapy	GOG 218		NA	NA	
+11985	TCGA-24-1842	Targeted Molecular therapy	Bevacizumiab/ versus Placebo		43	253	NO
+12036	TCGA-24-1927	Targeted Molecular therapy	SCH 58500		15	132	NO
+12155	TCGA-24-2280	Targeted Molecular therapy	Avastin		906	1025	NO
+12377	TCGA-29-1693	Targeted Molecular therapy	Bevacizumab		1668	1724	NO
+12379	TCGA-29-1693	Targeted Molecular therapy	Bevacizumab		3124	NA	YES
+12398	TCGA-29-1696	Targeted Molecular therapy	Bevacizumab		633	997	NO
+12408	TCGA-29-1697	Targeted Molecular therapy	Bevacizumab		927	927	NO
+12418	TCGA-29-1698	Targeted Molecular therapy	Avastin (Bevacizumab)		1524	1580	NO
+12435	TCGA-29-1703	Targeted Molecular therapy	Bevacizumab		743	946	NO
+12441	TCGA-29-1703	Targeted Molecular therapy	Amgen 706		1030	1314	NO
+12449	TCGA-29-1704	Targeted Molecular therapy	Bevacizumab		1566	1587	YES
+12455	TCGA-29-1705	Targeted Molecular therapy	Bevacizumab		287	356	NO
+12465	TCGA-29-1710	Targeted Molecular therapy	Bevacizumab		31	52	NO
+12468	TCGA-29-1710	Targeted Molecular therapy	CEP 11981		619	653	NO
+12472	TCGA-29-1711	Targeted Molecular therapy	Bevacizumab		30	234	NO
+12490	TCGA-29-1763	Targeted Molecular therapy	Bevacizumab		2049	2161	NO
+12499	TCGA-29-1764	Targeted Molecular therapy	Bevacizumab		1816	1973	NO
+12512	TCGA-29-1768	Targeted Molecular therapy	Bevacizumab or placebo		40	252	NO
+12527	TCGA-29-1770	Targeted Molecular therapy	Avastin		741	762	NO
+12530	TCGA-29-1771	Targeted Molecular therapy	Bevacizumab		602	728	NO
+12550	TCGA-29-1776	Targeted Molecular therapy	Bevacizumab		522	592	YES
+12564	TCGA-29-1783	Targeted Molecular therapy	Bevacizumab		52	430	NO
+12588	TCGA-29-2425	Targeted Molecular therapy	Bevacizumab		1584	1696	NO
+12602	TCGA-29-2431	Targeted Molecular therapy	Bevacizumab		33	390	NO
+12608	TCGA-29-2432	Targeted Molecular therapy	Bevacizumab		38	157	NO
+12683	TCGA-30-1860	Targeted Molecular therapy	Avastin		1191	1246	NO
+12702	TCGA-30-1869	Targeted Molecular therapy	Avastin		1132	1175	NO
+12713	TCGA-30-1880	Targeted Molecular therapy	Avastin		1660	1722	NO
+12730	TCGA-30-1891	Targeted Molecular therapy	Avastin		358	386	NO
+12811	TCGA-36-2530	Targeted Molecular therapy	Cediranib Placebo		639	982	NO
+12877	TCGA-42-2588	Targeted Molecular therapy	Avastin		343	399	NO
+13300	TCGA-NF-A4WX	Targeted Molecular therapy	Taxol	Complete Response	46	148	NO
+13322	TCGA-AL-A5DJ	Targeted Molecular therapy	Temsirolimus	Clinical Progressive Disease	355	475	NO
+13323	TCGA-AL-A5DJ	Targeted Molecular therapy	Temsirolimus	Clinical Progressive Disease	355	475	NO
+13327	TCGA-BQ-5878	Targeted Molecular therapy	Sorafenib		1086	NA	YES
+13328	TCGA-BQ-5879	Targeted Molecular therapy	Sunitinib		192	430	NO
+13330	TCGA-BQ-5879	Targeted Molecular therapy	Sunitinib		472	493	NO
+13331	TCGA-BQ-5879	Targeted Molecular therapy	Sorafenib		508	591	NO
+13334	TCGA-BQ-5889	Targeted Molecular therapy	Sunitinib		175	241	NO
+13335	TCGA-BQ-5889	Targeted Molecular therapy	Sorafenib		258	329	NO
+13338	TCGA-BQ-7048	Targeted Molecular therapy	Sunitinib		2042	2146	NO
+13341	TCGA-BQ-7048	Targeted Molecular therapy	Sunitinib		1880	2042	NO
+13344	TCGA-BQ-7056	Targeted Molecular therapy	Sunitinib		759	NA	
+13345	TCGA-BQ-7056	Targeted Molecular therapy	Sunitinib		759	NA	
+13348	TCGA-BQ-7058	Targeted Molecular therapy	Sorafenib		216	295	NO
+13349	TCGA-BQ-7058	Targeted Molecular therapy	Sorafenib		216	295	NO
+13350	TCGA-BQ-7058	Targeted Molecular therapy	Sorafenib		203	216	NO
+13351	TCGA-BQ-7058	Targeted Molecular therapy	Sorafenib		203	216	NO
+13356	TCGA-G7-A8LD	Targeted Molecular therapy	Afinitor	Stable Disease	424	446	NO
+13357	TCGA-G7-A8LD	Targeted Molecular therapy	Sutent	Clinical Progressive Disease	340	417	NO
+13371	TCGA-SX-A7SM	Targeted Molecular therapy	pazopanib	Partial Response	66	362	NO

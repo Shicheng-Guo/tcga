@@ -1,0 +1,349 @@
+	bcr_patient_barcode	therapy_types	drug_name	measure_of_response	days_to_drug_therapy_start	days_to_drug_therapy_end	therapy_ongoing
+188	TCGA-DC-6156	Immunotherapy	bevacizumab		395	NA	YES
+896	TCGA-3B-A9I1	Immunotherapy	Femara	Clinical Progressive Disease	437	500	NO
+994	TCGA-IE-A3OV	Immunotherapy	Enoticumab	Clinical Progressive Disease	1973	2037	NO
+1054	TCGA-SI-A71O	Immunotherapy	Avastin	Clinical Progressive Disease	350	462	NO
+1093	TCGA-OU-A5PI	Immunotherapy	Avastin	Stable Disease	725	878	NO
+1371	TCGA-BL-A0C8	Immunotherapy	BCG	Clinical Progressive Disease	680	722	NO
+1407	TCGA-CF-A47S	Immunotherapy	Bacillus Calmette-Guerin (BCG)	Complete Response	109	317	NO
+1480	TCGA-DK-AA77	Immunotherapy	Ipilimumab		601	NA	YES
+1481	TCGA-DK-AA77	Immunotherapy	Ipilimumab		601	NA	YES
+1482	TCGA-DK-AA77	Immunotherapy	Nivolumab		601	NA	YES
+1483	TCGA-DK-AA77	Immunotherapy	Nivolumab		601	NA	YES
+1688	TCGA-XF-A9SK	Immunotherapy	BCG, Intravesicular	Partial Response	NA	-368	NO
+1689	TCGA-XF-A9SK	Immunotherapy	BCG, Intravesicular	Partial Response	NA	-368	NO
+1696	TCGA-XF-A9SV	Immunotherapy	BCG	Clinical Progressive Disease	0	0	NO
+1697	TCGA-XF-A9SV	Immunotherapy	BCG	Clinical Progressive Disease	0	0	NO
+1742	TCGA-XF-AAMZ	Immunotherapy	BCG	Clinical Progressive Disease	0	0	NO
+1743	TCGA-XF-AAMZ	Immunotherapy	BCG	Clinical Progressive Disease	0	0	NO
+1761	TCGA-XF-AAN1	Immunotherapy	BCG	Partial Response	0	0	NO
+1762	TCGA-XF-AAN1	Immunotherapy	BCG	Partial Response	0	0	NO
+1763	TCGA-XF-AAN1	Immunotherapy	BCG	Clinical Progressive Disease	0	0	NO
+1764	TCGA-XF-AAN1	Immunotherapy	BCG	Clinical Progressive Disease	0	0	NO
+1798	TCGA-KL-8323	Immunotherapy	Lymphocyte Infusion		880	NA	NO
+1818	TCGA-UW-A7GR	Immunotherapy	Interferon	Partial Response	22	288	NO
+1819	TCGA-UW-A7GR	Immunotherapy	Interferon	Partial Response	22	288	NO
+2230	TCGA-4X-A9FA	Immunotherapy	azaTHIOprine		2	NA	YES
+2231	TCGA-4X-A9FD	Immunotherapy	azaTHIOprine		92	NA	YES
+2405	TCGA-06-0129	Immunotherapy	IL-13PE		183	238	NO
+2772	TCGA-08-0357	Immunotherapy	Interferon Alpha		736	860	NO
+2773	TCGA-08-0357	Immunotherapy	IL-13 Pseudomonas exotoxin		184	188	NO
+2782	TCGA-08-0358	Immunotherapy	IL-13 with Pseudomonas Exotoxin		288	293	
+2784	TCGA-08-0358	Immunotherapy	HSPPC-96 Vaccine		341	467	
+2788	TCGA-08-0360	Immunotherapy	IL-13 with Pseudomonas exotoxin		130	134	NO
+2798	TCGA-08-0386	Immunotherapy	HSPPC-96 Vaccine		113	125	NO
+2803	TCGA-08-0390	Immunotherapy	Tarceva		28	69	
+2804	TCGA-08-0390	Immunotherapy	Tarceva		105	132	
+2813	TCGA-08-0522	Immunotherapy	IL-13-PE38QQR Cytoxin		268	271	NO
+2827	TCGA-08-0529	Immunotherapy	IL-13 Pseudomonas exotoxin		349	353	NO
+2889	TCGA-12-0662	Immunotherapy	Celbrex		1113	1161	
+2890	TCGA-12-0662	Immunotherapy	Thalidomide		1073	1090	
+2898	TCGA-12-0670	Immunotherapy	Celebrex		722	770	NO
+2899	TCGA-12-0670	Immunotherapy	Celebrex		327	378	NO
+2900	TCGA-12-0670	Immunotherapy	Celebrex		407	448	NO
+2902	TCGA-12-0670	Immunotherapy	Celebrex		516	576	NO
+2904	TCGA-12-0670	Immunotherapy	Celebrex		448	516	NO
+2907	TCGA-12-0670	Immunotherapy	Celebrex		578	601	NO
+2908	TCGA-12-0670	Immunotherapy	Celebrex		601	722	NO
+3033	TCGA-12-0829	Immunotherapy	ATTAC		115	473	NO
+3064	TCGA-12-1093	Immunotherapy	ATTAC		126	317	
+3073	TCGA-12-1094	Immunotherapy	ACT PEP3 KLH		104	215	NO
+3160	TCGA-12-3648	Immunotherapy	PEP3 KLH		83	452	NO
+3163	TCGA-12-3649	Immunotherapy	ATTAC		240	350	NO
+3165	TCGA-12-3649	Immunotherapy	ATTAC		186	245	NO
+3201	TCGA-12-3653	Immunotherapy	Daclizumab		128	224	NO
+3542	TCGA-28-1751	Immunotherapy	Dendriticcell Vaccine		114	142	NO
+3548	TCGA-28-1752	Immunotherapy	Dendriticcell Vaccine		105	132	NO
+3556	TCGA-28-2506	Immunotherapy	Tumor Vaccine		107	135	NO
+3743	TCGA-76-6663	Immunotherapy	ICT-107		93	175	NO
+4627	TCGA-AY-A8YK	Immunotherapy	Bevacizumab	Complete Response	83	111	NO
+4904	TCGA-NH-A50U	Immunotherapy	avastin	Clinical Progressive Disease	238	253	NO
+4919	TCGA-NH-A6GB	Immunotherapy	Bevacizumab	Clinical Progressive Disease	49	212	NO
+4924	TCGA-NH-A6GC	Immunotherapy	bevacizumab		186	NA	YES
+4929	TCGA-NH-A8F7	Immunotherapy	BEVACIZUMAB	Partial Response	74	249	NO
+4930	TCGA-NH-A8F7	Immunotherapy	BEVACIZUMAB	Partial Response	74	249	NO
+4933	TCGA-NH-A8F7	Immunotherapy	BEVACIZUMAB		334	397	NO
+4934	TCGA-NH-A8F7	Immunotherapy	BEVACIZUMAB		334	397	NO
+4937	TCGA-NH-A8F8	Immunotherapy	bevacizumab		76	469	NO
+4938	TCGA-NH-A8F8	Immunotherapy	bevacizumab		292	NA	YES
+4968	TCGA-05-4402	Immunotherapy	Erlotinib	Complete Response	122	122	NO
+4969	TCGA-05-4402	Immunotherapy	Erlotinib	Complete Response	122	122	NO
+4970	TCGA-05-4424	Immunotherapy	Erlotinib		699	NA	YES
+4981	TCGA-05-5425	Immunotherapy	Gefitinib	Clinical Progressive Disease	608	669	NO
+4982	TCGA-05-5425	Immunotherapy	Erlotinib		792	NA	YES
+5062	TCGA-49-6742	Immunotherapy	MDX-1106 clinical trial		335	396	NO
+5063	TCGA-49-6742	Immunotherapy	MDX-1106 clinical trial		335	396	NO
+5312	TCGA-73-A9RS	Immunotherapy	bevacizumab	Clinical Progressive Disease	130	186	NO
+5654	TCGA-GS-A9TQ	Immunotherapy	Rituximab	NA	24	129	NO
+5655	TCGA-GS-A9TQ	Immunotherapy	vincristina	NA	24	129	NO
+5656	TCGA-GS-A9TQ	Immunotherapy	doxorubicina	NA	24	129	NO
+5657	TCGA-GS-A9TQ	Immunotherapy	prednisona	NA	24	129	NO
+5658	TCGA-GS-A9TQ	Immunotherapy	ciclofosfamida	NA	24	129	NO
+5659	TCGA-GS-A9TT	Immunotherapy	Rituximab	NA	377	482	NO
+5660	TCGA-GS-A9TT	Immunotherapy	vincristina	NA	377	482	NO
+5661	TCGA-GS-A9TT	Immunotherapy	doxorubicina	NA	377	482	NO
+5662	TCGA-GS-A9TT	Immunotherapy	ciclofosfamida	NA	377	482	NO
+5663	TCGA-GS-A9TT	Immunotherapy	prednisona	NA	377	482	NO
+5664	TCGA-GS-A9TT	Immunotherapy	intrathecal methotrexate	NA	377	482	NO
+5665	TCGA-GS-A9TU	Immunotherapy	doxorubicina	NA	0	155	NO
+5666	TCGA-GS-A9TU	Immunotherapy	vincristina	NA	0	155	NO
+5667	TCGA-GS-A9TU	Immunotherapy	Rituximab	NA	0	155	NO
+5668	TCGA-GS-A9TU	Immunotherapy	ciclofosfamida	NA	0	155	NO
+5669	TCGA-GS-A9TU	Immunotherapy	prednisona	NA	0	155	NO
+5670	TCGA-GS-A9TV	Immunotherapy	ciclofosfamida	NA	8	113	NO
+5671	TCGA-GS-A9TV	Immunotherapy	prednisona	NA	8	113	NO
+5672	TCGA-GS-A9TV	Immunotherapy	vincristina	NA	8	113	NO
+5673	TCGA-GS-A9TV	Immunotherapy	doxorubicina	NA	8	113	NO
+5674	TCGA-GS-A9TV	Immunotherapy	Rituximab	NA	8	113	NO
+5675	TCGA-GS-A9TW	Immunotherapy	vincristina	NA	13	128	NO
+5676	TCGA-GS-A9TW	Immunotherapy	ciclofosfamida	NA	13	128	NO
+5677	TCGA-GS-A9TW	Immunotherapy	prednisona	NA	13	128	NO
+5678	TCGA-GS-A9TW	Immunotherapy	doxorubicina	NA	13	128	NO
+5679	TCGA-GS-A9TW	Immunotherapy	Rituximab	NA	13	128	NO
+5680	TCGA-GS-A9TX	Immunotherapy	ciclofosfamida	NA	12	54	NO
+5681	TCGA-GS-A9TX	Immunotherapy	Rituximab	NA	12	54	NO
+5682	TCGA-GS-A9TX	Immunotherapy	vincristina	NA	12	54	NO
+5683	TCGA-GS-A9TX	Immunotherapy	prednisona	NA	12	54	NO
+5684	TCGA-GS-A9TX	Immunotherapy	doxorubicina	NA	12	54	NO
+5685	TCGA-GS-A9TY	Immunotherapy	ciclofosfamida	NA	28	NA	YES
+5686	TCGA-GS-A9TY	Immunotherapy	prednisona	NA	28	NA	YES
+5687	TCGA-GS-A9TY	Immunotherapy	Rituximab	NA	28	NA	YES
+5688	TCGA-GS-A9TY	Immunotherapy	vincristina	NA	28	NA	YES
+5689	TCGA-GS-A9TZ	Immunotherapy	doxorubicina	NA	17	122	NO
+5690	TCGA-GS-A9TZ	Immunotherapy	ciclofosfamida	NA	17	122	NO
+5691	TCGA-GS-A9TZ	Immunotherapy	prednisona	NA	17	122	NO
+5692	TCGA-GS-A9TZ	Immunotherapy	vincristina	NA	17	122	NO
+5693	TCGA-GS-A9TZ	Immunotherapy	Rituximab	NA	17	122	NO
+5694	TCGA-GS-A9U3	Immunotherapy	Rituximab	NA	28	142	NO
+5695	TCGA-GS-A9U3	Immunotherapy	prednisona	NA	28	142	NO
+5696	TCGA-GS-A9U3	Immunotherapy	vincristina	NA	28	142	NO
+5697	TCGA-GS-A9U3	Immunotherapy	doxorubicina	NA	28	142	NO
+5698	TCGA-GS-A9U3	Immunotherapy	ciclofosfamida	NA	28	142	NO
+5699	TCGA-GS-A9U4	Immunotherapy	Rituximab	NA	22	85	NO
+5700	TCGA-GS-A9U4	Immunotherapy		NA	NA	NA	
+5701	TCGA-GS-A9U4	Immunotherapy	etoposide	NA	106	110	NO
+5702	TCGA-GS-A9U4	Immunotherapy	doxorubicina	NA	22	85	NO
+5703	TCGA-GS-A9U4	Immunotherapy	Rituximab	NA	106	110	NO
+5704	TCGA-GS-A9U4	Immunotherapy	metilprednisona	NA	106	110	NO
+5705	TCGA-GS-A9U4	Immunotherapy	vincristina	NA	22	85	NO
+5706	TCGA-GS-A9U4	Immunotherapy	cisplatim	NA	106	110	NO
+5707	TCGA-GS-A9U4	Immunotherapy	ciclofosfamida	NA	22	85	NO
+5708	TCGA-GS-A9U4	Immunotherapy	prednisona	NA	22	85	NO
+6035	TCGA-DU-A7TD	Immunotherapy	Temozolomide	Clinical Progressive Disease	77	151	NO
+6139	TCGA-E1-A7YJ	Immunotherapy	Avastin	Clinical Progressive Disease	96	504	NO
+6141	TCGA-E1-A7YJ	Immunotherapy	MR1-1	Clinical Progressive Disease	537	541	NO
+6145	TCGA-E1-A7YL	Immunotherapy	Avastin	Clinical Progressive Disease	103	289	NO
+6148	TCGA-E1-A7YL	Immunotherapy	Avastin	Clinical Progressive Disease	298	336	NO
+6151	TCGA-E1-A7YM	Immunotherapy	Avastin	Stable Disease	90	137	NO
+6153	TCGA-E1-A7YM	Immunotherapy	Avastin	Stable Disease	137	174	NO
+6155	TCGA-E1-A7YM	Immunotherapy	Avastin	Clinical Progressive Disease	174	497	NO
+6156	TCGA-E1-A7YM	Immunotherapy	Avastin	Stable Disease	501	593	NO
+6162	TCGA-E1-A7YN	Immunotherapy	Avastin	Clinical Progressive Disease	429	484	NO
+6163	TCGA-E1-A7YN	Immunotherapy	Avastin	Clinical Progressive Disease	429	484	NO
+6166	TCGA-E1-A7YN	Immunotherapy	Avastin	Clinical Progressive Disease	491	553	NO
+6167	TCGA-E1-A7YN	Immunotherapy	Avastin	Clinical Progressive Disease	491	553	NO
+6170	TCGA-E1-A7YO	Immunotherapy	I131-81C6	Stable Disease	23	23	NO
+6176	TCGA-E1-A7YU	Immunotherapy	I 131 81C6		6	6	NO
+6179	TCGA-E1-A7YV	Immunotherapy	Avastin	Clinical Progressive Disease	195	507	NO
+6180	TCGA-E1-A7YV	Immunotherapy	Avastin	Stable Disease	507	674	NO
+6183	TCGA-E1-A7YV	Immunotherapy	Avastin	Clinical Progressive Disease	846	887	NO
+6185	TCGA-E1-A7YV	Immunotherapy	Avastin	Clinical Progressive Disease	888	948	NO
+6188	TCGA-E1-A7YW	Immunotherapy	Avastin	Stable Disease	999	1025	NO
+6197	TCGA-E1-A7YY	Immunotherapy	Avastin		4289	4418	NO
+6201	TCGA-E1-A7Z2	Immunotherapy	Avastin	Stable Disease	293	334	NO
+6203	TCGA-E1-A7Z2	Immunotherapy	Avastin	Stable Disease	356	369	NO
+6204	TCGA-E1-A7Z3	Immunotherapy	I131-81C6	Clinical Progressive Disease	1709	1709	NO
+6217	TCGA-E1-A7Z4	Immunotherapy	Avastin	Stable Disease	3545	3888	NO
+6218	TCGA-E1-A7Z4	Immunotherapy	Avastin	Clinical Progressive Disease	4081	4124	NO
+6220	TCGA-E1-A7Z4	Immunotherapy	Avastin	Clinical Progressive Disease	4138	4336	NO
+6224	TCGA-E1-A7Z6	Immunotherapy	Avastin	Clinical Progressive Disease	901	966	NO
+6258	TCGA-FG-A711	Immunotherapy	Avastin		1097	NA	YES
+7313	TCGA-CN-4741	Immunotherapy	erbitux	Complete Response	1771	1778	NO
+7366	TCGA-CN-A6V1	Immunotherapy	erbitux	Complete Response	13	34	NO
+7367	TCGA-CN-A6V1	Immunotherapy	erbitux	Complete Response	13	34	NO
+7392	TCGA-CR-5248	Immunotherapy	IMC-A12		1194	1208	NO
+7571	TCGA-KU-A6H8	Immunotherapy	Cetuximab	Clinical Progressive Disease	122	174	NO
+7618	TCGA-RS-A6TO	Immunotherapy	Cetuximab	Complete Response	41	41	NO
+7634	TCGA-A3-3317	Immunotherapy	Interferon Alpha		605	886	NO
+7637	TCGA-AK-3426	Immunotherapy	Interferon		465	522	NO
+7643	TCGA-B0-4837	Immunotherapy	Tyrosine kinase inhibitor	Clinical Progressive Disease	1217	NA	NO
+7644	TCGA-B0-4841	Immunotherapy	INF	Clinical Progressive Disease	47	108	NO
+7653	TCGA-B0-5701	Immunotherapy	Interleukin-2	Complete Response	366	727	NO
+7657	TCGA-B8-4143	Immunotherapy	Interleukin-2		133	388	NO
+7663	TCGA-BP-4169	Immunotherapy	Interferon		36	78	NO
+7665	TCGA-BP-4329	Immunotherapy	Interferon		190	510	NO
+7667	TCGA-BP-4334	Immunotherapy	Interferon		520	NA	NO
+7668	TCGA-BP-4335	Immunotherapy	Interferon		42	134	NO
+7679	TCGA-BP-4770	Immunotherapy	Interferon		211	NA	NO
+7704	TCGA-BP-5201	Immunotherapy	Interleukin-2		469	603	NO
+7705	TCGA-BP-5201	Immunotherapy	Interleukin-2		469	603	NO
+7720	TCGA-CJ-4641	Immunotherapy	Oncophage		37	321	NO
+7724	TCGA-CJ-4644	Immunotherapy	Intron A		162	222	NO
+7726	TCGA-CJ-4868	Immunotherapy	Proleukin		56	89	NO
+7734	TCGA-CJ-4871	Immunotherapy	Alpha Interferon		98	NA	YES
+7737	TCGA-CJ-4887	Immunotherapy	Oncophage		34	124	NO
+7739	TCGA-CJ-4890	Immunotherapy	Interferon		70	211	NO
+7745	TCGA-CJ-4894	Immunotherapy	Interferon		188	240	NO
+7746	TCGA-CJ-4894	Immunotherapy	Interferon		188	240	NO
+7757	TCGA-CJ-4923	Immunotherapy	proleukin (IL-2)		192	379	NO
+7761	TCGA-CJ-5677	Immunotherapy	interferon-alpha		42	70	NO
+7764	TCGA-CJ-5679	Immunotherapy	interferon-alpha		116	274	NO
+7769	TCGA-CJ-5680	Immunotherapy	oncophage vaccine		53	186	NO
+7770	TCGA-CJ-5680	Immunotherapy	IL-2		220	247	NO
+7773	TCGA-CJ-5681	Immunotherapy	IL-2		105	135	NO
+7777	TCGA-CJ-5682	Immunotherapy	interferon alpha		68	813	NO
+7779	TCGA-CJ-6028	Immunotherapy	Interferon		336	392	NO
+7786	TCGA-CJ-6033	Immunotherapy	Interferon		144	172	NO
+7789	TCGA-CW-5580	Immunotherapy	IFN-Alpha (Intron)		50	57	NO
+7792	TCGA-CW-5591	Immunotherapy	IL-2 (high dose)		78	NA	
+7811	TCGA-G6-A8L6	Immunotherapy	Avastin		276	NA	YES
+7815	TCGA-D3-A1Q1	Immunotherapy		Clinical Progressive Disease	247	341	NO
+7818	TCGA-D3-A1Q6	Immunotherapy	Interferon		111	476	NO
+7822	TCGA-D3-A2JC	Immunotherapy	Interferon alfa		54	415	NO
+7823	TCGA-D3-A2JH	Immunotherapy	Interferon		291	321	NO
+7826	TCGA-D3-A2JN	Immunotherapy	Interferon-alfa		92	123	NO
+7827	TCGA-D3-A2JP	Immunotherapy	Interferon Alpha	Partial Response	73	193	NO
+7828	TCGA-D3-A3C1	Immunotherapy	Interferon		NA	NA	NO
+7829	TCGA-D3-A3C7	Immunotherapy	Interferon		123	488	NO
+7831	TCGA-D3-A3MV	Immunotherapy	Interleukin-2	Clinical Progressive Disease	572	639	NO
+7845	TCGA-D3-A5GT	Immunotherapy	Interferon alpha		110	NA	YES
+7846	TCGA-D3-A8GB	Immunotherapy	Interferon	Complete Response	74	318	NO
+7848	TCGA-D3-A8GN	Immunotherapy		Complete Response	1224	1639	NO
+7849	TCGA-D9-A148	Immunotherapy	ipilimumab		4426	4496	NO
+7850	TCGA-DA-A1I1	Immunotherapy	Pembrolizumab		6607	NA	YES
+7851	TCGA-DA-A3F2	Immunotherapy	Ipilimumab	Partial Response	475	772	NO
+7853	TCGA-DA-A3F5	Immunotherapy	Pembrolizumab	Stable Disease	6660	6814	NO
+7855	TCGA-EB-A24C	Immunotherapy	Laferon		20	203	NO
+7858	TCGA-EB-A24C	Immunotherapy	Laferon		505	559	NO
+7864	TCGA-EB-A24D	Immunotherapy	Alferon		525	645	NO
+7878	TCGA-EB-A57M	Immunotherapy	Ciclosporin	Complete Response	23	157	NO
+7885	TCGA-EB-A5KH	Immunotherapy	Leukine	Complete Response	557	615	NO
+7888	TCGA-EB-A5SH	Immunotherapy	Interferon alpha	Complete Response	1154	1217	NO
+7894	TCGA-EB-A6QY	Immunotherapy	Laferon	Complete Response	210	218	NO
+7904	TCGA-EE-A29C	Immunotherapy	Yervoy	Stable Disease	1500	1623	NO
+7922	TCGA-EE-A2GS	Immunotherapy	Ipilimumab	Clinical Progressive Disease	1979	2075	NO
+7936	TCGA-EE-A2ML	Immunotherapy	MORAb-004	Clinical Progressive Disease	6355	6440	NO
+7950	TCGA-EE-A3JI	Immunotherapy	Ipilimumab	Clinical Progressive Disease	4608	NA	NO
+7951	TCGA-ER-A195	Immunotherapy	interferon		562	911	NO
+7961	TCGA-ER-A19M	Immunotherapy	Interferon	Clinical Progressive Disease	1019	1093	NO
+7962	TCGA-ER-A19N	Immunotherapy	Interferon		55	NA	NO
+7963	TCGA-ER-A19O	Immunotherapy	Interferon		154	NA	NO
+7965	TCGA-ER-A19Q	Immunotherapy	IL-18		1274	1337	NO
+7966	TCGA-ER-A1A1	Immunotherapy	Interferon		84	418	NO
+7968	TCGA-ER-A2NF	Immunotherapy	IL-2		471	502	NO
+7970	TCGA-ER-A2NF	Immunotherapy	Ipilimumab		120	136	NO
+7972	TCGA-ER-A2NG	Immunotherapy	Ipilimumab		578	609	NO
+7973	TCGA-ER-A2NG	Immunotherapy	IL-2		705	766	NO
+7976	TCGA-FR-A3YN	Immunotherapy	Ipilimumab	Complete Response	2324	2387	NO
+7977	TCGA-FR-A3YO	Immunotherapy	Ipilimumab	Stable Disease	NA	NA	NO
+7978	TCGA-FR-A3YO	Immunotherapy	Ipilimumab	Stable Disease	NA	NA	NO
+7979	TCGA-FR-A44A	Immunotherapy	Interferon	Complete Response	2769	3134	NO
+7980	TCGA-FR-A69P	Immunotherapy	Ipilimumab		107	NA	YES
+7983	TCGA-FR-A729	Immunotherapy	Sylatron		6253	NA	YES
+7984	TCGA-FR-A7U8	Immunotherapy	Interferon	Partial Response	89	208	NO
+7986	TCGA-FR-A7U9	Immunotherapy	Ipilimumab		151	NA	YES
+7988	TCGA-FR-A8YD	Immunotherapy	Ipilimumab	Stable Disease	812	880	NO
+7994	TCGA-FS-A1ZS	Immunotherapy	interferon alpha	Stable Disease	2566	2790	NO
+7995	TCGA-FS-A1ZT	Immunotherapy	interferon alpha	Stable Disease	398	1053	NO
+7996	TCGA-FS-A1ZW	Immunotherapy	interferon alpha	Stable Disease	700	1005	NO
+7998	TCGA-FS-A4F0	Immunotherapy	Interferon alpha	Stable Disease	82	568	NO
+8002	TCGA-FW-A3R5	Immunotherapy	Interferon	Complete Response	714	993	NO
+8003	TCGA-FW-A3R5	Immunotherapy	Interferon	Complete Response	714	993	NO
+8004	TCGA-FW-A3TV	Immunotherapy	Interferon	Clinical Progressive Disease	33	58	NO
+8005	TCGA-FW-A3TV	Immunotherapy	Interferon		151	NA	YES
+8009	TCGA-GF-A3OT	Immunotherapy	Yervoy	Clinical Progressive Disease	249	249	NO
+8010	TCGA-GN-A264	Immunotherapy	Interferon alfa-2b		2752	3111	NO
+8013	TCGA-GN-A4U3	Immunotherapy	Interleukin-2	Complete Response	2299	2574	NO
+8015	TCGA-GN-A4U4	Immunotherapy	Ipilimumab	Partial Response	637	707	NO
+8016	TCGA-GN-A4U5	Immunotherapy	Interferon	Complete Response	211	435	NO
+8018	TCGA-GN-A4U8	Immunotherapy	Sylatron		1186	NA	YES
+8019	TCGA-GN-A4U9	Immunotherapy	Ipilimumab	Partial Response	165	249	NO
+8021	TCGA-GN-A4U9	Immunotherapy	Imiquimod		384	NA	YES
+8026	TCGA-GN-A8LN	Immunotherapy	ipilimumab	Partial Response	464	464	NO
+8029	TCGA-GN-A8LN	Immunotherapy	Pembrolizumab		772	NA	YES
+8034	TCGA-HR-A2OH	Immunotherapy	Interferon	Complete Response	108	471	NO
+8036	TCGA-HR-A2OH	Immunotherapy	Interleukin - 2	Clinical Progressive Disease	1830	1848	NO
+8037	TCGA-QB-AA9O	Immunotherapy	ipilimumab	Clinical Progressive Disease	171	234	NO
+8038	TCGA-QB-AA9O	Immunotherapy	ipilimumab	Clinical Progressive Disease	171	234	NO
+8039	TCGA-W3-A824	Immunotherapy		Clinical Progressive Disease	1491	2710	NO
+8044	TCGA-W3-A825	Immunotherapy	Interleukin-2	Partial Response	1644	1767	NO
+8045	TCGA-W3-A825	Immunotherapy	Interferon-α2	Partial Response	1644	1767	NO
+8046	TCGA-W3-A828	Immunotherapy			1887	2283	NO
+8053	TCGA-W3-AA1Q	Immunotherapy	Interferon	Clinical Progressive Disease	1492	NA	NO
+8054	TCGA-W3-AA1Q	Immunotherapy		Clinical Progressive Disease	1735	NA	NO
+8057	TCGA-W3-AA1R	Immunotherapy		Clinical Progressive Disease	792	2192	NO
+8059	TCGA-W3-AA1R	Immunotherapy		Clinical Progressive Disease	2526	3349	NO
+8060	TCGA-W3-AA1R	Immunotherapy	IL2	Clinical Progressive Disease	3105	NA	NO
+8061	TCGA-W3-AA1V	Immunotherapy		Clinical Progressive Disease	1005	1280	NO
+8062	TCGA-W3-AA1W	Immunotherapy	Interferon	Clinical Progressive Disease	335	761	NO
+8063	TCGA-W3-AA1W	Immunotherapy		Clinical Progressive Disease	1065	1765	NO
+8066	TCGA-W3-AA21	Immunotherapy			1065	2100	NO
+8070	TCGA-WE-A8ZM	Immunotherapy	Diphencyprone		2946	NA	YES
+8075	TCGA-WE-AAA0	Immunotherapy	ipilimumab	Clinical Progressive Disease	856	917	NO
+8076	TCGA-WE-AAA0	Immunotherapy	pembrolizumab		1166	NA	YES
+8080	TCGA-WE-AAA4	Immunotherapy	ipilimumab		739	NA	YES
+8081	TCGA-XV-A9W5	Immunotherapy	interferon		264	NA	YES
+8082	TCGA-XV-AB01	Immunotherapy	interferon		63	NA	YES
+8083	TCGA-YG-AA3O	Immunotherapy	Yervoy		1081	NA	YES
+8084	TCGA-YG-AA3O	Immunotherapy	Interferon	Partial Response	977	1006	NO
+8085	TCGA-YG-AA3P	Immunotherapy	Yervoy		385	NA	YES
+8215	TCGA-A2-A0CQ	Immunotherapy	AE-37		492	628	NO
+8216	TCGA-A2-A0CQ	Immunotherapy	AE-37		492	628	NO
+8275	TCGA-A2-A0EO	Immunotherapy	E-75		244	361	NO
+8285	TCGA-A2-A0EQ	Immunotherapy	AE-37		679	796	NO
+8290	TCGA-A2-A0ER	Immunotherapy	E-75		327	615	NO
+8445	TCGA-A2-A25E	Immunotherapy	Herceptin		250	601	NO
+8888	TCGA-AC-A3TM	Immunotherapy		Complete Response	132	213	NO
+8936	TCGA-AO-A03P	Immunotherapy	BEVACIZUMAB		2451	2822	NO
+9141	TCGA-AQ-A7U7	Immunotherapy	Rituximab	Complete Response	123	193	NO
+9142	TCGA-AQ-A7U7	Immunotherapy	Rituximab	Complete Response	123	193	NO
+9156	TCGA-AR-A0TQ	Immunotherapy	Trastuzumab		254	482	NO
+9158	TCGA-AR-A0TQ	Immunotherapy	Trastuzumab		93	93	NO
+9160	TCGA-AR-A0TQ	Immunotherapy	Trastuzumab		100	226	NO
+9247	TCGA-AR-A1AT	Immunotherapy	Trastuzumab		NA	NA	NO
+9260	TCGA-AR-A1AX	Immunotherapy	Trastuzumab		117	482	NO
+9287	TCGA-AR-A24Q	Immunotherapy	Trastuzumab		86	155	NO
+9288	TCGA-AR-A24Q	Immunotherapy	Trastuzumab		180	511	NO
+9293	TCGA-AR-A24Q	Immunotherapy	Trastuzumab		79	79	NO
+9310	TCGA-AR-A24U	Immunotherapy	Trustuzumab		111	111	NO
+9311	TCGA-AR-A24U	Immunotherapy	Trastuzumab		118	476	NO
+9312	TCGA-AR-A24U	Immunotherapy	Trustuzumab		118	476	NO
+9316	TCGA-AR-A24V	Immunotherapy	Bevacizumab		109	178	NO
+9333	TCGA-AR-A250	Immunotherapy	Trastuzumab		102	102	NO
+9334	TCGA-AR-A250	Immunotherapy	Trustuzumab		109	179	NO
+9335	TCGA-AR-A250	Immunotherapy	Trastuzumab		193	466	NO
+9349	TCGA-AR-A254	Immunotherapy	Trastuzumab		22	22	NO
+9350	TCGA-AR-A254	Immunotherapy	Trastuzumab		29	184	NO
+9351	TCGA-AR-A254	Immunotherapy	Trastuzumab		232	344	NO
+9353	TCGA-AR-A255	Immunotherapy	Trastuzumab		54	54	NO
+9354	TCGA-AR-A255	Immunotherapy	Trastuzumab		75	419	NO
+9365	TCGA-AR-A2LJ	Immunotherapy	Trastuzumab		98	465	NO
+9381	TCGA-AR-A2LO	Immunotherapy	Bevacizumab		44	161	NO
+9436	TCGA-BH-A0AZ	Immunotherapy	Avastin	Complete Response	126	482	NO
+10409	TCGA-GM-A2DA	Immunotherapy	Herceptin	Stable Disease	5797	6028	NO
+10414	TCGA-GM-A2DA	Immunotherapy	Herceptin	Stable Disease	6372	6536	NO
+10536	TCGA-LL-A5YP	Immunotherapy	herceptin		113	457	NO
+10537	TCGA-LL-A5YP	Immunotherapy	herceptin		113	457	NO
+10544	TCGA-LL-A6FR	Immunotherapy	HERCEPTIN		118	489	NO
+10564	TCGA-LL-A9Q3	Immunotherapy	HERCEPTIN	Complete Response	118	531	NO
+10603	TCGA-S3-A6ZF	Immunotherapy	Trastuzumab	Complete Response	65	429	NO
+10733	TCGA-04-1350	Immunotherapy	Avastin		1389	NA	NO
+10739	TCGA-04-1361	Immunotherapy	Avastin		936	989	NO
+10849	TCGA-04-1648	Immunotherapy	Avastin		247	NA	NO
+10937	TCGA-09-1666	Immunotherapy	Oca Rex Oregovomab		256	480	NO
+11026	TCGA-10-0926	Immunotherapy	Interleukin-12		232	NA	
+11137	TCGA-13-0793	Immunotherapy	Abagovomab or Placebo		200	362	
+11503	TCGA-23-1110	Immunotherapy	Ovarex/IND		179	235	NO
+11536	TCGA-23-1117	Immunotherapy	Herceptin		890	928	NO
+11602	TCGA-23-2084	Immunotherapy	Rhumab/Ind		1127	1169	NO
+12520	TCGA-29-1769	Immunotherapy	Abagovomab vs Placebo		206	NA	YES
+12533	TCGA-29-1771	Immunotherapy	Abagovomag vs Placebo		189	595	NO
+12674	TCGA-30-1859	Immunotherapy	Sargramostin		1104	1131	NO
+12742	TCGA-30-1892	Immunotherapy	Avastin		1134	1197	NO
+13101	TCGA-61-2095	Immunotherapy	Ovarex MA6 B43.13		210	447	NO
+13119	TCGA-61-2097	Immunotherapy	Interferon gamma		48	NA	
+13133	TCGA-61-2101	Immunotherapy	IL 12		1129	NA	NO
+13154	TCGA-61-2110	Immunotherapy	IL 2		244	356	NO
+13253	TCGA-N6-A4VG	Immunotherapy	Avastin	Partial Response	530	649	NO
+13321	TCGA-AL-3466	Immunotherapy	Interferon		33	138	NO
+13352	TCGA-G7-6789	Immunotherapy	intron a		60	74	NO

@@ -1,0 +1,1113 @@
+	bcr_patient_barcode	therapy_types	drug_name	measure_of_response	days_to_drug_therapy_start	days_to_drug_therapy_end	therapy_ongoing
+491	TCGA-2G-AAFO	Hormone Therapy	Cisplatin	Complete Response	25	71	NO
+637	TCGA-2A-A8VT	Hormone Therapy	Lupron	Stable Disease	85	1086	NO
+638	TCGA-4L-AA1F	Hormone Therapy	Zoladex		15	NA	YES
+639	TCGA-CH-5741	Hormone Therapy	Leuprorelin	Complete Response	61	334	NO
+640	TCGA-CH-5751	Hormone Therapy	Bicalutamide		122	NA	YES
+641	TCGA-CH-5751	Hormone Therapy	Leuprorelin		122	NA	YES
+643	TCGA-CH-5752	Hormone Therapy	Leuprorelin		578	NA	YES
+644	TCGA-CH-5788	Hormone Therapy	Triptorelin	Clinical Progressive Disease	151	396	NO
+645	TCGA-CH-5788	Hormone Therapy	Leuprorelin		609	NA	YES
+646	TCGA-FC-A4JI	Hormone Therapy	Casodex	Complete Response	52	143	NO
+647	TCGA-FC-A5OB	Hormone Therapy	Lupron		118	NA	YES
+648	TCGA-G9-7521	Hormone Therapy	Luprolide Depot		207	NA	YES
+649	TCGA-G9-7521	Hormone Therapy	Lupron		207	NA	YES
+650	TCGA-G9-7521	Hormone Therapy	Casodex		676	NA	YES
+651	TCGA-G9-A9S0	Hormone Therapy	Zoladex	Clinical Progressive Disease	115	762	NO
+652	TCGA-G9-A9S0	Hormone Therapy	casodex	Clinical Progressive Disease	444	528	NO
+655	TCGA-G9-A9S4	Hormone Therapy	lupron		93	NA	YES
+656	TCGA-HC-7742	Hormone Therapy	Eligard	Partial Response	211	NA	YES
+657	TCGA-HC-8257	Hormone Therapy	Goserelin		91	NA	YES
+658	TCGA-HC-A48F	Hormone Therapy	Eligard		57	NA	YES
+659	TCGA-HC-A9TE	Hormone Therapy	Eligard	Stable Disease	216	417	NO
+660	TCGA-HC-A9TH	Hormone Therapy	Firmagon		455	NA	YES
+661	TCGA-HI-7168	Hormone Therapy	Lupron		341	1923	NO
+662	TCGA-HI-7168	Hormone Therapy	Lupron	Complete Response	1552	2014	NO
+663	TCGA-HI-7168	Hormone Therapy	Lupron		2511	NA	YES
+664	TCGA-HI-7171	Hormone Therapy	Ketoconazole		648	NA	
+665	TCGA-HI-7171	Hormone Therapy	Lupron		NA	NA	NO
+666	TCGA-HI-7171	Hormone Therapy	Casodex		NA	NA	NO
+667	TCGA-HI-7171	Hormone Therapy	Casodex		559	NA	NO
+668	TCGA-J4-A6G3	Hormone Therapy	leuprolide		30	NA	YES
+671	TCGA-J4-AATZ	Hormone Therapy	Eligard		142	NA	YES
+672	TCGA-J9-A52B	Hormone Therapy	Zoladex	Partial Response	88	198	NO
+673	TCGA-J9-A52E	Hormone Therapy	Zoladex		209	NA	YES
+674	TCGA-KC-A4BR	Hormone Therapy	Lupron	Complete Response	1079	NA	YES
+675	TCGA-KK-A59X	Hormone Therapy	Leuprolide acetate		2169	NA	YES
+678	TCGA-KK-A59X	Hormone Therapy	Abiraterone		2535	NA	YES
+679	TCGA-KK-A59Y	Hormone Therapy	Leuprolide Acetate	Complete Response	71	1072	NO
+680	TCGA-KK-A6E0	Hormone Therapy	Abiraterone		1078	NA	YES
+681	TCGA-KK-A6E0	Hormone Therapy	Leuprolide		1078	NA	YES
+682	TCGA-KK-A6E0	Hormone Therapy	Lupron	Complete Response	424	605	NO
+683	TCGA-KK-A6E1	Hormone Therapy	Lupron	Complete Response	107	778	NO
+684	TCGA-KK-A7AQ	Hormone Therapy	Abiraterone		1219	NA	YES
+685	TCGA-KK-A7AQ	Hormone Therapy	Leuprolide acetate		1219	NA	YES
+686	TCGA-KK-A7AU	Hormone Therapy	Casodex	Stable Disease	207	676	NO
+687	TCGA-KK-A7AU	Hormone Therapy	Lupron	Stable Disease	207	564	NO
+688	TCGA-KK-A7AU	Hormone Therapy	Lupron		1287	NA	YES
+689	TCGA-KK-A7B0	Hormone Therapy	Leuprolide		913	NA	YES
+690	TCGA-KK-A7B4	Hormone Therapy	Leuprolide Acetate		119	NA	YES
+691	TCGA-KK-A7B4	Hormone Therapy	Leuprolide Acetate		119	NA	YES
+692	TCGA-KK-A7B4	Hormone Therapy	Casodex	Stable Disease	312	439	NO
+693	TCGA-KK-A7B4	Hormone Therapy	Casodex	Stable Disease	312	439	NO
+694	TCGA-KK-A8I4	Hormone Therapy	Lupron	Stable Disease	1204	1984	NO
+695	TCGA-KK-A8I4	Hormone Therapy	Leuprolide acetate		2259	NA	YES
+696	TCGA-KK-A8I7	Hormone Therapy	leuprolide		1311	NA	YES
+697	TCGA-KK-A8I7	Hormone Therapy	Leuprolide Acetate	Complete Response	1757	1757	NO
+698	TCGA-KK-A8I9	Hormone Therapy	Lupron	Complete Response	151	427	NO
+699	TCGA-KK-A8IA	Hormone Therapy	Lupron		210	NA	YES
+700	TCGA-KK-A8IC	Hormone Therapy	Leuprolide acetate		2051	NA	YES
+701	TCGA-KK-A8IC	Hormone Therapy	Abiraterone		2051	NA	YES
+702	TCGA-KK-A8ID	Hormone Therapy	Lupron	Complete Response	97	1455	NO
+703	TCGA-KK-A8II	Hormone Therapy	Lupron		904	1106	NO
+704	TCGA-KK-A8II	Hormone Therapy	Lupron	Clinical Progressive Disease	2453	3467	NO
+705	TCGA-KK-A8II	Hormone Therapy	degarelix	Clinical Progressive Disease	2431	3467	NO
+708	TCGA-M7-A723	Hormone Therapy	Lupron		74	NA	YES
+709	TCGA-M7-A723	Hormone Therapy	Bicalutamide		74	NA	YES
+710	TCGA-M7-A724	Hormone Therapy	Lupron		179	NA	YES
+711	TCGA-V1-A8MU	Hormone Therapy	LHRH Agonist		259	NA	YES
+712	TCGA-V1-A8WV	Hormone Therapy	LHRH Agonist	Complete Response	250	615	NO
+713	TCGA-V1-A8WW	Hormone Therapy	LHRH Agonist	Clinical Progressive Disease	112	NA	YES
+714	TCGA-V1-A9O5	Hormone Therapy	LHRH Agonist and Anti-Androgens "Combined Androgen Blockade"		118	NA	YES
+715	TCGA-VN-A88K	Hormone Therapy	Lupron		130	NA	YES
+716	TCGA-VN-A88R	Hormone Therapy	Goserelin		666	NA	YES
+717	TCGA-VN-A88R	Hormone Therapy	Casodex	Partial Response	652	666	NO
+718	TCGA-VP-A878	Hormone Therapy	Lupron		2376	NA	YES
+719	TCGA-VP-A878	Hormone Therapy	Zoladex	Complete Response	115	784	NO
+720	TCGA-VP-A87B	Hormone Therapy	Leuprolide		2540	NA	YES
+722	TCGA-VP-A87D	Hormone Therapy	Casodex	Complete Response	370	837	NO
+723	TCGA-VP-A87D	Hormone Therapy	Lupron	Complete Response	248	837	NO
+724	TCGA-X4-A8KQ	Hormone Therapy	Eligard		963	NA	YES
+725	TCGA-XJ-A9DI	Hormone Therapy	Lupron		151	NA	YES
+726	TCGA-XJ-A9DI	Hormone Therapy	Nilutamide	Partial Response	1339	1461	NO
+727	TCGA-XJ-A9DI	Hormone Therapy	Casodex	Partial Response	913	1339	NO
+728	TCGA-XJ-A9DX	Hormone Therapy	Casodex		151	NA	YES
+729	TCGA-XJ-A9DX	Hormone Therapy	Lupron		151	NA	YES
+730	TCGA-XK-AAIV	Hormone Therapy	Lupron		111	NA	YES
+731	TCGA-XK-AAIV	Hormone Therapy	Casodex	Complete Response	97	126	NO
+732	TCGA-YL-A8HJ	Hormone Therapy	Casodex	Complete Response	209	306	NO
+733	TCGA-YL-A8HJ	Hormone Therapy	Zoladex	Complete Response	209	1036	NO
+734	TCGA-YL-A8HK	Hormone Therapy	Casodex	Complete Response	179	208	NO
+735	TCGA-YL-A8HK	Hormone Therapy	Eligard		192	NA	YES
+736	TCGA-YL-A8HL	Hormone Therapy	Casodex	Complete Response	132	162	NO
+737	TCGA-YL-A8HL	Hormone Therapy	Lupron	Complete Response	132	1228	NO
+738	TCGA-YL-A8HM	Hormone Therapy	Casodex	Complete Response	216	251	NO
+739	TCGA-YL-A8HM	Hormone Therapy	Zoladex	Complete Response	216	752	NO
+740	TCGA-YL-A8SB	Hormone Therapy	Casodex	Complete Response	270	299	NO
+741	TCGA-YL-A8SB	Hormone Therapy	Lupron	Complete Response	280	998	NO
+742	TCGA-YL-A8SB	Hormone Therapy	Casodex		1600	1630	NO
+743	TCGA-YL-A8SB	Hormone Therapy	Lupron		1609	NA	YES
+744	TCGA-YL-A8SC	Hormone Therapy	Casodex	Partial Response	166	195	NO
+745	TCGA-YL-A8SC	Hormone Therapy	Trelstar	Partial Response	166	NA	YES
+746	TCGA-YL-A8SI	Hormone Therapy	Eligard		1482	NA	YES
+747	TCGA-YL-A8SK	Hormone Therapy		Complete Response	163	940	NO
+748	TCGA-YL-A8SL	Hormone Therapy	Casodex	Complete Response	266	296	NO
+749	TCGA-YL-A8SL	Hormone Therapy	Eligard		266	NA	YES
+750	TCGA-YL-A8SO	Hormone Therapy	Casodex	Complete Response	1387	1862	NO
+751	TCGA-YL-A8SO	Hormone Therapy	Zoladex		1387	NA	YES
+752	TCGA-YL-A8SP	Hormone Therapy	Eligard	Complete Response	359	749	NO
+753	TCGA-YL-A8SP	Hormone Therapy	Casodex	Complete Response	359	749	NO
+754	TCGA-YL-A8SP	Hormone Therapy	Lupron	Partial Response	1183	2170	NO
+755	TCGA-YL-A8SP	Hormone Therapy	Casodex	Partial Response	1814	2170	NO
+756	TCGA-YL-A8SQ	Hormone Therapy	Casodex		481	NA	YES
+757	TCGA-YL-A8SQ	Hormone Therapy	Leuprolide		481	NA	YES
+758	TCGA-YL-A9WH	Hormone Therapy	Casodex	Complete Response	203	232	NO
+759	TCGA-YL-A9WH	Hormone Therapy	Trelstar	Complete Response	210	650	NO
+760	TCGA-YL-A9WK	Hormone Therapy	Eligard	Complete Response	360	834	NO
+761	TCGA-YL-A9WK	Hormone Therapy	Lupron	Complete Response	1163	1527	NO
+762	TCGA-YL-A9WK	Hormone Therapy	Lupron		1897	NA	YES
+763	TCGA-YL-A9WK	Hormone Therapy	Casodex		1891	NA	YES
+764	TCGA-YL-A9WL	Hormone Therapy	Lupron	Complete Response	271	349	NO
+765	TCGA-YL-A9WY	Hormone Therapy	Casodex		236	NA	YES
+766	TCGA-YL-A9WY	Hormone Therapy	Lupron		236	NA	YES
+767	TCGA-ZG-A8QZ	Hormone Therapy	Bicalutamide		89	NA	YES
+768	TCGA-ZG-A9LN	Hormone Therapy	Trenantone		73	NA	YES
+769	TCGA-ZG-A9N3	Hormone Therapy	Bicalutamid		140	NA	YES
+976	TCGA-HB-A3L4	Hormone Therapy	Letrozole		582	NA	YES
+1007	TCGA-IS-A3KA	Hormone Therapy	Tamoxifen	Clinical Progressive Disease	101	187	NO
+1008	TCGA-IS-A3KA	Hormone Therapy	Megace	Clinical Progressive Disease	101	187	NO
+1028	TCGA-KD-A5QS	Hormone Therapy	Gemzar	Partial Response	30	72	NO
+1044	TCGA-QQ-A8VD	Hormone Therapy	tamoxifen	Clinical Progressive Disease	613	1499	NO
+1046	TCGA-QQ-A8VD	Hormone Therapy	raloxifene	Clinical Progressive Disease	2807	2886	NO
+1127	TCGA-3A-A9I9	Hormone Therapy	Dexamethasone		518	620	NO
+1128	TCGA-3A-A9I9	Hormone Therapy	Megace		518	620	NO
+2400	TCGA-06-0128	Hormone Therapy	Tamoxifen		601	649	NO
+2727	TCGA-08-0245	Hormone Therapy			878	933	
+2876	TCGA-12-0662	Hormone Therapy	Tamoxifen		473	600	
+2882	TCGA-12-0662	Hormone Therapy	Tamoxiten		278	334	
+2901	TCGA-12-0670	Hormone Therapy	Tamoxifen		516	576	NO
+2903	TCGA-12-0670	Hormone Therapy	Tamoxifen		578	601	NO
+2910	TCGA-12-0670	Hormone Therapy	Tamoxifen		448	516	NO
+2911	TCGA-12-0670	Hormone Therapy	Tamoxifen		601	722	NO
+2917	TCGA-12-0688	Hormone Therapy	Tamoxiten		238	353	
+2950	TCGA-12-0773	Hormone Therapy	Tamoxifen		607	725	NO
+3005	TCGA-12-0820	Hormone Therapy	Tamoxifen		502	543	NO
+3025	TCGA-12-0827	Hormone Therapy	Tamoxifen		615	746	NO
+3046	TCGA-12-1091	Hormone Therapy	Tamoxiten		521	691	
+3049	TCGA-12-1091	Hormone Therapy	Tamoxifen		453	484	
+3051	TCGA-12-1091	Hormone Therapy	Tamoxifen		484	521	
+3053	TCGA-12-1091	Hormone Therapy	Tamoxifen		358	453	
+3211	TCGA-14-0736	Hormone Therapy	Dexamethasone		0	NA	NO
+3213	TCGA-14-0736	Hormone Therapy	Dexamethasone		128	NA	NO
+3214	TCGA-14-0740	Hormone Therapy	Dexamethasone		0	NA	NO
+3215	TCGA-14-0781	Hormone Therapy	Dexamethasone		0	NA	NO
+3217	TCGA-14-0783	Hormone Therapy	Dexamethasone		-1	NA	NO
+3224	TCGA-14-0786	Hormone Therapy	Dexamethasone		127	NA	
+3230	TCGA-14-0786	Hormone Therapy	Dexamethasone		0	NA	NO
+3231	TCGA-14-0787	Hormone Therapy	Dexmethasone		15	41	
+3235	TCGA-14-0789	Hormone Therapy	Dexamethasone		119	224	NO
+3236	TCGA-14-0789	Hormone Therapy	Dexamethazone		0	118	NO
+3239	TCGA-14-0790	Hormone Therapy	Dexamethasone		0	NA	NO
+3240	TCGA-14-0812	Hormone Therapy	Dexamethasone		0	NA	NO
+3242	TCGA-14-0813	Hormone Therapy	Dexamethasone		0	41	NO
+3243	TCGA-14-0817	Hormone Therapy	Dexamethasone		0	15	NO
+3244	TCGA-14-0862	Hormone Therapy	Dexamethasone		0	NA	NO
+3245	TCGA-14-0865	Hormone Therapy	Dexamethasone		0	NA	NO
+3247	TCGA-14-0865	Hormone Therapy	Dexamethasone		205	NA	NO
+3248	TCGA-14-0866	Hormone Therapy	Dexamethasone		0	NA	
+3250	TCGA-14-0867	Hormone Therapy	Dexamethasone		0	15	NO
+3251	TCGA-14-0871	Hormone Therapy	Dexamethasone		0	281	NO
+3252	TCGA-14-1034	Hormone Therapy	Dexamethasone		282	NA	NO
+3254	TCGA-14-1034	Hormone Therapy	Dexamethasone		8	NA	NO
+3256	TCGA-14-1037	Hormone Therapy	Dexamethasone		326	NA	NO
+3259	TCGA-14-1037	Hormone Therapy	Dexamethasome		0	NA	NO
+3260	TCGA-14-1043	Hormone Therapy	Dexamethasone		0	NA	NO
+3262	TCGA-14-1395	Hormone Therapy	Dexamethasone		0	41	NO
+3263	TCGA-14-1396	Hormone Therapy	Dexamethasone		NA	NA	NO
+3264	TCGA-14-1401	Hormone Therapy	Dexamethsone		NA	NA	NO
+3268	TCGA-14-1402	Hormone Therapy	Dexamethasone		316	NA	NO
+3269	TCGA-14-1402	Hormone Therapy	Prednisone		316	NA	NO
+3272	TCGA-14-1402	Hormone Therapy	Dexamethasone		333	NA	NO
+3276	TCGA-14-1450	Hormone Therapy	Dexamethasone		0	NA	NO
+3277	TCGA-14-1450	Hormone Therapy	Dexamethasone		826	NA	NO
+3282	TCGA-14-1451	Hormone Therapy	Dexamethasone		0	NA	NO
+3284	TCGA-14-1451	Hormone Therapy	Dexamethasone		19	NA	NO
+3289	TCGA-14-1452	Hormone Therapy	Dexamethasone		172	216	NO
+3290	TCGA-14-1452	Hormone Therapy	Dexamethasone		NA	NA	NO
+3292	TCGA-14-1453	Hormone Therapy	Dexamethasone		NA	NA	NO
+3294	TCGA-14-1454	Hormone Therapy	Dexamethasone		291	NA	NO
+3296	TCGA-14-1454	Hormone Therapy	Dexamethasone		0	NA	NO
+3299	TCGA-14-1455	Hormone Therapy	Dexamethasone		17	28	NO
+3301	TCGA-14-1456	Hormone Therapy	Dexamthasone		98	NA	NO
+3304	TCGA-14-1456	Hormone Therapy	Dexamethasone		0	NA	NO
+3308	TCGA-14-1458	Hormone Therapy	Dexamethasone		81	NA	NO
+3311	TCGA-14-1458	Hormone Therapy	Dexaethasone		0	NA	NO
+3313	TCGA-14-1459	Hormone Therapy	Dexamethasone		NA	NA	NO
+3314	TCGA-14-1459	Hormone Therapy	Dexamethasone		NA	NA	NO
+3315	TCGA-14-1794	Hormone Therapy	Dexamethasone		0	NA	NO
+3317	TCGA-14-1795	Hormone Therapy	Dexamethasone		0	60	NO
+3318	TCGA-14-1821	Hormone Therapy	Dexamethasone		0	NA	NO
+3320	TCGA-14-1821	Hormone Therapy	Dexamethasone		331	NA	NO
+3322	TCGA-14-1823	Hormone Therapy	Dexamethasone		0	NA	NO
+3326	TCGA-14-1823	Hormone Therapy	Dexamethasone		140	NA	NO
+3327	TCGA-14-1825	Hormone Therapy	Dexamethasone		0	NA	NO
+3328	TCGA-14-1825	Hormone Therapy	Dexamethasone		82	NA	NO
+3329	TCGA-14-1827	Hormone Therapy	Dexamethasone		0	NA	NO
+3332	TCGA-14-1829	Hormone Therapy	Dexamethasone		0	NA	NO
+3334	TCGA-14-2554	Hormone Therapy	Dexamethasone		0	NA	NO
+3335	TCGA-14-2555	Hormone Therapy	Dexamethasone		0	NA	NO
+3337	TCGA-14-3476	Hormone Therapy	Dexamethasone		0	NA	NO
+3340	TCGA-14-3477	Hormone Therapy	Dexamethasone		0	NA	
+3341	TCGA-14-4157	Hormone Therapy	Dexamethasone		NA	NA	NO
+3455	TCGA-27-1830	Hormone Therapy	Dexamethasone		-1	70	NO
+3458	TCGA-27-1831	Hormone Therapy	Dexamethasone		-8	505	NO
+3461	TCGA-27-1831	Hormone Therapy	Oxcarbazepine		-8	505	NO
+3463	TCGA-27-1832	Hormone Therapy	Dexamethasone		0	300	NO
+3467	TCGA-27-1833	Hormone Therapy	Dexamethasone		-6	737	NO
+3470	TCGA-27-1834	Hormone Therapy	Dexamethasone		-5	1233	NO
+3477	TCGA-27-1835	Hormone Therapy	Levetiracetam		-7	648	NO
+3481	TCGA-27-1835	Hormone Therapy	Dexamethasone		-7	648	NO
+3483	TCGA-27-1836	Hormone Therapy	Dexamethasone		-7	914	NO
+3486	TCGA-27-1836	Hormone Therapy	Valproic Acid		-7	914	NO
+3494	TCGA-27-1837	Hormone Therapy	Dexamethasone		-6	427	NO
+3497	TCGA-27-1838	Hormone Therapy	Dexamethasone		-11	350	NO
+3498	TCGA-27-1838	Hormone Therapy	Oxcarbazepine		-11	350	NO
+3501	TCGA-27-2518	Hormone Therapy	Dexamethasone		55	753	NO
+3504	TCGA-27-2518	Hormone Therapy	Levenracetam		55	753	NO
+3508	TCGA-27-2519	Hormone Therapy	Levetiracetam		-10	NA	YES
+3509	TCGA-27-2519	Hormone Therapy	Dexamethasone		-10	NA	YES
+3512	TCGA-27-2521	Hormone Therapy	Levetiracetam		-15	NA	YES
+3513	TCGA-27-2521	Hormone Therapy	Dexamethasone		-15	NA	YES
+3516	TCGA-27-2523	Hormone Therapy	Phenytoin Sodium		-6	489	NO
+3518	TCGA-27-2523	Hormone Therapy	Dexamethasone		-6	489	NO
+3520	TCGA-27-2524	Hormone Therapy	Oxcarbazepine		-6	231	NO
+3522	TCGA-27-2524	Hormone Therapy	Dexamethasone		-6	231	NO
+3524	TCGA-27-2526	Hormone Therapy	Dexamethasone		-6	87	NO
+3525	TCGA-27-2527	Hormone Therapy	Dexamethasone		-7	438	NO
+3526	TCGA-27-2527	Hormone Therapy	Valproic acid		-7	438	NO
+3529	TCGA-27-2528	Hormone Therapy	Dexamethasone		-12	480	NO
+3530	TCGA-27-2528	Hormone Therapy	Levetiracetam		-12	480	NO
+3852	TCGA-AP-A05A	Hormone Therapy	Anastrozole		94	NA	NO
+3871	TCGA-AP-A0LL	Hormone Therapy	TAMOXIFEN		829	1133	NO
+3872	TCGA-AP-A0LL	Hormone Therapy	MEGACE		829	1133	NO
+3874	TCGA-AP-A0LP	Hormone Therapy	MEGACE		57	391	NO
+3878	TCGA-AP-A1DQ	Hormone Therapy	Anastrozole		924	NA	YES
+3886	TCGA-AP-A1E4	Hormone Therapy	Zometa		186	344	NO
+3937	TCGA-AX-A1CF	Hormone Therapy	Tamoxifen & Megace		1037	NA	NO
+3940	TCGA-AX-A1CK	Hormone Therapy	Megace		NA	NA	
+3966	TCGA-B5-A0JT	Hormone Therapy	Megace		45	221	NO
+3972	TCGA-B5-A0K2	Hormone Therapy	Megace		55	431	NO
+3990	TCGA-B5-A11F	Hormone Therapy	Megace		1749	3411	NO
+3991	TCGA-B5-A11H	Hormone Therapy	Megace		33	904	NO
+3992	TCGA-B5-A11I	Hormone Therapy	Megace		714	NA	YES
+3993	TCGA-B5-A11I	Hormone Therapy	Tamoxifen		742	NA	YES
+3996	TCGA-B5-A11Q	Hormone Therapy	Megace		118	529	NO
+4009	TCGA-B5-A1MU	Hormone Therapy	Tamoxifen		1399	1550	NO
+4010	TCGA-B5-A1MX	Hormone Therapy	Megace		83	NA	YES
+4040	TCGA-BG-A0MU	Hormone Therapy	MEGACE		232	NA	YES
+4062	TCGA-BS-A0T9	Hormone Therapy	fulvestrant		950	979	NO
+4194	TCGA-EY-A1GS	Hormone Therapy	Megace		193	NA	YES
+4261	TCGA-KJ-A3U4	Hormone Therapy	letrozole femara		1033	NA	YES
+4262	TCGA-KJ-A3U4	Hormone Therapy	letrozole femara		1033	NA	YES
+5714	TCGA-BJ-A2N7	Hormone Therapy	SYNTHROID	Stable Disease	16	NA	NO
+5717	TCGA-DO-A1JZ	Hormone Therapy	Synthroid		169	NA	YES
+5718	TCGA-DO-A1K0	Hormone Therapy	synthroid		73	NA	YES
+5719	TCGA-E3-A3DY	Hormone Therapy	Cytomel		84	NA	
+5720	TCGA-E3-A3DY	Hormone Therapy	Synthroid	Complete Response	267	NA	YES
+5721	TCGA-E3-A3DZ	Hormone Therapy	Levothroid		25	25	NO
+5722	TCGA-E3-A3DZ	Hormone Therapy	Cytomel		30	56	NO
+5723	TCGA-E3-A3DZ	Hormone Therapy	Synthroid		59	NA	YES
+5724	TCGA-E3-A3E0	Hormone Therapy	Cytomel	Complete Response	182	NA	NO
+5725	TCGA-E3-A3E1	Hormone Therapy	Synthroid		63	NA	YES
+5726	TCGA-E3-A3E2	Hormone Therapy	Cytomel		55	116	NO
+5727	TCGA-E3-A3E2	Hormone Therapy	Synthroid		116	NA	
+5728	TCGA-E3-A3E3	Hormone Therapy	Cytomel		41	59	NO
+5729	TCGA-E3-A3E3	Hormone Therapy	Levothyroxine		70	NA	YES
+5730	TCGA-E3-A3E5	Hormone Therapy	Cytomel		39	74	NO
+5731	TCGA-E3-A3E5	Hormone Therapy	Cytomel		39	74	NO
+5732	TCGA-E3-A3E5	Hormone Therapy	Levothyroxine		73	NA	YES
+5733	TCGA-E3-A3E5	Hormone Therapy	Levothyroxine		73	NA	YES
+5734	TCGA-E8-A242	Hormone Therapy	Synthroid		36	NA	YES
+5735	TCGA-E8-A2JQ	Hormone Therapy	Synthroid		1	NA	YES
+5736	TCGA-FY-A3ON	Hormone Therapy	Levothyroxine		86	NA	YES
+5737	TCGA-FY-A3R8	Hormone Therapy	Levothyroxine		296	NA	YES
+5738	TCGA-FY-A3R9	Hormone Therapy	Levothyroxine		27	NA	YES
+5739	TCGA-FY-A3W9	Hormone Therapy	Levothyroxine	Complete Response	214	NA	YES
+5740	TCGA-FY-A3YR	Hormone Therapy	Synthroid		102	NA	YES
+5741	TCGA-FY-A40K	Hormone Therapy	Synthroid		461	NA	YES
+5742	TCGA-FY-A40L	Hormone Therapy	Levothyroxine		224	NA	YES
+5743	TCGA-FY-A40M	Hormone Therapy	Levothyroxine		188	NA	YES
+5744	TCGA-FY-A40N	Hormone Therapy	Levothyroxine		26	NA	YES
+5745	TCGA-FY-A4B0	Hormone Therapy	Synthroid		12	NA	YES
+5746	TCGA-FY-A4B4	Hormone Therapy	Levothyroxine		35	NA	YES
+5747	TCGA-IM-A3ED	Hormone Therapy	Armour Thyroid		761	NA	YES
+5748	TCGA-IM-A41Y	Hormone Therapy	Synthroid		86	NA	YES
+5749	TCGA-IM-A41Z	Hormone Therapy	Synthroid		8	NA	YES
+5750	TCGA-KS-A41F	Hormone Therapy	Synthroid		53	NA	YES
+5751	TCGA-KS-A41I	Hormone Therapy	synthroid		38	NA	YES
+5752	TCGA-KS-A41J	Hormone Therapy	cytomel		1	47	NO
+5753	TCGA-KS-A41J	Hormone Therapy	synthroid		47	NA	YES
+5754	TCGA-KS-A41L	Hormone Therapy	Levoxyl		217	NA	YES
+5755	TCGA-KS-A4I1	Hormone Therapy	cytomel	Complete Response	88	166	NO
+5756	TCGA-KS-A4I1	Hormone Therapy	synthroid		182	NA	YES
+5757	TCGA-KS-A4I3	Hormone Therapy	cytomel	Complete Response	17	34	NO
+5758	TCGA-KS-A4I3	Hormone Therapy	levothyroxine		48	NA	YES
+5759	TCGA-KS-A4I5	Hormone Therapy	levoxyl		140	NA	YES
+5760	TCGA-KS-A4I7	Hormone Therapy	levothyroxine		76	NA	YES
+5761	TCGA-KS-A4I9	Hormone Therapy	cytomel	Complete Response	38	61	NO
+5762	TCGA-KS-A4I9	Hormone Therapy	levoxyl		77	NA	YES
+5763	TCGA-KS-A4IB	Hormone Therapy	cytomel	Complete Response	50	71	NO
+5764	TCGA-KS-A4IB	Hormone Therapy	levoxyl		91	NA	YES
+5765	TCGA-KS-A4IC	Hormone Therapy	cytomel	Complete Response	2	20	NO
+5766	TCGA-KS-A4IC	Hormone Therapy	levothyroxine		34	NA	YES
+5767	TCGA-KS-A4ID	Hormone Therapy	cytomel	Complete Response	1	75	NO
+5768	TCGA-KS-A4ID	Hormone Therapy	synthroid		78	NA	YES
+5769	TCGA-MK-A4N6	Hormone Therapy	levothyroxine		70	NA	YES
+5770	TCGA-MK-A4N7	Hormone Therapy	levothyroxine		139	NA	YES
+5771	TCGA-MK-A4N9	Hormone Therapy	levothyroxine		319	NA	YES
+5881	TCGA-DU-6396	Hormone Therapy	Tamoxifen		2127	2250	NO
+6044	TCGA-E1-5302	Hormone Therapy	Tamoxifen		1255	1303	NO
+6046	TCGA-E1-5302	Hormone Therapy	Tamoxifen		294	433	NO
+6055	TCGA-E1-5303	Hormone Therapy	Tamoxifen		202	215	NO
+6092	TCGA-E1-5311	Hormone Therapy	Tamoxifen		3282	3749	NO
+6106	TCGA-E1-5318	Hormone Therapy	Tamoxiten		2211	2267	NO
+6216	TCGA-E1-A7Z4	Hormone Therapy	Tamoxifen	Stable Disease	1266	1834	NO
+6971	TCGA-2Y-A9H8	Hormone Therapy	SOM 230	Stable Disease	498	608	NO
+6979	TCGA-BC-A10Q	Hormone Therapy	Tamoxifen		359	408	NO
+7049	TCGA-C5-A1M6	Hormone Therapy	Hydrocortisone	Clinical Progressive Disease	341	489	NO
+7819	TCGA-D3-A1Q9	Hormone Therapy	Lupron	Clinical Progressive Disease	356	504	NO
+7867	TCGA-EB-A4OY	Hormone Therapy	Fareston	Complete Response	52	593	NO
+7869	TCGA-EB-A550	Hormone Therapy	Tamoxifen	Complete Response	6	264	NO
+8048	TCGA-W3-AA1O	Hormone Therapy	tamoxifen	Clinical Progressive Disease	61	92	NO
+8051	TCGA-W3-AA1Q	Hormone Therapy	Tamoxifen	Clinical Progressive Disease	1735	NA	NO
+8102	TCGA-5L-AAT0	Hormone Therapy	Tamoxifen		322	NA	YES
+8103	TCGA-5L-AAT0	Hormone Therapy	Tamoxifen		322	NA	YES
+8104	TCGA-5L-AAT1	Hormone Therapy	Letrozol		46	NA	YES
+8105	TCGA-5L-AAT1	Hormone Therapy	Letrozol		46	NA	YES
+8107	TCGA-5T-A9QA	Hormone Therapy	Letrozole		304	NA	YES
+8111	TCGA-A1-A0SF	Hormone Therapy	tamoxifen		157	918	NO
+8122	TCGA-A1-A0SQ	Hormone Therapy	tamoxifen		299	NA	YES
+8124	TCGA-A2-A04N	Hormone Therapy	Arimidex		308	2121	NO
+8127	TCGA-A2-A04P	Hormone Therapy	Exemestane		424	NA	NO
+8139	TCGA-A2-A04R	Hormone Therapy	Anastrozole		910	NA	YES
+8140	TCGA-A2-A04R	Hormone Therapy	Tamoxifen		399	909	NO
+8151	TCGA-A2-A04V	Hormone Therapy	EXEMESTANE		1452	NA	NO
+8152	TCGA-A2-A04V	Hormone Therapy	EXEMESTANE		1452	NA	NO
+8153	TCGA-A2-A04V	Hormone Therapy	TAMOXIFEN		107	1258	NO
+8154	TCGA-A2-A04V	Hormone Therapy	TAMOXIFEN		107	1258	NO
+8155	TCGA-A2-A04V	Hormone Therapy	LETROZOLE		1269	1439	NO
+8156	TCGA-A2-A04V	Hormone Therapy	LETROZOLE		1269	1439	NO
+8170	TCGA-A2-A04X	Hormone Therapy	TAMOXIFEN		352	490	NO
+8181	TCGA-A2-A04Y	Hormone Therapy	Tamoxifen		273	371	NO
+8182	TCGA-A2-A04Y	Hormone Therapy	Tamoxifen		273	371	NO
+8183	TCGA-A2-A04Y	Hormone Therapy	Arimidex		372	NA	YES
+8184	TCGA-A2-A04Y	Hormone Therapy	Arimidex		372	NA	YES
+8189	TCGA-A2-A0CK	Hormone Therapy	Anastrozole		1569	NA	YES
+8193	TCGA-A2-A0CL	Hormone Therapy	Arimidex		505	NA	YES
+8196	TCGA-A2-A0CL	Hormone Therapy	Tamoxifen		269	504	NO
+8201	TCGA-A2-A0CM	Hormone Therapy	Tamoxifen		234	NA	NO
+8204	TCGA-A2-A0CO	Hormone Therapy	Tamoxifen	Complete Response	84	512	NO
+8205	TCGA-A2-A0CO	Hormone Therapy	Arimidex		513	NA	
+8206	TCGA-A2-A0CP	Hormone Therapy	Anastrozole		206	2043	NO
+8211	TCGA-A2-A0CQ	Hormone Therapy	Arimidex		201	NA	YES
+8212	TCGA-A2-A0CQ	Hormone Therapy	Arimidex		201	NA	YES
+8220	TCGA-A2-A0CR	Hormone Therapy	Tamoxifen	Complete Response	224	300	NO
+8221	TCGA-A2-A0CR	Hormone Therapy	Anastrazole		315	NA	YES
+8223	TCGA-A2-A0CS	Hormone Therapy	Anastrozole		190	NA	YES
+8224	TCGA-A2-A0CT	Hormone Therapy	Tamoxifen		559	1537	NO
+8226	TCGA-A2-A0CT	Hormone Therapy	Arimidex		160	433	NO
+8228	TCGA-A2-A0CU	Hormone Therapy	Tamoxifen		98	NA	NO
+8229	TCGA-A2-A0CV	Hormone Therapy	Tamoxifen		274	NA	YES
+8233	TCGA-A2-A0CW	Hormone Therapy	Anastrozole		156	NA	YES
+8239	TCGA-A2-A0CX	Hormone Therapy	Letrozole		686	NA	YES
+8240	TCGA-A2-A0CX	Hormone Therapy	Tamoxifen		1184	1273	NO
+8242	TCGA-A2-A0CY	Hormone Therapy	Letrozole		1261	NA	YES
+8245	TCGA-A2-A0CY	Hormone Therapy	Exemestane		1071	1162	NO
+8246	TCGA-A2-A0CY	Hormone Therapy	Tamoxifen		197	357	NO
+8247	TCGA-A2-A0CY	Hormone Therapy	Anastrozole		455	507	NO
+8249	TCGA-A2-A0CY	Hormone Therapy	Anastrozole		634	665	NO
+8252	TCGA-A2-A0CZ	Hormone Therapy	Tamoxifen		236	NA	YES
+8263	TCGA-A2-A0D3	Hormone Therapy	Tamoxifen		195	NA	YES
+8266	TCGA-A2-A0D4	Hormone Therapy	Tamoxifen		279	NA	YES
+8270	TCGA-A2-A0EM	Hormone Therapy	Tamoxifen		75	NA	NO
+8271	TCGA-A2-A0EN	Hormone Therapy	Anastrozole		1985	NA	YES
+8272	TCGA-A2-A0EN	Hormone Therapy	Tamoxifen		64	1926	NO
+8273	TCGA-A2-A0EO	Hormone Therapy	Exemestane		876	NA	YES
+8274	TCGA-A2-A0EO	Hormone Therapy	Tamoxifen		158	876	NO
+8279	TCGA-A2-A0EP	Hormone Therapy	Arimidex	Complete Response	222	1781	NO
+8280	TCGA-A2-A0EP	Hormone Therapy	Arimidex	Complete Response	1959	2461	NO
+8287	TCGA-A2-A0ER	Hormone Therapy	Arimidex		183	NA	YES
+8291	TCGA-A2-A0ES	Hormone Therapy	Anastrozole		203	458	NO
+8294	TCGA-A2-A0ES	Hormone Therapy	Exemestane		459	NA	YES
+8297	TCGA-A2-A0ET	Hormone Therapy	Anastrozole		282	NA	YES
+8299	TCGA-A2-A0EW	Hormone Therapy	Arimidex		221	812	NO
+8303	TCGA-A2-A0EW	Hormone Therapy	Letrozole	Complete Response	813	903	NO
+8304	TCGA-A2-A0EW	Hormone Therapy	Arimidex	Complete Response	904	1001	NO
+8305	TCGA-A2-A0EW	Hormone Therapy	Exemestane	Clinical Progressive Disease	1002	1365	NO
+8307	TCGA-A2-A0EW	Hormone Therapy	Fulvestrant	Clinical Progressive Disease	1366	1562	NO
+8309	TCGA-A2-A0EW	Hormone Therapy	Tamoxifen	Clinical Progressive Disease	1618	1722	NO
+8311	TCGA-A2-A0EX	Hormone Therapy	Lupron		172	222	NO
+8312	TCGA-A2-A0EX	Hormone Therapy	Tamoxifen		165	NA	YES
+8313	TCGA-A2-A0EX	Hormone Therapy	Zoladex		273	NA	YES
+8317	TCGA-A2-A0EY	Hormone Therapy	Arimidex		329	NA	YES
+8322	TCGA-A2-A0ST	Hormone Therapy	Letrozole		251	286	NO
+8324	TCGA-A2-A0ST	Hormone Therapy	Anastrozole		287	NA	
+8325	TCGA-A2-A0ST	Hormone Therapy	Tamoxifen		495	NA	
+8326	TCGA-A2-A0SU	Hormone Therapy	Arimidex		93	NA	YES
+8328	TCGA-A2-A0SV	Hormone Therapy	Arimidex		79	168	NO
+8329	TCGA-A2-A0SV	Hormone Therapy	Fulvestrant		170	223	NO
+8331	TCGA-A2-A0SW	Hormone Therapy	Arimidex		85	479	NO
+8332	TCGA-A2-A0SW	Hormone Therapy	Tamoxifen		479	1365	NO
+8340	TCGA-A2-A0SY	Hormone Therapy	Arimidex		256	NA	YES
+8351	TCGA-A2-A0T3	Hormone Therapy	Tamoxifen		NA	NA	YES
+8354	TCGA-A2-A0T4	Hormone Therapy	Femara		85	NA	YES
+8357	TCGA-A2-A0T5	Hormone Therapy	Tamoxifen		NA	NA	NO
+8358	TCGA-A2-A0T6	Hormone Therapy	Tamoxifen		232	NA	YES
+8364	TCGA-A2-A0T7	Hormone Therapy	Tamoxifen		365	NA	YES
+8366	TCGA-A2-A0YC	Hormone Therapy	Arimidex		103	NA	YES
+8369	TCGA-A2-A0YD	Hormone Therapy	Arimidex		143	NA	YES
+8373	TCGA-A2-A0YF	Hormone Therapy	Arimidex		NA	NA	YES
+8378	TCGA-A2-A0YG	Hormone Therapy	Arimidex		NA	NA	YES
+8382	TCGA-A2-A0YH	Hormone Therapy	Arimidex		NA	NA	YES
+8384	TCGA-A2-A0YI	Hormone Therapy	Femara		NA	NA	NO
+8387	TCGA-A2-A0YK	Hormone Therapy	Arimidex		NA	NA	YES
+8393	TCGA-A2-A0YL	Hormone Therapy	Arimidex		177	NA	YES
+8394	TCGA-A2-A0YT	Hormone Therapy	Arimidex		286	723	NO
+8396	TCGA-A2-A1FV	Hormone Therapy	Arimidex		141	NA	YES
+8401	TCGA-A2-A1FW	Hormone Therapy	Femara		364	NA	YES
+8403	TCGA-A2-A1FX	Hormone Therapy	Arimidex		198	NA	YES
+8405	TCGA-A2-A1FZ	Hormone Therapy	Arimidex		NA	NA	YES
+8409	TCGA-A2-A1G0	Hormone Therapy	Tamoxifen		NA	NA	YES
+8412	TCGA-A2-A1G4	Hormone Therapy	Femara		207	NA	YES
+8413	TCGA-A2-A1G4	Hormone Therapy	Femara		207	NA	YES
+8421	TCGA-A2-A259	Hormone Therapy	Arimidex		96	NA	YES
+8424	TCGA-A2-A25A	Hormone Therapy	Femara		NA	NA	
+8425	TCGA-A2-A25A	Hormone Therapy	Femara		NA	NA	
+8433	TCGA-A2-A25B	Hormone Therapy	Tamoxifen		293	NA	YES
+8437	TCGA-A2-A25C	Hormone Therapy	Tamoxifen		292	325	NO
+8438	TCGA-A2-A25C	Hormone Therapy	Aromasin		476	NA	YES
+8439	TCGA-A2-A25C	Hormone Therapy	Femara		325	475	NO
+8440	TCGA-A2-A25D	Hormone Therapy	Tamoxifen		0	NA	YES
+8441	TCGA-A2-A25D	Hormone Therapy	Exemestane		0	0	NO
+8442	TCGA-A2-A25D	Hormone Therapy	Arimidex		0	0	NO
+8447	TCGA-A2-A25E	Hormone Therapy	Goserelin		2380	NA	YES
+8448	TCGA-A2-A25E	Hormone Therapy	Tamoxifen		334	2155	NO
+8449	TCGA-A2-A25E	Hormone Therapy	Anastrozole		3055	NA	YES
+8454	TCGA-A2-A3KC	Hormone Therapy	Tamoxifen		203	1101	NO
+8456	TCGA-A2-A3KC	Hormone Therapy	Arimidex		1102	NA	YES
+8459	TCGA-A2-A3KD	Hormone Therapy	Tamoxifen		282	NA	YES
+8463	TCGA-A2-A3XS	Hormone Therapy	Tamoxifen	Clinical Progressive Disease	281	682	NO
+8474	TCGA-A2-A3XU	Hormone Therapy	Arimidex	Clinical Progressive Disease	596	718	NO
+8479	TCGA-A2-A3XV	Hormone Therapy	Tamoxifen		429	NA	YES
+8483	TCGA-A2-A3XW	Hormone Therapy	Tamoxifen		341	NA	YES
+8502	TCGA-A2-A3Y0	Hormone Therapy	Arimidex	Complete Response	NA	NA	NO
+8503	TCGA-A2-A3Y0	Hormone Therapy	Femara	Complete Response	NA	NA	NO
+8504	TCGA-A2-A3Y0	Hormone Therapy	Tamoxifen		NA	NA	YES
+8508	TCGA-A2-A4RY	Hormone Therapy	Tamoxifen		203	NA	YES
+8512	TCGA-A2-A4S2	Hormone Therapy	Arimidex		261	NA	YES
+8513	TCGA-A7-A0CD	Hormone Therapy	Arimidex		112	NA	YES
+8514	TCGA-A7-A0CD	Hormone Therapy	Arimidex		112	NA	YES
+8518	TCGA-A7-A0CH	Hormone Therapy	Arimidex		107	NA	YES
+8521	TCGA-A7-A0CJ	Hormone Therapy	Arimidex		203	NA	YES
+8523	TCGA-A7-A0D9	Hormone Therapy	Tamoxifen		157	NA	YES
+8528	TCGA-A7-A0DB	Hormone Therapy	Arimidex		141	NA	YES
+8532	TCGA-A7-A0DC	Hormone Therapy	Arimidex		264	NA	YES
+8533	TCGA-A7-A0DC	Hormone Therapy	Arimidex		264	509	NO
+8534	TCGA-A7-A0DC	Hormone Therapy	Tamoxifen		510	NA	NO
+8537	TCGA-A7-A13E	Hormone Therapy	Arimidex		211	NA	YES
+8543	TCGA-A7-A13E	Hormone Therapy	Anastrozole		211	589	NO
+8547	TCGA-A7-A13F	Hormone Therapy	Tamoxifen		179	210	NO
+8548	TCGA-A7-A13F	Hormone Therapy	Arimidex		358	NA	YES
+8549	TCGA-A7-A13G	Hormone Therapy	Arimidex		33	NA	YES
+8550	TCGA-A7-A13G	Hormone Therapy	Arimidex		33	NA	YES
+8551	TCGA-A7-A13G	Hormone Therapy	Arimidex		33	NA	YES
+8552	TCGA-A7-A13G	Hormone Therapy	Arimidex		33	NA	YES
+8553	TCGA-A7-A13H	Hormone Therapy	Anastrozole		78	NA	YES
+8554	TCGA-A7-A26E	Hormone Therapy	Arimidex		247	NA	YES
+8555	TCGA-A7-A26E	Hormone Therapy	Arimidex		247	NA	YES
+8566	TCGA-A7-A26H	Hormone Therapy	Anastrozole		44	296	NO
+8567	TCGA-A7-A26H	Hormone Therapy	Anastrozole		44	296	NO
+8574	TCGA-A7-A26J	Hormone Therapy	Tamoxifen		92	NA	YES
+8583	TCGA-A7-A3IY	Hormone Therapy	Anastrozole		151	NA	YES
+8586	TCGA-A7-A3IZ	Hormone Therapy	Anastrozole		124	NA	YES
+8587	TCGA-A7-A3J0	Hormone Therapy	Anastrazole		72	NA	YES
+8588	TCGA-A7-A3J1	Hormone Therapy	Anastrazole		137	175	NO
+8589	TCGA-A7-A3J1	Hormone Therapy	Anastrazole		137	175	NO
+8590	TCGA-A7-A3J1	Hormone Therapy	Tamoxifen		189	251	NO
+8591	TCGA-A7-A3J1	Hormone Therapy	Tamoxifen		189	251	NO
+8592	TCGA-A7-A3J1	Hormone Therapy	Aromasin		300	NA	YES
+8593	TCGA-A7-A3J1	Hormone Therapy	Aromasin		300	NA	YES
+8594	TCGA-A7-A3RF	Hormone Therapy	Anastrozole	Clinical Progressive Disease	137	NA	YES
+8598	TCGA-A7-A425	Hormone Therapy	Arimidex		378	NA	YES
+8605	TCGA-A7-A426	Hormone Therapy	Tamoxifen		258	NA	YES
+8606	TCGA-A7-A426	Hormone Therapy	Tamoxifen		258	NA	YES
+8610	TCGA-A7-A4SA	Hormone Therapy	Tamoxifen		217	NA	YES
+8613	TCGA-A7-A4SB	Hormone Therapy	Anastrozole		218	NA	YES
+8614	TCGA-A7-A4SC	Hormone Therapy	TAMOXIFEN		61	139	NO
+8615	TCGA-A7-A4SC	Hormone Therapy	TAMOXIFEN		169	NA	YES
+8624	TCGA-A7-A4SF	Hormone Therapy	Anastrozole		306	NA	YES
+8625	TCGA-A7-A56D	Hormone Therapy	Arimidex		157	NA	YES
+8631	TCGA-A7-A5ZW	Hormone Therapy	Tamoxifen		269	NA	YES
+8638	TCGA-A7-A5ZX	Hormone Therapy	Tamoxifen	Complete Response	268	NA	YES
+8639	TCGA-A7-A5ZX	Hormone Therapy	Tamoxifen	Complete Response	268	NA	YES
+8647	TCGA-A7-A6VX	Hormone Therapy	Anastrazole		230	NA	YES
+8651	TCGA-A8-A06O	Hormone Therapy	Letrozole		62	NA	YES
+8653	TCGA-A8-A06P	Hormone Therapy	Tamoxifen		NA	NA	
+8657	TCGA-A8-A06R	Hormone Therapy	Tamoxifen	Complete Response	243	334	NO
+8658	TCGA-A8-A06T	Hormone Therapy	Anastrozole		0	NA	YES
+8659	TCGA-A8-A06T	Hormone Therapy	Anastrozole		0	NA	YES
+8660	TCGA-A8-A06Y	Hormone Therapy	Anastrozole		92	NA	YES
+8664	TCGA-A8-A075	Hormone Therapy	Tamoxifen		275	NA	YES
+8666	TCGA-A8-A076	Hormone Therapy	Anastrozole		59	NA	YES
+8674	TCGA-A8-A07E	Hormone Therapy	Letrozole		0	NA	YES
+8675	TCGA-A8-A07E	Hormone Therapy	Letrozole		0	NA	YES
+8679	TCGA-A8-A07F	Hormone Therapy	Tamoxifen		365	NA	YES
+8683	TCGA-A8-A07G	Hormone Therapy	Letrozole		243	NA	YES
+8688	TCGA-A8-A07I	Hormone Therapy	Exemestane	Clinical Progressive Disease	183	NA	YES
+8694	TCGA-A8-A07J	Hormone Therapy	Tamoxifen		184	NA	YES
+8696	TCGA-A8-A07L	Hormone Therapy	Anastrozole		184	NA	YES
+8702	TCGA-A8-A07P	Hormone Therapy	Anastrozole		273	NA	YES
+8704	TCGA-A8-A07S	Hormone Therapy	Tamoxifen		151	NA	YES
+8709	TCGA-A8-A07W	Hormone Therapy	Exemestane		212	NA	YES
+8711	TCGA-A8-A07Z	Hormone Therapy	Exemestane		NA	NA	YES
+8716	TCGA-A8-A082	Hormone Therapy	Letrozole		184	NA	YES
+8717	TCGA-A8-A082	Hormone Therapy	Exemestane	Complete Response	852	914	NO
+8718	TCGA-A8-A085	Hormone Therapy	Tamoxifen		394	NA	YES
+8724	TCGA-A8-A08B	Hormone Therapy	Tamoxifen	Complete Response	214	883	NO
+8726	TCGA-A8-A08B	Hormone Therapy	Letrozole		914	NA	YES
+8730	TCGA-A8-A08C	Hormone Therapy	Tamoxifen		243	NA	YES
+8739	TCGA-A8-A08F	Hormone Therapy	Letrozole		243	NA	YES
+8740	TCGA-A8-A08F	Hormone Therapy	Letrozole		243	NA	YES
+8745	TCGA-A8-A08G	Hormone Therapy	Exemestane		181	NA	YES
+8749	TCGA-A8-A08I	Hormone Therapy	Letrozole		212	NA	YES
+8752	TCGA-A8-A08O	Hormone Therapy	Anastrozole	Clinical Progressive Disease	366	397	NO
+8753	TCGA-A8-A08O	Hormone Therapy	Tamoxifen		943	NA	YES
+8760	TCGA-A8-A08P	Hormone Therapy	Exemestane		244	NA	YES
+8762	TCGA-A8-A08S	Hormone Therapy	Anastrozole		62	NA	YES
+8763	TCGA-A8-A08S	Hormone Therapy	Anastrozole		62	NA	YES
+8769	TCGA-A8-A08X	Hormone Therapy	Tamoxifen		366	NA	YES
+8776	TCGA-A8-A091	Hormone Therapy	Tamoxifen	Stable Disease	184	639	NO
+8777	TCGA-A8-A091	Hormone Therapy	Tamoxifen	Stable Disease	184	639	NO
+8778	TCGA-A8-A091	Hormone Therapy	Letrozole		639	NA	YES
+8779	TCGA-A8-A091	Hormone Therapy	Letrozole		639	NA	YES
+8787	TCGA-A8-A092	Hormone Therapy	Tamoxifen		181	NA	YES
+8788	TCGA-A8-A093	Hormone Therapy	Tamoxifen		28	NA	YES
+8789	TCGA-A8-A093	Hormone Therapy	Tamoxifen		28	NA	YES
+8793	TCGA-A8-A095	Hormone Therapy	Tamoxifen		181	NA	YES
+8796	TCGA-A8-A097	Hormone Therapy	Tamoxifen		31	NA	YES
+8797	TCGA-A8-A099	Hormone Therapy	Exemestane		61	NA	YES
+8802	TCGA-A8-A09A	Hormone Therapy	Tamoxifen		243	NA	YES
+8807	TCGA-A8-A09B	Hormone Therapy	Anastrozole		153	242	NO
+8811	TCGA-A8-A09D	Hormone Therapy	Tamoxifen	Complete Response	274	1400	NO
+8812	TCGA-A8-A09D	Hormone Therapy	Anastrozole		1400	NA	YES
+8813	TCGA-A8-A09E	Hormone Therapy	Anastrozole		335	NA	YES
+8814	TCGA-A8-A09E	Hormone Therapy	Anastrozole		335	NA	YES
+8815	TCGA-A8-A09I	Hormone Therapy	Anastrozole		31	NA	YES
+8816	TCGA-A8-A09I	Hormone Therapy	Anastrozole		31	NA	YES
+8818	TCGA-A8-A09M	Hormone Therapy	Exemestane		276	NA	YES
+8819	TCGA-A8-A09Q	Hormone Therapy	Anastrozole		31	NA	YES
+8820	TCGA-A8-A09R	Hormone Therapy	Letrozole		0	NA	YES
+8821	TCGA-A8-A09T	Hormone Therapy	Anastrozole		122	NA	YES
+8822	TCGA-A8-A09V	Hormone Therapy	Tamoxifen		123	NA	YES
+8823	TCGA-A8-A0A1	Hormone Therapy	Tamoxifen		31	NA	YES
+8824	TCGA-A8-A0A2	Hormone Therapy	Tamoxifen		92	NA	YES
+8825	TCGA-A8-A0A4	Hormone Therapy	Tamoxifen	Complete Response	31	215	NO
+8826	TCGA-A8-A0A4	Hormone Therapy	Letrozole		215	NA	YES
+8829	TCGA-A8-A0A6	Hormone Therapy	Exemestane	Complete Response	214	245	NO
+8830	TCGA-A8-A0A6	Hormone Therapy	Anastrozole		245	NA	YES
+8832	TCGA-A8-A0A9	Hormone Therapy	Anastrozole		31	NA	YES
+8836	TCGA-A8-A0AB	Hormone Therapy	Tamoxifen		214	NA	YES
+8837	TCGA-A8-A0AD	Hormone Therapy	Tamoxifen		61	NA	YES
+8839	TCGA-AC-A23E	Hormone Therapy	Tamoxifen		111	NA	YES
+8843	TCGA-AC-A23G	Hormone Therapy	Arimidex	Complete Response	237	NA	NO
+8845	TCGA-AC-A2B8	Hormone Therapy	Arimidex		NA	NA	YES
+8852	TCGA-AC-A2FB	Hormone Therapy	Arimidex	Complete Response	225	895	NO
+8855	TCGA-AC-A2FE	Hormone Therapy	Arimidex		273	NA	
+8862	TCGA-AC-A2FF	Hormone Therapy	Tamoxifen	Complete Response	382	NA	NO
+8863	TCGA-AC-A2FG	Hormone Therapy	Arimidex	Complete Response	39	NA	
+8866	TCGA-AC-A2FK	Hormone Therapy	Femara	Complete Response	294	NA	NO
+8869	TCGA-AC-A2FO	Hormone Therapy	Hormone, NOS	Complete Response	225	NA	NO
+8881	TCGA-AC-A2QJ	Hormone Therapy	Faslodex	Clinical Progressive Disease	349	418	NO
+8885	TCGA-AC-A3QP	Hormone Therapy	Femara		115	NA	YES
+8889	TCGA-AC-A3TM	Hormone Therapy	Arimidex		272	NA	YES
+8890	TCGA-AC-A3TN	Hormone Therapy	Arimidex		55	NA	YES
+8897	TCGA-AC-A3W5	Hormone Therapy	Letrozole		170	NA	YES
+8898	TCGA-AC-A3W5	Hormone Therapy	Letrozole		170	NA	YES
+8899	TCGA-AC-A3W7	Hormone Therapy	Femara		65	NA	YES
+8903	TCGA-AC-A3YJ	Hormone Therapy	Arimidex		62	247	NO
+8904	TCGA-AC-A3YJ	Hormone Therapy	Femara		256	NA	YES
+8905	TCGA-AC-A5XS	Hormone Therapy	Femara		97	NA	YES
+8906	TCGA-AC-A5XS	Hormone Therapy	Femara		97	NA	YES
+8907	TCGA-AC-A5XU	Hormone Therapy	Letrozole		235	NA	YES
+8912	TCGA-AO-A03L	Hormone Therapy	Tamoxifen		227	2057	NO
+8913	TCGA-AO-A03L	Hormone Therapy	Lupron		363	2057	NO
+8916	TCGA-AO-A03M	Hormone Therapy	Tamoxifen		161	NA	YES
+8919	TCGA-AO-A03N	Hormone Therapy	Femara		450	820	NO
+8920	TCGA-AO-A03N	Hormone Therapy	Tamoxifen		1007	NA	YES
+8924	TCGA-AO-A03N	Hormone Therapy	Arimidex		207	449	NO
+8925	TCGA-AO-A03N	Hormone Therapy	Aromasin		821	1007	NO
+8929	TCGA-AO-A03N	Hormone Therapy	Fulvestrant		1639	1667	NO
+8932	TCGA-AO-A03O	Hormone Therapy	ANASTROZOLE (ARIMIDEX)		182	993	NO
+8938	TCGA-AO-A03P	Hormone Therapy	EXEMESTANE (AROMASIN)		2332	2422	NO
+8939	TCGA-AO-A03P	Hormone Therapy	LETROZOLE (FEMARA)		1918	2331	NO
+8940	TCGA-AO-A03P	Hormone Therapy	FULVESTRANT		2853	2881	NO
+8942	TCGA-AO-A03R	Hormone Therapy	LETROZOLE (FEMARA)		192	NA	YES
+8948	TCGA-AO-A03T	Hormone Therapy	TAMOXIFEN (NOVADEX)		232	1095	NO
+8949	TCGA-AO-A03T	Hormone Therapy	LUPRON		1095	NA	YES
+8950	TCGA-AO-A03T	Hormone Therapy	LETROZOLE (FEMARA)		1130	NA	YES
+8956	TCGA-AO-A03V	Hormone Therapy	Tamoxifen		200	735	NO
+8957	TCGA-AO-A03V	Hormone Therapy	Arimidex		753	NA	YES
+8967	TCGA-AO-A0J3	Hormone Therapy	ANASTROZOLE (ARIMIDEX)		245	NA	YES
+8974	TCGA-AO-A0J5	Hormone Therapy	Femara (Letrozole)		9	422	NO
+8975	TCGA-AO-A0J5	Hormone Therapy	Fulvestrant (Faslodex)		618	NA	YES
+8980	TCGA-AO-A0J7	Hormone Therapy	ANASTROZOLE (ARIMIDEX)		202	NA	YES
+8984	TCGA-AO-A0J8	Hormone Therapy	ANASTROZOLE (ARIMIDEX)		277	NA	YES
+8990	TCGA-AO-A0J9	Hormone Therapy	ARIMIDEX (ANASTROZOLE)		239	1023	NO
+8993	TCGA-AO-A0J9	Hormone Therapy	AROMASIN (EXEMESTANE)		1072	1207	NO
+8994	TCGA-AO-A0J9	Hormone Therapy	TAMOXIFEN		1207	NA	YES
+8996	TCGA-AO-A0JA	Hormone Therapy	LEUPROLIDE ACETATE (LUPRON)		166	NA	YES
+8998	TCGA-AO-A0JA	Hormone Therapy	TAMOXIFEN		166	242	NO
+9000	TCGA-AO-A0JB	Hormone Therapy	TAMOXIFEN		175	NA	YES
+9003	TCGA-AO-A0JC	Hormone Therapy	LETROZOLE (FEMARA)		292	NA	YES
+9007	TCGA-AO-A0JD	Hormone Therapy	ANASTROZOLE (ARIMIDEX)		261	NA	YES
+9017	TCGA-AO-A0JF	Hormone Therapy	ANASTROZOLE (ARIMIDEX)		336	353	NO
+9018	TCGA-AO-A0JF	Hormone Therapy	LETROZOLE (FEMARA)		356	NA	YES
+9022	TCGA-AO-A0JG	Hormone Therapy	ARIMIDEX		197	NA	YES
+9026	TCGA-AO-A0JI	Hormone Therapy	Arimidex (Anastrozole)		224	NA	YES
+9027	TCGA-AO-A0JI	Hormone Therapy	Arimidex (Anastrozole)		224	NA	YES
+9034	TCGA-AO-A0JJ	Hormone Therapy	Letrozole (Femara)		154	NA	YES
+9041	TCGA-AO-A0JM	Hormone Therapy	TAMOXIFEN		330	NA	YES
+9049	TCGA-AO-A125	Hormone Therapy	Aromasin (Exemestane)		799	2535	NO
+9050	TCGA-AO-A125	Hormone Therapy	Tamoxifen		129	799	NO
+9054	TCGA-AO-A126	Hormone Therapy	Tamoxifen		320	1795	NO
+9055	TCGA-AO-A126	Hormone Therapy	Zoladex		323	1639	NO
+9062	TCGA-AO-A12A	Hormone Therapy	Tamoxifen		186	830	NO
+9064	TCGA-AO-A12A	Hormone Therapy	Aromasin		831	1918	NO
+9069	TCGA-AO-A12B	Hormone Therapy	Arimidex		140	1980	NO
+9073	TCGA-AO-A12C	Hormone Therapy	Tamoxifen		335	2149	NO
+9083	TCGA-AO-A12E	Hormone Therapy	Tamoxifen		222	NA	YES
+9087	TCGA-AO-A12G	Hormone Therapy	Arimidex (Anastrozole)		177	NA	YES
+9088	TCGA-AO-A12H	Hormone Therapy	Arimidex (Anastrozole)		73	NA	YES
+9091	TCGA-AO-A1KO	Hormone Therapy	Tamoxifen		231	NA	YES
+9096	TCGA-AO-A1KP	Hormone Therapy	Arimidex		335	2161	NO
+9097	TCGA-AO-A1KQ	Hormone Therapy	Tamoxifen		49	NA	YES
+9101	TCGA-AO-A1KS	Hormone Therapy	Arimidex		155	NA	YES
+9102	TCGA-AO-A1KT	Hormone Therapy	Arimidex		323	NA	YES
+9103	TCGA-AO-A1KT	Hormone Therapy	Arimidex		323	NA	YES
+9110	TCGA-AQ-A04H	Hormone Therapy	Femara		175	NA	YES
+9118	TCGA-AQ-A04L	Hormone Therapy	Tamoxifen		141	1957	NO
+9127	TCGA-AQ-A1H2	Hormone Therapy	Arimidex		378	NA	YES
+9131	TCGA-AQ-A1H3	Hormone Therapy	Tamoxifen		239	NA	YES
+9139	TCGA-AQ-A54O	Hormone Therapy	Tamoxifen		199	NA	YES
+9140	TCGA-AQ-A54O	Hormone Therapy	Tamoxifen		199	NA	YES
+9149	TCGA-AQ-A7U7	Hormone Therapy	Prednisone	Complete Response	123	193	NO
+9150	TCGA-AQ-A7U7	Hormone Therapy	Prednisone	Complete Response	123	193	NO
+9151	TCGA-AQ-A7U7	Hormone Therapy	Letrozole		296	NA	YES
+9152	TCGA-AQ-A7U7	Hormone Therapy	Letrozole		296	NA	YES
+9162	TCGA-AR-A0TQ	Hormone Therapy	Exemestane		233	1867	NO
+9163	TCGA-AR-A0TQ	Hormone Therapy	Triptorelin		37	1864	NO
+9164	TCGA-AR-A0TR	Hormone Therapy	Tamoxifen		25	160	NO
+9169	TCGA-AR-A0TT	Hormone Therapy	Tamoxifen		385	NA	YES
+9170	TCGA-AR-A0TT	Hormone Therapy	Anastrozole		230	376	NO
+9180	TCGA-AR-A0TY	Hormone Therapy	Anastrozole		NA	557	NO
+9184	TCGA-AR-A0TZ	Hormone Therapy	Tamoxifen		NA	NA	NO
+9186	TCGA-AR-A0TZ	Hormone Therapy			NA	NA	NO
+9193	TCGA-AR-A0U2	Hormone Therapy	Tamoxifen		142	NA	NO
+9195	TCGA-AR-A0U2	Hormone Therapy	Exemestane		NA	1603	NO
+9197	TCGA-AR-A0U3	Hormone Therapy	Anastrozole		166	2015	NO
+9204	TCGA-AR-A1AH	Hormone Therapy	Tamoxifen		NA	2241	NO
+9208	TCGA-AR-A1AK	Hormone Therapy	Anastrozole		33	1843	NO
+9211	TCGA-AR-A1AL	Hormone Therapy	Anastrozole		192	366	NO
+9213	TCGA-AR-A1AL	Hormone Therapy	Letrozole		387	NA	YES
+9217	TCGA-AR-A1AM	Hormone Therapy	Tamoxifen		127	314	NO
+9218	TCGA-AR-A1AM	Hormone Therapy	Tamoxifen		127	314	NO
+9219	TCGA-AR-A1AM	Hormone Therapy	Anastrozole		314	336	NO
+9220	TCGA-AR-A1AM	Hormone Therapy	Anastrozole		314	336	NO
+9223	TCGA-AR-A1AN	Hormone Therapy	Anastrozole		442	NA	YES
+9224	TCGA-AR-A1AN	Hormone Therapy	Anastrozole		162	300	NO
+9225	TCGA-AR-A1AN	Hormone Therapy	Tamoxifen		301	441	NO
+9229	TCGA-AR-A1AO	Hormone Therapy	Tamoxifen		160	NA	YES
+9233	TCGA-AR-A1AP	Hormone Therapy	Anastrozole		29	NA	YES
+9243	TCGA-AR-A1AS	Hormone Therapy	Anastrozole		57	NA	YES
+9246	TCGA-AR-A1AT	Hormone Therapy	Anastrozole		174	1272	NO
+9250	TCGA-AR-A1AU	Hormone Therapy	Tamoxifen		157	NA	YES
+9253	TCGA-AR-A1AV	Hormone Therapy	Tamoxifen		175	NA	YES
+9259	TCGA-AR-A1AW	Hormone Therapy	Anastrozole		157	NA	YES
+9261	TCGA-AR-A1AX	Hormone Therapy	Letrozole		341	NA	YES
+9264	TCGA-AR-A1AX	Hormone Therapy	Exemestane		249	295	NO
+9268	TCGA-AR-A24H	Hormone Therapy	Tamoxifen		23	1042	NO
+9269	TCGA-AR-A24H	Hormone Therapy	Anastrozole		1042	3094	NO
+9276	TCGA-AR-A24L	Hormone Therapy	Tamoxifen		145	1414	NO
+9278	TCGA-AR-A24M	Hormone Therapy	Tamoxifen		171	597	NO
+9281	TCGA-AR-A24M	Hormone Therapy	Letrozole		597	NA	YES
+9285	TCGA-AR-A24O	Hormone Therapy	Tamoxifen		153	1994	NO
+9286	TCGA-AR-A24O	Hormone Therapy	Letrozole		1998	2283	NO
+9290	TCGA-AR-A24Q	Hormone Therapy	Anastrozole		208	1988	NO
+9295	TCGA-AR-A24R	Hormone Therapy	Letrozole		1969	NA	YES
+9299	TCGA-AR-A24R	Hormone Therapy	Tamoxifen		228	1904	NO
+9300	TCGA-AR-A24S	Hormone Therapy	Exemestane		129	1124	NO
+9301	TCGA-AR-A24S	Hormone Therapy	Anastrozole		32	126	NO
+9302	TCGA-AR-A24T	Hormone Therapy	Letrozole		1995	NA	YES
+9306	TCGA-AR-A24T	Hormone Therapy	Tamoxifen		189	1864	NO
+9317	TCGA-AR-A24V	Hormone Therapy	Tamoxifen		193	1027	NO
+9318	TCGA-AR-A24V	Hormone Therapy	Anastrozole		1027	NA	YES
+9322	TCGA-AR-A24W	Hormone Therapy	Letrozole		164	345	NO
+9323	TCGA-AR-A24W	Hormone Therapy	Anastrozole		345	NA	YES
+9326	TCGA-AR-A24X	Hormone Therapy	Tamoxifen		130	1926	NO
+9329	TCGA-AR-A24Z	Hormone Therapy	Anastrozole		133	1912	NO
+9336	TCGA-AR-A250	Hormone Therapy	Anastrozole		194	NA	YES
+9340	TCGA-AR-A251	Hormone Therapy	Tamoxifen		175	1969	NO
+9343	TCGA-AR-A252	Hormone Therapy	Tamoxifen		116	NA	YES
+9352	TCGA-AR-A254	Hormone Therapy	Tamoxifen		262	NA	YES
+9355	TCGA-AR-A255	Hormone Therapy	Anastrozole		96	NA	YES
+9358	TCGA-AR-A2LE	Hormone Therapy	Tamoxifen		17	1869	NO
+9366	TCGA-AR-A2LJ	Hormone Therapy	Tamoxifen		190	NA	YES
+9370	TCGA-AR-A2LK	Hormone Therapy	Anastrozole		263	1310	NO
+9371	TCGA-AR-A2LL	Hormone Therapy	Tamoxifen		54	224	NO
+9372	TCGA-AR-A2LL	Hormone Therapy	Tamoxifen		54	224	NO
+9376	TCGA-AR-A2LM	Hormone Therapy	Tamoxifen		170	967	NO
+9377	TCGA-AR-A2LN	Hormone Therapy	Letrozole		15	NA	YES
+9382	TCGA-AR-A2LO	Hormone Therapy	Tamoxifen		199	903	NO
+9383	TCGA-AR-A2LO	Hormone Therapy	Anastrozole		903	NA	YES
+9386	TCGA-AR-A2LQ	Hormone Therapy	Anastrozole		176	NA	YES
+9391	TCGA-AR-A5QM	Hormone Therapy	Anastrozole		36	NA	YES
+9392	TCGA-AR-A5QM	Hormone Therapy	Anastrozole		36	NA	YES
+9395	TCGA-AR-A5QN	Hormone Therapy	Anastrozole		128	388	NO
+9396	TCGA-AR-A5QN	Hormone Therapy	Exemestane		388	NA	YES
+9397	TCGA-AR-A5QP	Hormone Therapy	Tamoxifen		46	NA	YES
+9421	TCGA-B6-A40C	Hormone Therapy	Cyclophosphamide		37	107	NO
+9427	TCGA-BH-A0AW	Hormone Therapy	Arimidex		200	515	NO
+9430	TCGA-BH-A0AW	Hormone Therapy	Aromasin		543	NA	YES
+9432	TCGA-BH-A0AY	Hormone Therapy	Aromasin		209	NA	YES
+9442	TCGA-BH-A0B1	Hormone Therapy	Arimidex		269	NA	YES
+9447	TCGA-BH-A0B4	Hormone Therapy	Tamoxifen		211	NA	YES
+9453	TCGA-BH-A0B8	Hormone Therapy	Arimidex		114	NA	YES
+9462	TCGA-BH-A0BC	Hormone Therapy	Arimidex		106	NA	YES
+9465	TCGA-BH-A0BD	Hormone Therapy	Tamoxifen		244	NA	YES
+9470	TCGA-BH-A0BJ	Hormone Therapy	ARIMIDEX		343	NA	YES
+9482	TCGA-BH-A0BV	Hormone Therapy	ARIMIDEX		262	NA	YES
+9490	TCGA-BH-A0C0	Hormone Therapy	ARIMIDEX		158	NA	YES
+9506	TCGA-BH-A0DH	Hormone Therapy	FEMARA		164	NA	YES
+9512	TCGA-BH-A0DK	Hormone Therapy	TAMOXIFEN		112	NA	YES
+9515	TCGA-BH-A0DP	Hormone Therapy	ARIMIDEX		97	NA	YES
+9531	TCGA-BH-A0DZ	Hormone Therapy	TAMOXIFEN		234	NA	YES
+9541	TCGA-BH-A0E1	Hormone Therapy	ARIMIDEX		349	NA	YES
+9542	TCGA-BH-A0E2	Hormone Therapy	TAMOXIFEN		256	NA	YES
+9548	TCGA-BH-A0E7	Hormone Therapy	ARIMIDEX		26	NA	YES
+9556	TCGA-BH-A0EB	Hormone Therapy	ARIMIDEX		55	NA	YES
+9561	TCGA-BH-A0GY	Hormone Therapy	Arimidex		351	NA	YES
+9564	TCGA-BH-A0GZ	Hormone Therapy	ARIMIDEX		157	NA	YES
+9565	TCGA-BH-A0H0	Hormone Therapy	ARIMIDEX		67	NA	YES
+9568	TCGA-BH-A0H7	Hormone Therapy	ARIMIDEX		298	NA	YES
+9573	TCGA-BH-A0H9	Hormone Therapy	Arimidex		101	NA	YES
+9574	TCGA-BH-A0HB	Hormone Therapy	Arimidex		317	NA	YES
+9578	TCGA-BH-A0HF	Hormone Therapy	Arimidex		34	NA	YES
+9579	TCGA-BH-A0HI	Hormone Therapy	Arimidex		88	NA	YES
+9580	TCGA-BH-A0HK	Hormone Therapy	ARIMIDEX		38	NA	YES
+9583	TCGA-BH-A0HL	Hormone Therapy	ARIMIDEX		492	NA	YES
+9585	TCGA-BH-A0HN	Hormone Therapy	ARIMIDEX		82	NA	YES
+9589	TCGA-BH-A0HO	Hormone Therapy	Tamoxifen		378	NA	YES
+9593	TCGA-BH-A0HP	Hormone Therapy	Arimidex		347	NA	YES
+9594	TCGA-BH-A0HQ	Hormone Therapy	Arimidex		70	NA	YES
+9595	TCGA-BH-A0HU	Hormone Therapy	Tamoxifen		110	NA	YES
+9598	TCGA-BH-A0HW	Hormone Therapy	Arimidex		223	NA	YES
+9601	TCGA-BH-A0HX	Hormone Therapy	Arimidex		278	NA	YES
+9605	TCGA-BH-A0HY	Hormone Therapy	Taxotere	Complete Response	88	190	NO
+9611	TCGA-BH-A0W5	Hormone Therapy	Arimidex	Complete Response	22	144	NO
+9614	TCGA-BH-A0W7	Hormone Therapy	Tamoxifen	Complete Response	168	1233	NO
+9615	TCGA-BH-A0W7	Hormone Therapy	Arimidex	Complete Response	1171	1324	NO
+9657	TCGA-C8-A26V	Hormone Therapy	Tamoxifen	Complete Response	247	613	NO
+9663	TCGA-C8-A26Z	Hormone Therapy	Tamoxifen	Complete Response	11	NA	YES
+9664	TCGA-C8-A273	Hormone Therapy	Tamoxifen		13	NA	YES
+9665	TCGA-C8-A274	Hormone Therapy	Tamoxifen		8	NA	YES
+9666	TCGA-C8-A278	Hormone Therapy	Tamoxifen		23	NA	YES
+9675	TCGA-C8-A3M8	Hormone Therapy	Tamoxifen	Complete Response	79	NA	YES
+9685	TCGA-C8-A9FZ	Hormone Therapy	Tamoxifen		169	NA	YES
+9690	TCGA-D8-A13Z	Hormone Therapy	tamoxifen		52	157	NO
+9694	TCGA-D8-A141	Hormone Therapy	tamoxifen		50	113	NO
+9700	TCGA-D8-A145	Hormone Therapy	Tamoxifen		42	NA	YES
+9705	TCGA-D8-A1J8	Hormone Therapy	nolvadex		32	NA	YES
+9718	TCGA-D8-A1JH	Hormone Therapy	nolvadex		66	NA	YES
+9721	TCGA-D8-A1JI	Hormone Therapy	letrozolum		41	162	NO
+9725	TCGA-D8-A1JN	Hormone Therapy	anastrozolum		63	NA	YES
+9726	TCGA-D8-A1JP	Hormone Therapy	TAMOXIFEN		68	NA	YES
+9727	TCGA-D8-A1JS	Hormone Therapy	Tamoxifen		14	NA	YES
+9728	TCGA-D8-A1JT	Hormone Therapy	Arimidex		47	NA	YES
+9729	TCGA-D8-A1JU	Hormone Therapy	Tamoxifen		87	NA	YES
+9730	TCGA-D8-A1X5	Hormone Therapy	Tamoxifen		55	NA	YES
+9731	TCGA-D8-A1X5	Hormone Therapy	Tamoxifen		55	NA	YES
+9732	TCGA-D8-A1X6	Hormone Therapy	tamoxifen		65	NA	YES
+9737	TCGA-D8-A1XJ	Hormone Therapy	tamoxifen		85	NA	YES
+9740	TCGA-D8-A1XL	Hormone Therapy	tamoxiphene+leuporeline+gosereline		250	NA	YES
+9742	TCGA-D8-A1XO	Hormone Therapy	Tamoxifen		93	NA	YES
+9748	TCGA-D8-A1XZ	Hormone Therapy	tamoxiphene+anastrozolum		94	NA	YES
+9749	TCGA-D8-A1Y0	Hormone Therapy	tamoxiphene		540	NA	YES
+9751	TCGA-D8-A1Y1	Hormone Therapy	Tamoxifen		58	302	NO
+9752	TCGA-D8-A1Y2	Hormone Therapy	Tamoxifen		66	NA	YES
+9753	TCGA-D8-A1Y3	Hormone Therapy	tamoxiphene		133	NA	YES
+9755	TCGA-D8-A27E	Hormone Therapy	tamoxiphen+anastrazolum		125	NA	YES
+9760	TCGA-D8-A27K	Hormone Therapy	Tamoxifen		49	NA	YES
+9765	TCGA-D8-A27T	Hormone Therapy	Tamoxifen		227	NA	YES
+9767	TCGA-D8-A27V	Hormone Therapy	Tamoxifen		48	NA	YES
+9769	TCGA-D8-A27W	Hormone Therapy	Tamoxifen		226	NA	YES
+9772	TCGA-D8-A3Z6	Hormone Therapy	tamoxifen		260	NA	YES
+9774	TCGA-D8-A4Z1	Hormone Therapy	Tamoxifen		104	NA	YES
+9775	TCGA-D8-A73U	Hormone Therapy	tamoxifen		75	NA	YES
+9776	TCGA-D8-A73W	Hormone Therapy	Tamoxifen	Clinical Progressive Disease	-709	-620	NO
+9777	TCGA-D8-A73X	Hormone Therapy	tamoxifen		12	NA	YES
+9778	TCGA-E2-A105	Hormone Therapy	Arimidex		65	NA	YES
+9779	TCGA-E2-A106	Hormone Therapy	Zoladex		883	NA	YES
+9780	TCGA-E2-A106	Hormone Therapy	Tamoxifen		883	NA	YES
+9783	TCGA-E2-A107	Hormone Therapy	Tamoxifen		459	NA	YES
+9784	TCGA-E2-A107	Hormone Therapy	Arimidex		305	355	NO
+9788	TCGA-E2-A107	Hormone Therapy	Aromasin		397	417	NO
+9790	TCGA-E2-A107	Hormone Therapy	Tamoxifen		459	NA	YES
+9794	TCGA-E2-A108	Hormone Therapy	Femara		244	NA	YES
+9796	TCGA-E2-A109	Hormone Therapy	Femara		857	NA	YES
+9797	TCGA-E2-A109	Hormone Therapy	Aromasin		643	685	NO
+9799	TCGA-E2-A109	Hormone Therapy	Tamoxifen		734	807	NO
+9801	TCGA-E2-A109	Hormone Therapy	Arimidex		318	608	NO
+9803	TCGA-E2-A109	Hormone Therapy	Femara		699	734	NO
+9804	TCGA-E2-A10A	Hormone Therapy	Tamoxifen		91	NA	YES
+9805	TCGA-E2-A10A	Hormone Therapy	Zoladex		88	NA	YES
+9807	TCGA-E2-A10B	Hormone Therapy	Arimidex		232	NA	YES
+9812	TCGA-E2-A10B	Hormone Therapy	Arimidex		230	NA	YES
+9815	TCGA-E2-A10C	Hormone Therapy	Arimidex		282	343	NO
+9816	TCGA-E2-A10C	Hormone Therapy	Femara		343	NA	YES
+9819	TCGA-E2-A10E	Hormone Therapy	Arimidex		217	NA	YES
+9822	TCGA-E2-A10F	Hormone Therapy	Tamoxifen		223	337	NO
+9828	TCGA-E2-A14O	Hormone Therapy	Arimidex		53	NA	YES
+9830	TCGA-E2-A14Q	Hormone Therapy	Tamoxifen		53	NA	YES
+9835	TCGA-E2-A14S	Hormone Therapy	Aromasin		147	NA	YES
+9838	TCGA-E2-A14T	Hormone Therapy	Arimidex		159	NA	YES
+9842	TCGA-E2-A14U	Hormone Therapy	Arimidex		129	NA	YES
+9846	TCGA-E2-A14V	Hormone Therapy	arimidex		304	NA	YES
+9851	TCGA-E2-A14W	Hormone Therapy	Tamoxifen		169	NA	YES
+9857	TCGA-E2-A14Y	Hormone Therapy	Tamoxifen		190	547	NO
+9859	TCGA-E2-A14Y	Hormone Therapy	Fareston		548	NA	YES
+9863	TCGA-E2-A14Z	Hormone Therapy	Arimidex		110	188	NO
+9872	TCGA-E2-A152	Hormone Therapy	Arimidex		231	NA	YES
+9874	TCGA-E2-A153	Hormone Therapy	tamoxifen		229	NA	YES
+9878	TCGA-E2-A154	Hormone Therapy	arimidex		325	NA	YES
+9880	TCGA-E2-A155	Hormone Therapy	Tamoxifen		NA	249	NO
+9883	TCGA-E2-A155	Hormone Therapy	Arimidex		249	NA	YES
+9884	TCGA-E2-A156	Hormone Therapy	Arimidex		119	NA	YES
+9900	TCGA-E2-A15C	Hormone Therapy	arimidex		65	NA	YES
+9901	TCGA-E2-A15D	Hormone Therapy	Tamoxifen		111	316	NO
+9906	TCGA-E2-A15E	Hormone Therapy	tamoxifen		203	448	NO
+9907	TCGA-E2-A15E	Hormone Therapy	aromasin		451	NA	YES
+9909	TCGA-E2-A15F	Hormone Therapy	Arimidex		87	NA	YES
+9910	TCGA-E2-A15G	Hormone Therapy	Arimidex		125	NA	YES
+9912	TCGA-E2-A15I	Hormone Therapy	Tamoxifen		41	NA	YES
+9914	TCGA-E2-A15J	Hormone Therapy	Tamoxifen		151	NA	YES
+9919	TCGA-E2-A15L	Hormone Therapy	Arimidex		45	NA	YES
+9920	TCGA-E2-A15M	Hormone Therapy	Arimidex		202	NA	NO
+9921	TCGA-E2-A15O	Hormone Therapy	aromasin		96	289	NO
+9922	TCGA-E2-A15O	Hormone Therapy	aromasin		96	289	NO
+9923	TCGA-E2-A15O	Hormone Therapy	arimidex		48	104	NO
+9924	TCGA-E2-A15O	Hormone Therapy	arimidex		48	104	NO
+9925	TCGA-E2-A15O	Hormone Therapy	femara		289	NA	
+9926	TCGA-E2-A15O	Hormone Therapy	femara		289	NA	
+9927	TCGA-E2-A15O	Hormone Therapy	Femara		289	NA	YES
+9928	TCGA-E2-A15O	Hormone Therapy	Femara		289	NA	YES
+9929	TCGA-E2-A15P	Hormone Therapy	Arimidex		105	220	NO
+9930	TCGA-E2-A15P	Hormone Therapy	Aromasin		223	NA	YES
+9933	TCGA-E2-A15R	Hormone Therapy	arimidex		266	NA	YES
+9935	TCGA-E2-A15S	Hormone Therapy	Arimidex		314	NA	YES
+9939	TCGA-E2-A15T	Hormone Therapy	Arimidex		34	NA	YES
+9950	TCGA-E2-A1B1	Hormone Therapy	tamoxifen		239	NA	YES
+9951	TCGA-E2-A1B1	Hormone Therapy	triptorelin		71	NA	YES
+9953	TCGA-E2-A1B4	Hormone Therapy	arimidex		176	1004	NO
+9955	TCGA-E2-A1B5	Hormone Therapy	tamoxifen		190	NA	YES
+9960	TCGA-E2-A1BC	Hormone Therapy	Arimidex		11	NA	YES
+9961	TCGA-E2-A1BC	Hormone Therapy	Arimidex		11	NA	YES
+9962	TCGA-E2-A1BD	Hormone Therapy	Arimidex		170	NA	YES
+9963	TCGA-E2-A1IE	Hormone Therapy	Tamoxifen		500	NA	YES
+9967	TCGA-E2-A1IE	Hormone Therapy	Arimidex		252	437	NO
+9968	TCGA-E2-A1IE	Hormone Therapy	Femara	Clinical Progressive Disease	1844	1928	NO
+9969	TCGA-E2-A1IE	Hormone Therapy	Faslodex	Clinical Progressive Disease	1928	2187	NO
+9970	TCGA-E2-A1IE	Hormone Therapy	Exemestane		2187	NA	YES
+9972	TCGA-E2-A1IF	Hormone Therapy	Arimidex		41	NA	YES
+9974	TCGA-E2-A1IG	Hormone Therapy	Tamoxifen		234	NA	YES
+9977	TCGA-E2-A1IG	Hormone Therapy	Letrozole		1991	NA	YES
+9978	TCGA-E2-A1IH	Hormone Therapy	Aromasin		32	NA	YES
+9982	TCGA-E2-A1IJ	Hormone Therapy	Arimidex		48	NA	YES
+9983	TCGA-E2-A1IK	Hormone Therapy	Arimidex		92	NA	YES
+9984	TCGA-E2-A1IL	Hormone Therapy	Arimidex		64	NA	YES
+9985	TCGA-E2-A1IN	Hormone Therapy	Arimidex		103	NA	YES
+9988	TCGA-E2-A1IO	Hormone Therapy	Tamoxifen		266	NA	YES
+9989	TCGA-E2-A1IU	Hormone Therapy	Arimidex		36	NA	YES
+9994	TCGA-E2-A1L6	Hormone Therapy	Tamoxifen		148	NA	YES
+9999	TCGA-E2-A1L7	Hormone Therapy	Arimidex		240	NA	YES
+10005	TCGA-E2-A1L8	Hormone Therapy	Arimidex		246	NA	YES
+10006	TCGA-E2-A1L8	Hormone Therapy	Arimidex		246	NA	YES
+10011	TCGA-E2-A1L9	Hormone Therapy	Tamoxifen		187	NA	YES
+10014	TCGA-E2-A1LA	Hormone Therapy	Arimidex		48	NA	YES
+10039	TCGA-E2-A2P5	Hormone Therapy	Arimidex		163	NA	YES
+10040	TCGA-E2-A2P5	Hormone Therapy	Arimidex		163	NA	YES
+10041	TCGA-E2-A2P6	Hormone Therapy	Anastrozole		106	NA	YES
+10046	TCGA-E2-A3DX	Hormone Therapy	Tamoxifen		280	NA	YES
+10047	TCGA-E2-A56Z	Hormone Therapy	Arimidex		130	NA	YES
+10048	TCGA-E2-A570	Hormone Therapy	Anastrozole		252	NA	YES
+10053	TCGA-E2-A572	Hormone Therapy	Arimidex		263	NA	YES
+10054	TCGA-E2-A572	Hormone Therapy	Arimidex		263	NA	YES
+10060	TCGA-E2-A576	Hormone Therapy	Arimidex		252	NA	YES
+10063	TCGA-E2-A9RU	Hormone Therapy	Arimidex		0	NA	YES
+10067	TCGA-E9-A1N3	Hormone Therapy	Tamoxifen		130	NA	YES
+10071	TCGA-E9-A1N4	Hormone Therapy	Tamoxifen		230	NA	YES
+10074	TCGA-E9-A1N5	Hormone Therapy	Tamoxifen		173	NA	YES
+10076	TCGA-E9-A1N6	Hormone Therapy	Tamoxifen		128	NA	YES
+10079	TCGA-E9-A1N6	Hormone Therapy	Letrozole	Clinical Progressive Disease	575	678	NO
+10084	TCGA-E9-A1N9	Hormone Therapy	Tamoxifen		119	NA	YES
+10087	TCGA-E9-A1NA	Hormone Therapy	Letrozole		206	NA	YES
+10091	TCGA-E9-A1NC	Hormone Therapy	Tamoxifen	Complete Response	134	708	NO
+10092	TCGA-E9-A1ND	Hormone Therapy	Aromasin		31	NA	YES
+10093	TCGA-E9-A1ND	Hormone Therapy	Tamoxifen		31	78	NO
+10097	TCGA-E9-A1NE	Hormone Therapy	Tamoxifen		184	NA	YES
+10103	TCGA-E9-A1NF	Hormone Therapy	Tamoxifen		280	NA	YES
+10104	TCGA-E9-A1NG	Hormone Therapy	Letrozole		34	NA	YES
+10105	TCGA-E9-A1NG	Hormone Therapy	Tamoxifen	Complete Response	34	786	NO
+10106	TCGA-E9-A1NH	Hormone Therapy	Tamoxifen		33	NA	YES
+10110	TCGA-E9-A1NI	Hormone Therapy	Tamoxifen		86	NA	YES
+10118	TCGA-E9-A1R3	Hormone Therapy	Tamoxifen		45	NA	YES
+10120	TCGA-E9-A1R4	Hormone Therapy	Tamoxifen		12	NA	YES
+10124	TCGA-E9-A1R5	Hormone Therapy	Tamoxifen		24	NA	YES
+10125	TCGA-E9-A1R6	Hormone Therapy	Tamoxifen		66	NA	YES
+10126	TCGA-E9-A1R7	Hormone Therapy	Fareston		25	NA	YES
+10127	TCGA-E9-A1R7	Hormone Therapy	Tamoxifen		53	NA	YES
+10129	TCGA-E9-A1RA	Hormone Therapy	Tamoxifen		9	NA	YES
+10131	TCGA-E9-A1RB	Hormone Therapy	Tamoxifen		15	NA	YES
+10137	TCGA-E9-A1RC	Hormone Therapy	Tamoxifen		1220	NA	YES
+10139	TCGA-E9-A1RD	Hormone Therapy	Tamoxifen		13	NA	YES
+10146	TCGA-E9-A1RE	Hormone Therapy	Tamoxifen		39	NA	YES
+10149	TCGA-E9-A1RF	Hormone Therapy	Tamoxifen		30	NA	YES
+10157	TCGA-E9-A1RG	Hormone Therapy	Tamoxifen		31	NA	YES
+10166	TCGA-E9-A1RI	Hormone Therapy	Tamoxifen		28	NA	YES
+10167	TCGA-E9-A1RI	Hormone Therapy	Leuprolide	Complete Response	418	425	NO
+10169	TCGA-E9-A226	Hormone Therapy	Tamoxifen		13	NA	YES
+10175	TCGA-E9-A227	Hormone Therapy	Tamoxifen		239	NA	YES
+10176	TCGA-E9-A228	Hormone Therapy	Tamoxifen		287	NA	YES
+10182	TCGA-E9-A22A	Hormone Therapy	Tamoxifen		111	NA	YES
+10183	TCGA-E9-A22B	Hormone Therapy	Tamoxifen		50	NA	YES
+10184	TCGA-E9-A22D	Hormone Therapy	Tamoxifen		193	NA	YES
+10194	TCGA-E9-A22H	Hormone Therapy	Tamoxifen		330	NA	YES
+10205	TCGA-E9-A245	Hormone Therapy	Tamoxifen		20	NA	NO
+10206	TCGA-E9-A247	Hormone Therapy	Tamoxifen		10	NA	YES
+10211	TCGA-E9-A249	Hormone Therapy	Tamoxifen		28	NA	YES
+10213	TCGA-E9-A24A	Hormone Therapy	Tamoxifen		9	NA	YES
+10214	TCGA-E9-A295	Hormone Therapy	Tamoxifen		152	NA	YES
+10215	TCGA-E9-A2JS	Hormone Therapy	Tamoxifen		21	NA	YES
+10220	TCGA-E9-A2JS	Hormone Therapy	Zoladex	Clinical Progressive Disease	677	713	NO
+10221	TCGA-E9-A2JT	Hormone Therapy	Tamoxifen		27	NA	YES
+10225	TCGA-E9-A3HO	Hormone Therapy	Tamoxifen		28	NA	YES
+10226	TCGA-E9-A3HO	Hormone Therapy	Leuprorelin	Complete Response	313	337	NO
+10227	TCGA-E9-A3HO	Hormone Therapy	Zoladex	Complete Response	61	64	NO
+10231	TCGA-E9-A3Q9	Hormone Therapy	Tamoxifen		108	NA	YES
+10235	TCGA-E9-A3X8	Hormone Therapy	Tamoxifen		324	NA	YES
+10239	TCGA-E9-A5UP	Hormone Therapy	Tamoxifen		8	NA	YES
+10243	TCGA-E9-A6HE	Hormone Therapy	Tamoxifen		547	NA	YES
+10244	TCGA-EW-A1IW	Hormone Therapy	Aromasin		71	NA	YES
+10245	TCGA-EW-A1IX	Hormone Therapy	Femara		871	NA	YES
+10248	TCGA-EW-A1IZ	Hormone Therapy	Femara		199	NA	YES
+10252	TCGA-EW-A1J1	Hormone Therapy	Tamoxifen		276	497	NO
+10253	TCGA-EW-A1J1	Hormone Therapy	Zoladex		513	NA	YES
+10257	TCGA-EW-A1J2	Hormone Therapy	Arimidex		150	NA	YES
+10260	TCGA-EW-A1J3	Hormone Therapy	Arimidex		336	NA	YES
+10271	TCGA-EW-A1J6	Hormone Therapy	Femara		111	NA	YES
+10282	TCGA-EW-A1OX	Hormone Therapy	Zoladex		227	NA	YES
+10283	TCGA-EW-A1OX	Hormone Therapy	Tamoxifen		227	NA	YES
+10284	TCGA-EW-A1OY	Hormone Therapy	Femara		478	NA	YES
+10293	TCGA-EW-A1P0	Hormone Therapy	Arimidex		1033	1245	NO
+10300	TCGA-EW-A1P3	Hormone Therapy	Tamoxifen	Stable Disease	261	1175	NO
+10301	TCGA-EW-A1P3	Hormone Therapy	Tamoxifen	Stable Disease	261	1175	NO
+10302	TCGA-EW-A1P3	Hormone Therapy	Femara		1181	NA	YES
+10303	TCGA-EW-A1P3	Hormone Therapy	Femara		1181	NA	YES
+10314	TCGA-EW-A1P5	Hormone Therapy	Anastrozole		199	NA	YES
+10320	TCGA-EW-A1P6	Hormone Therapy	Arimidex		444	NA	YES
+10330	TCGA-EW-A1PA	Hormone Therapy	Nolvadex		262	NA	YES
+10331	TCGA-EW-A1PC	Hormone Therapy	Tamoxifen		98	NA	YES
+10338	TCGA-EW-A1PE	Hormone Therapy	Exemestane		269	NA	YES
+10342	TCGA-EW-A1PF	Hormone Therapy	Arimidex		217	NA	YES
+10347	TCGA-EW-A1PG	Hormone Therapy	Aromasin		263	NA	YES
+10357	TCGA-EW-A2FS	Hormone Therapy	Tamoxifen		343	NA	YES
+10358	TCGA-EW-A2FS	Hormone Therapy	Goserelin	Stable Disease	140	1166	NO
+10366	TCGA-EW-A2FV	Hormone Therapy	Tamoxifen		268	NA	YES
+10367	TCGA-EW-A2FV	Hormone Therapy	Goserelin		268	NA	YES
+10372	TCGA-EW-A2FW	Hormone Therapy	Exemestane		0	NA	YES
+10373	TCGA-EW-A3E8	Hormone Therapy	Anastrozole		196	NA	YES
+10378	TCGA-EW-A423	Hormone Therapy	Anastrozole		205	NA	YES
+10381	TCGA-EW-A424	Hormone Therapy	Arimidex		154	NA	YES
+10382	TCGA-EW-A6SC	Hormone Therapy	aromatase exemestane		114	NA	YES
+10388	TCGA-GM-A2D9	Hormone Therapy	Arimidex	Stable Disease	559	1265	NO
+10389	TCGA-GM-A2D9	Hormone Therapy	Tamoxifen	Stable Disease	1266	1354	NO
+10397	TCGA-GM-A2DA	Hormone Therapy	Tamoxifen	Clinical Progressive Disease	3061	3131	NO
+10398	TCGA-GM-A2DA	Hormone Therapy	Aromasin	Clinical Progressive Disease	3061	3131	NO
+10400	TCGA-GM-A2DA	Hormone Therapy	Letrozole	Clinical Progressive Disease	3434	4307	NO
+10401	TCGA-GM-A2DA	Hormone Therapy	Megace	Clinical Progressive Disease	4347	4435	NO
+10405	TCGA-GM-A2DA	Hormone Therapy	Aromasin	Stable Disease	4721	5015	NO
+10410	TCGA-GM-A2DA	Hormone Therapy	Tamoxifen	Clinical Progressive Disease	5909	6029	NO
+10424	TCGA-GM-A2DC	Hormone Therapy	Letrozole	Complete Response	294	341	NO
+10425	TCGA-GM-A2DC	Hormone Therapy	Arimidex	Complete Response	355	383	NO
+10444	TCGA-GM-A2DK	Hormone Therapy	Arimidex	Complete Response	79	1893	NO
+10445	TCGA-GM-A2DL	Hormone Therapy	Tamoxifen	Complete Response	158	1989	NO
+10446	TCGA-GM-A2DL	Hormone Therapy	Arimidex		1990	NA	YES
+10451	TCGA-GM-A2DM	Hormone Therapy	Arimidex	Complete Response	279	772	NO
+10456	TCGA-GM-A2DN	Hormone Therapy	Arimidex	Complete Response	335	1063	NO
+10457	TCGA-GM-A2DO	Hormone Therapy	Tamoxifen	Complete Response	219	2051	NO
+10458	TCGA-GM-A2DO	Hormone Therapy	Tamoxifen	Complete Response	219	2051	NO
+10459	TCGA-GM-A3NW	Hormone Therapy	Arimidex	Stable Disease	205	2055	NO
+10463	TCGA-GM-A3NY	Hormone Therapy	Arimidex		160	NA	YES
+10468	TCGA-GM-A3XG	Hormone Therapy	Tamoxifen	Complete Response	434	473	NO
+10469	TCGA-GM-A3XG	Hormone Therapy	Arimidex	Complete Response	813	843	NO
+10478	TCGA-GM-A3XN	Hormone Therapy	Tamoxifen	Complete Response	416	1591	NO
+10479	TCGA-GM-A3XN	Hormone Therapy	Arimidex		1592	NA	YES
+10485	TCGA-GM-A4E0	Hormone Therapy	Arimidex		320	NA	YES
+10488	TCGA-GM-A5PX	Hormone Therapy	Arimidex	Complete Response	112	236	NO
+10489	TCGA-GM-A5PX	Hormone Therapy	Aromasin	Complete Response	265	339	NO
+10490	TCGA-GM-A5PX	Hormone Therapy	Tamoxifen		340	NA	YES
+10500	TCGA-LD-A66U	Hormone Therapy	Tamoxifen		278	NA	YES
+10508	TCGA-LL-A440	Hormone Therapy	ARIMIDEX		200	NA	YES
+10509	TCGA-LL-A440	Hormone Therapy	ARIMIDEX		200	NA	YES
+10516	TCGA-LL-A442	Hormone Therapy	Arimidex		111	NA	YES
+10517	TCGA-LL-A442	Hormone Therapy	Arimidex		111	NA	YES
+10518	TCGA-LL-A50Y	Hormone Therapy	ARIMIDEX	Complete Response	54	608	NO
+10519	TCGA-LL-A50Y	Hormone Therapy	ARIMIDEX	Complete Response	54	608	NO
+10524	TCGA-LL-A5YL	Hormone Therapy	ARIMIDEX		341	NA	YES
+10525	TCGA-LL-A5YM	Hormone Therapy	letrozole		NA	NA	YES
+10529	TCGA-LL-A5YN	Hormone Therapy	tamoxifen citrate		229	NA	YES
+10538	TCGA-LL-A5YP	Hormone Therapy	arimidex		302	NA	YES
+10539	TCGA-LL-A5YP	Hormone Therapy	arimidex		302	NA	YES
+10540	TCGA-LL-A6FP	Hormone Therapy	Arimidex		0	NA	YES
+10541	TCGA-LL-A6FP	Hormone Therapy	Tamoxifen		0	0	NO
+10551	TCGA-LL-A73Z	Hormone Therapy	faslodex	Clinical Progressive Disease	123	179	NO
+10558	TCGA-LL-A7SZ	Hormone Therapy	TAMOXIFEN		237	NA	YES
+10563	TCGA-LL-A8F5	Hormone Therapy	ARIMIDEX		315	NA	YES
+10566	TCGA-LL-A9Q3	Hormone Therapy	ARIMIDEX		273	NA	YES
+10567	TCGA-LQ-A4E4	Hormone Therapy	Anastrozole		111	NA	YES
+10586	TCGA-OL-A5S0	Hormone Therapy	HERCEPTIN	Complete Response	67	228	NO
+10596	TCGA-PE-A5DD	Hormone Therapy	Femara		191	NA	YES
+10600	TCGA-PE-A5DE	Hormone Therapy	Tamoxifen		182	NA	YES
+10606	TCGA-S3-A6ZF	Hormone Therapy	LETROZOLE		191	278	NO
+10607	TCGA-S3-A6ZF	Hormone Therapy	ANASTROZOLE		278	NA	YES
+10610	TCGA-S3-A6ZG	Hormone Therapy	Taxol	Complete Response	116	221	NO
+10611	TCGA-S3-A6ZG	Hormone Therapy	Anastrozole		256	NA	YES
+10617	TCGA-S3-A6ZH	Hormone Therapy	TAMOXIFEN		293	NA	YES
+10621	TCGA-S3-AA0Z	Hormone Therapy	ANASTROZOLE		113	NA	YES
+10625	TCGA-S3-AA10	Hormone Therapy	ANASTROZOLE		265	NA	YES
+10626	TCGA-S3-AA11	Hormone Therapy	LETROZOLE	Complete Response	53	169	NO
+10627	TCGA-S3-AA11	Hormone Therapy	EXEMESTANE	Complete Response	169	309	NO
+10628	TCGA-S3-AA11	Hormone Therapy	ANASTROZOLE	Complete Response	309	NA	YES
+10629	TCGA-S3-AA12	Hormone Therapy	ANASTROZOLE		58	NA	YES
+10630	TCGA-S3-AA12	Hormone Therapy	ANASTROZOLE		58	NA	YES
+10640	TCGA-S3-AA17	Hormone Therapy	ANASTROZOLE		99	NA	YES
+10641	TCGA-S3-AA17	Hormone Therapy	ANASTROZOLE		99	NA	YES
+10643	TCGA-V7-A7HQ	Hormone Therapy	letrozole	Complete Response	129	1869	NO
+10644	TCGA-W8-A86G	Hormone Therapy	Arimidex		161	NA	YES
+10645	TCGA-W8-A86G	Hormone Therapy	Arimidex		161	NA	YES
+10646	TCGA-WT-AB41	Hormone Therapy	Arimidex	Complete Response	181	273	NO
+10647	TCGA-WT-AB41	Hormone Therapy	Arimidex	Complete Response	181	273	NO
+10648	TCGA-WT-AB41	Hormone Therapy	Tamoxifen		273	NA	YES
+10649	TCGA-WT-AB41	Hormone Therapy	Tamoxifen		273	NA	YES
+10654	TCGA-WT-AB44	Hormone Therapy	Arimidex		31	NA	YES
+10657	TCGA-XX-A899	Hormone Therapy	Zoladex		103	NA	YES
+10902	TCGA-09-1661	Hormone Therapy	Tamoxifen		498	641	NO
+10919	TCGA-09-1662	Hormone Therapy	Armidex		1926	NA	NO
+10929	TCGA-09-1665	Hormone Therapy	Tamoxifen		400	483	NO
+10935	TCGA-09-1666	Hormone Therapy	Femara		1604	1757	NO
+11022	TCGA-10-0925	Hormone Therapy	Tamoxifen		321	593	NO
+11028	TCGA-10-0927	Hormone Therapy	Tamoxifen		1336	1640	NO
+11036	TCGA-10-0930	Hormone Therapy	Tamoxifen		NA	NA	NO
+11047	TCGA-10-0931	Hormone Therapy	Tamoxifen		335	383	NO
+11065	TCGA-10-0936	Hormone Therapy	Letrozole		237	615	NO
+11072	TCGA-10-0938	Hormone Therapy	Lupron		30	153	NO
+11073	TCGA-10-0938	Hormone Therapy	Letrozole		30	148	NO
+11094	TCGA-13-0727	Hormone Therapy	Femara		230	267	
+11114	TCGA-13-0765	Hormone Therapy	Tamoxifen		589	654	NO
+11184	TCGA-13-0888	Hormone Therapy	Femara		253	NA	YES
+11194	TCGA-13-0893	Hormone Therapy	Femara		340	566	NO
+11328	TCGA-13-1498	Hormone Therapy	Femara		250	632	NO
+11418	TCGA-20-1683	Hormone Therapy	Tamoxifen		618	NA	YES
+11753	TCGA-24-1466	Hormone Therapy	Tamoxifen		670	852	NO
+11756	TCGA-24-1466	Hormone Therapy	Tamoxifen		1227	NA	
+11764	TCGA-24-1467	Hormone Therapy	Tamoxifen		2363	2458	YES
+11766	TCGA-24-1467	Hormone Therapy	Tamoxifen		2758	NA	YES
+11850	TCGA-24-1553	Hormone Therapy	Tamoxifen		1243	1293	NO
+11890	TCGA-24-1557	Hormone Therapy			765	873	NO
+11928	TCGA-24-1563	Hormone Therapy	Tamoxifen		1087	1182	NO
+11945	TCGA-24-1564	Hormone Therapy	Tamoxifen		736	NA	NO
+12119	TCGA-24-2036	Hormone Therapy	Tamoxifen		1064	NA	NO
+12168	TCGA-24-2290	Hormone Therapy	Tamoxifen		1005	1055	NO
+12274	TCGA-25-1634	Hormone Therapy	Tamoxifen		380	843	NO
+12326	TCGA-25-2409	Hormone Therapy	Tamoxifen		NA	NA	NO
+12354	TCGA-29-1691	Hormone Therapy	Megace (oral)		988	NA	NO
+12365	TCGA-29-1692	Hormone Therapy	Tamoxifen		1793	2125	NO
+12390	TCGA-29-1694	Hormone Therapy	Tamoxifen		339	658	NO
+12413	TCGA-29-1698	Hormone Therapy	Tamoxifen		328	1419	NO
+12440	TCGA-29-1703	Hormone Therapy	Tamoxifen		337	470	NO
+12548	TCGA-29-1775	Hormone Therapy	Tamoxifen		530	576	
+12640	TCGA-30-1714	Hormone Therapy	Armidex		246	283	NO
+12644	TCGA-30-1718	Hormone Therapy	Tamoxifen		865	896	NO
+12662	TCGA-30-1856	Hormone Therapy	Tamoxifen		230	NA	NO
+12673	TCGA-30-1859	Hormone Therapy	Armidex		1135	1166	NO
+12750	TCGA-31-1944	Hormone Therapy	Tamoxifen		479	944	NO
+12878	TCGA-42-2588	Hormone Therapy	Megestrol Acetate		687	784	NO
+12880	TCGA-42-2588	Hormone Therapy	Femara		687	784	NO
+12936	TCGA-61-1722	Hormone Therapy	Decodron		19	19	NO
+12970	TCGA-61-1737	Hormone Therapy	Tamoxifen		582	NA	YES
+12980	TCGA-61-1740	Hormone Therapy	Tamoxifen		23	74	NO
+12982	TCGA-61-1741	Hormone Therapy	Tamoxifen		NA	NA	NO
+13026	TCGA-61-1914	Hormone Therapy	Tamoxifen		1155	1673	NO
+13071	TCGA-61-2009	Hormone Therapy	Tamoxifen		658	NA	NO
+13151	TCGA-61-2110	Hormone Therapy	Tamoxifen		459	1354	NO
+13157	TCGA-61-2111	Hormone Therapy	Megace		NA	NA	NO
+13164	TCGA-61-2111	Hormone Therapy	Provera		NA	NA	NO
