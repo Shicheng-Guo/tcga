@@ -1,0 +1,704 @@
+,bcr_patient_barcode,therapy_types,drug_name,measure_of_response,days_to_drug_therapy_start,days_to_drug_therapy_end,therapy_ongoing
+9,TCGA-AF-A56N,Chemotherapy,xeloda,Complete Response,54,95,NO
+18,TCGA-AG-3591,Chemotherapy,,Complete Response,NA,NA,
+19,TCGA-AG-3593,Chemotherapy,5-fluorouracil,Complete Response,61,92,NO
+20,TCGA-AG-3600,Chemotherapy,5-fluorouracil,Complete Response,31,92,NO
+36,TCGA-AG-3885,Chemotherapy,,Complete Response,NA,NA,
+39,TCGA-AG-3894,Chemotherapy,5-fluorouracil,Complete Response,61,245,NO
+49,TCGA-AG-4022,Chemotherapy,5-fluorouracil,Complete Response,61,153,NO
+50,TCGA-AG-A00C,Chemotherapy,folinic acid,Complete Response,92,213,NO
+53,TCGA-AG-A00H,Chemotherapy,5-fluorouracil,Complete Response,90,121,NO
+56,TCGA-AG-A01L,Chemotherapy,5-fluorouracil,Complete Response,61,212,NO
+58,TCGA-AG-A01W,Chemotherapy,5-fluorouracil,Complete Response,62,184,NO
+59,TCGA-AG-A01Y,Chemotherapy,5-fluorouracil,Complete Response,31,151,NO
+67,TCGA-AG-A02N,Chemotherapy,folinic acid,Complete Response,28,89,NO
+68,TCGA-AG-A036,Chemotherapy,5-fluorouracil,Complete Response,92,215,NO
+101,TCGA-3H-AB3O,Chemotherapy,cisplatin,Partial Response,197,286,NO
+105,TCGA-3H-AB3S,Chemotherapy,gemcitabine,Clinical Progressive Disease,221,264,NO
+106,TCGA-3H-AB3X,Chemotherapy,cisplatin,Complete Response,435,461,NO
+122,TCGA-LK-A4O7,Chemotherapy,cisplatin,Clinical Progressive Disease,177,238,NO
+127,TCGA-MQ-A6BQ,Chemotherapy,cisplatinum,Stable Disease,11,133,NO
+129,TCGA-MQ-A6BR,Chemotherapy,cisplatin,Complete Response,NA,117,NO
+131,TCGA-SC-A6LM,Chemotherapy,everolimus,Clinical Progressive Disease,391,543,NO
+138,TCGA-SC-A6LQ,Chemotherapy,pemetrexed,Stable Disease,74,137,NO
+140,TCGA-SC-A6LR,Chemotherapy,pemetrexed,Stable Disease,83,146,NO
+142,TCGA-SC-AA5Z,Chemotherapy,pemetrexed,Stable Disease,106,170,NO
+144,TCGA-SH-A7BC,Chemotherapy,carboplatin,Partial Response,165,278,NO
+148,TCGA-SH-A7BD,Chemotherapy,pemetrexed,Partial Response,58,163,NO
+166,TCGA-UT-A88C,Chemotherapy,cisplatin,Stable Disease,24,66,NO
+168,TCGA-UT-A88D,Chemotherapy,pemetrexed,Stable Disease,24,66,NO
+183,TCGA-2G-AAF6,Chemotherapy,bleomycin,Complete Response,816,879,NO
+186,TCGA-2G-AAF8,Chemotherapy,etoposide,Complete Response,3349,3420,NO
+191,TCGA-2G-AAFG,Chemotherapy,bleomycin,Complete Response,2506,2565,NO
+285,TCGA-2G-AAKG,Chemotherapy,bleomycin,Complete Response,134,182,NO
+344,TCGA-G9-A9S0,Chemotherapy,taxotere,Clinical Progressive Disease,591,654,NO
+351,TCGA-IC-A6RF,Chemotherapy,carboplatin,Complete Response,342,370,NO
+361,TCGA-JY-A93D,Chemotherapy,fluorouracil,Complete Response,150,280,NO
+362,TCGA-KH-A6WC,Chemotherapy,,Complete Response,53,NA,NO
+363,TCGA-L5-A88W,Chemotherapy,carboplatin,Clinical Progressive Disease,105,225,NO
+366,TCGA-L7-A56G,Chemotherapy,cisplatin,Stable Disease,49,77,NO
+368,TCGA-L7-A6VZ,Chemotherapy,leucovorin calcium,Complete Response,97,244,NO
+371,TCGA-LN-A49M,Chemotherapy,capecitabine,Complete Response,95,136,NO
+372,TCGA-LN-A49O,Chemotherapy,capecitabine,Clinical Progressive Disease,76,104,NO
+373,TCGA-LN-A49R,Chemotherapy,capecitabine,Complete Response,143,194,NO
+375,TCGA-LN-A49U,Chemotherapy,capecitabine,Complete Response,35,69,NO
+377,TCGA-LN-A49V,Chemotherapy,capecitabine,Complete Response,25,65,NO
+379,TCGA-LN-A49W,Chemotherapy,capecitabine,Complete Response,53,82,NO
+381,TCGA-LN-A49Y,Chemotherapy,capecitabine,Clinical Progressive Disease,92,126,NO
+382,TCGA-LN-A4A1,Chemotherapy,cisplatin,Clinical Progressive Disease,200,236,NO
+384,TCGA-LN-A4A2,Chemotherapy,capecitabine,Complete Response,47,83,NO
+386,TCGA-LN-A4A3,Chemotherapy,capecitabine,Clinical Progressive Disease,39,74,NO
+388,TCGA-LN-A4A6,Chemotherapy,capecitabine,Complete Response,69,96,NO
+393,TCGA-LN-A4MQ,Chemotherapy,capecitabine,Complete Response,102,136,NO
+395,TCGA-LN-A4MR,Chemotherapy,capecitabine,Complete Response,237,270,NO
+397,TCGA-LN-A5U6,Chemotherapy,capecitabine,Complete Response,41,92,NO
+401,TCGA-LN-A7HV,Chemotherapy,capecitabine,Complete Response,36,71,NO
+402,TCGA-LN-A7HX,Chemotherapy,capecitabine,Complete Response,107,142,NO
+403,TCGA-LN-A7HY,Chemotherapy,capecitabine,Complete Response,104,159,NO
+405,TCGA-LN-A7HZ,Chemotherapy,capecitabine,Complete Response,112,153,NO
+407,TCGA-LN-A8HZ,Chemotherapy,capecitabine,Complete Response,42,86,NO
+409,TCGA-LN-A9FP,Chemotherapy,capecitabine,Complete Response,40,60,NO
+410,TCGA-LN-A9FR,Chemotherapy,capecitabine,Complete Response,23,89,NO
+414,TCGA-V5-A7RC,Chemotherapy,carboplatin,Clinical Progressive Disease,NA,NA,NO
+416,TCGA-V5-A7RE,Chemotherapy,carboplatin,Partial Response,36,67,NO
+419,TCGA-V5-AASV,Chemotherapy,carboplatin,Partial Response,NA,NA,NO
+421,TCGA-VR-A8EQ,Chemotherapy,fluorouracil,Complete Response,115,236,NO
+422,TCGA-VR-A8ER,Chemotherapy,fluorouracil,Complete Response,103,268,NO
+424,TCGA-VR-AA4D,Chemotherapy,fluorouracil,Clinical Progressive Disease,166,288,NO
+440,TCGA-3B-A9HT,Chemotherapy,cisplatinum,Complete Response,51,103,NO
+460,TCGA-DX-A3U7,Chemotherapy,taxotere,Partial Response,350,549,NO
+469,TCGA-DX-A3UC,Chemotherapy,doxorubicin,Stable Disease,629,709,NO
+479,TCGA-DX-A6B8,Chemotherapy,adriamycin,Clinical Progressive Disease,NA,255,NO
+480,TCGA-DX-A6YX,Chemotherapy,gemcitabine,Clinical Progressive Disease,285,407,NO
+485,TCGA-DX-A7EQ,Chemotherapy,vorinostat,Clinical Progressive Disease,791,830,NO
+490,TCGA-DX-A8BT,Chemotherapy,gemcitabine,Complete Response,697,773,NO
+492,TCGA-DX-A8BU,Chemotherapy,ifosfamide,Clinical Progressive Disease,1080,1081,NO
+498,TCGA-DX-A8BV,Chemotherapy,docetaxel,Clinical Progressive Disease,750,903,NO
+516,TCGA-HB-A43Z,Chemotherapy,gemzar,Complete Response,42,105,NO
+532,TCGA-IF-A3RQ,Chemotherapy,adriamycin,Partial Response,441,457,NO
+539,TCGA-K1-A3PN,Chemotherapy,gemcitabine,Clinical Progressive Disease,121,182,NO
+543,TCGA-K1-A6RU,Chemotherapy,adriamycin,Clinical Progressive Disease,143,NA,NO
+551,TCGA-LI-A67I,Chemotherapy,doxil,Clinical Progressive Disease,595,670,NO
+554,TCGA-QQ-A8VD,Chemotherapy,gleevec,Stable Disease,2094,2780,NO
+556,TCGA-RN-AAAQ,Chemotherapy,ifosfamide,Complete Response,40,89,NO
+560,TCGA-SI-A71O,Chemotherapy,everolimus,Clinical Progressive Disease,350,462,NO
+562,TCGA-SI-A71P,Chemotherapy,ifosfamide,Complete Response,174,269,NO
+565,TCGA-X6-A7WC,Chemotherapy,gemcitabine,Stable Disease,819,854,NO
+569,TCGA-X6-A8C6,Chemotherapy,doxirubicin,Clinical Progressive Disease,785,840,NO
+576,TCGA-OU-A5PI,Chemotherapy,etoposide,Stable Disease,69,239,NO
+589,TCGA-3A-A9I5,Chemotherapy,gemcitabine,Complete Response,78,211,NO
+591,TCGA-3A-A9I9,Chemotherapy,oxaliplatin,Stable Disease,294,336,NO
+596,TCGA-3A-A9IC,Chemotherapy,gemcitabine,Stable Disease,168,245,NO
+602,TCGA-3A-A9IX,Chemotherapy,5 fu,Complete Response,97,128,NO
+610,TCGA-F2-7273,Chemotherapy,xeloda,Clinical Progressive Disease,53,90,NO
+613,TCGA-F2-A44G,Chemotherapy,gemzar,Complete Response,60,75,NO
+615,TCGA-F2-A44H,Chemotherapy,gemzar,Complete Response,98,196,NO
+621,TCGA-FB-A545,Chemotherapy,5-fluorouracil,Complete Response,113,224,NO
+627,TCGA-FB-AAPP,Chemotherapy,gemzar,Clinical Progressive Disease,89,150,NO
+631,TCGA-FB-AAPY,Chemotherapy,gemzar,Complete Response,92,243,NO
+638,TCGA-H6-8124,Chemotherapy,xeloda,Complete Response,166,205,NO
+640,TCGA-HV-A7OP,Chemotherapy,fluorouracil,Clinical Progressive Disease,39,77,NO
+641,TCGA-HV-AA8V,Chemotherapy,cisplatin,Clinical Progressive Disease,37,149,NO
+645,TCGA-HZ-7289,Chemotherapy,,Clinical Progressive Disease,438,NA,NO
+646,TCGA-HZ-7918,Chemotherapy,gemcitabine,Complete Response,98,137,NO
+653,TCGA-HZ-7920,Chemotherapy,5-fu,Complete Response,83,118,NO
+658,TCGA-HZ-8317,Chemotherapy,gemcitabine,Clinical Progressive Disease,137,186,NO
+659,TCGA-HZ-8519,Chemotherapy,chemo, nos,Complete Response,73,226,NO
+660,TCGA-HZ-8637,Chemotherapy,gemcitabine,Complete Response,76,351,NO
+661,TCGA-HZ-A49G,Chemotherapy,gemcitabine,Clinical Progressive Disease,81,235,NO
+663,TCGA-HZ-A49I,Chemotherapy,5-fu,Clinical Progressive Disease,51,86,NO
+664,TCGA-HZ-A4BK,Chemotherapy,chemo, nos,Clinical Progressive Disease,136,228,NO
+707,TCGA-LB-A8F3,Chemotherapy,gemzar,Complete Response,197,225,NO
+710,TCGA-OE-A75W,Chemotherapy,5-fu,Clinical Progressive Disease,118,153,NO
+712,TCGA-RB-AA9M,Chemotherapy,gemcitabine,Clinical Progressive Disease,67,218,NO
+718,TCGA-YB-A89D,Chemotherapy,gemcitabine,Complete Response,7,210,NO
+720,TCGA-YY-A8LH,Chemotherapy,gemcitabine,Complete Response,176,218,NO
+735,TCGA-BT-A2LD,Chemotherapy,carboplatin,Clinical Progressive Disease,458,611,NO
+745,TCGA-CF-A47S,Chemotherapy,doxobubicin,Complete Response,109,324,NO
+746,TCGA-CF-A47T,Chemotherapy,carboplatin,Clinical Progressive Disease,127,149,NO
+772,TCGA-DK-AA6S,Chemotherapy,ifosfamide,Clinical Progressive Disease,575,710,NO
+775,TCGA-DK-AA6T,Chemotherapy,gemcitabine,Complete Response,75,110,NO
+779,TCGA-DK-AA6W,Chemotherapy,gemcitabine,Stable Disease,263,328,NO
+835,TCGA-G2-A2EL,Chemotherapy,etoposide,Stable Disease,84,147,NO
+863,TCGA-GU-A42R,Chemotherapy,carboplatin,Clinical Progressive Disease,105,344,NO
+865,TCGA-GV-A3JW,Chemotherapy,carboplatin,Partial Response,291,321,NO
+873,TCGA-GV-A40E,Chemotherapy,cisplatin,Clinical Progressive Disease,56,98,NO
+888,TCGA-XF-A9SH,Chemotherapy,halichondrin b,Stable Disease,625,996,NO
+894,TCGA-XF-A9SU,Chemotherapy,gemcitabine,Clinical Progressive Disease,137,137,NO
+910,TCGA-XF-A9T5,Chemotherapy,gemcitabine,Complete Response,687,757,NO
+912,TCGA-XF-AAME,Chemotherapy,carboplatin,Clinical Progressive Disease,2569,2569,NO
+919,TCGA-XF-AAMJ,Chemotherapy,gemcitabine,Complete Response,82,143,NO
+966,TCGA-33-AASI,Chemotherapy,taxotere,Stable Disease,134,134,NO
+971,TCGA-37-A5EL,Chemotherapy,temodal,Partial Response,222,228,NO
+977,TCGA-43-A475,Chemotherapy,cisplatin,Complete Response,109,172,NO
+981,TCGA-52-7812,Chemotherapy,paclitaxel,Clinical Progressive Disease,529,638,NO
+988,TCGA-56-7579,Chemotherapy,carboplatin,Clinical Progressive Disease,88,215,NO
+994,TCGA-56-7730,Chemotherapy,,Clinical Progressive Disease,117,148,NO
+995,TCGA-56-7822,Chemotherapy,eloxatin,Clinical Progressive Disease,311,332,NO
+998,TCGA-56-8308,Chemotherapy,paclitaxel,Stable Disease,57,203,NO
+1010,TCGA-56-A62T,Chemotherapy,carboplatin,Complete Response,45,80,NO
+1014,TCGA-58-8391,Chemotherapy,carboplatin,Complete Response,42,159,NO
+1018,TCGA-58-A46K,Chemotherapy,carboplatin,Complete Response,85,171,NO
+1022,TCGA-66-2757,Chemotherapy,gemcitabine,Clinical Progressive Disease,943,1035,NO
+1027,TCGA-66-2759,Chemotherapy,carboplatin,Complete Response,92,214,NO
+1031,TCGA-66-2778,Chemotherapy,cisplatin,Complete Response,184,244,NO
+1033,TCGA-66-2783,Chemotherapy,cisplatin,Complete Response,90,151,NO
+1038,TCGA-68-A59I,Chemotherapy,paclitaxel,Clinical Progressive Disease,50,50,NO
+1082,TCGA-NC-A5HG,Chemotherapy,cisplatin,Complete Response,37,107,NO
+1092,TCGA-NC-A5HP,Chemotherapy,cisplatin,Clinical Progressive Disease,52,113,NO
+1096,TCGA-NC-A5HQ,Chemotherapy,carboplatin,Complete Response,57,133,NO
+1100,TCGA-NC-A5HT,Chemotherapy,carboplatin,Partial Response,246,288,NO
+1106,TCGA-4V-A9QQ,Chemotherapy,etoposide,Complete Response,261,369,NO
+1109,TCGA-X7-A8M6,Chemotherapy,pemetrexed,Clinical Progressive Disease,4100,4213,NO
+1113,TCGA-XM-AAZ1,Chemotherapy,cisplatin,Stable Disease,13,55,NO
+1114,TCGA-06-1806,Chemotherapy,temozolomide,Stable Disease,26,64,NO
+1118,TCGA-06-A5U0,Chemotherapy,temodar,Clinical Progressive Disease,31,74,NO
+1119,TCGA-06-A6S1,Chemotherapy,temozolomide,Clinical Progressive Disease,8,45,NO
+1120,TCGA-06-A7TK,Chemotherapy,temozolomide,Stable Disease,34,76,NO
+1123,TCGA-06-A7TL,Chemotherapy,temozolomide,Stable Disease,25,71,NO
+1131,TCGA-19-A60I,Chemotherapy,temodar,Stable Disease,72,114,NO
+1132,TCGA-19-A6J5,Chemotherapy,temodar,Stable Disease,34,76,NO
+1135,TCGA-4W-AA9S,Chemotherapy,temozolomide,Complete Response,56,105,NO
+1136,TCGA-87-5896,Chemotherapy,temodar,Complete Response,14,642,NO
+1137,TCGA-2E-A9G8,Chemotherapy,taxol,Complete Response,488,580,NO
+1139,TCGA-5S-A9Q8,Chemotherapy,carboplatin,Complete Response,33,138,NO
+1141,TCGA-A5-A1OH,Chemotherapy,carboplatin,Complete Response,251,321,NO
+1145,TCGA-A5-AB3J,Chemotherapy,carboplatin,Complete Response,63,112,NO
+1147,TCGA-AJ-A23M,Chemotherapy,,Stable Disease,92,NA,NO
+1148,TCGA-AJ-A23N,Chemotherapy,carboplatin,Clinical Progressive Disease,89,NA,NO
+1153,TCGA-AJ-A2QM,Chemotherapy,carboplatin,Complete Response,46,NA,NO
+1155,TCGA-AJ-A3BD,Chemotherapy,carboplatin,Complete Response,37,125,NO
+1157,TCGA-AJ-A3BF,Chemotherapy,taxol,Complete Response,75,251,NO
+1159,TCGA-AJ-A3BG,Chemotherapy,carboplatin,Complete Response,67,247,NO
+1163,TCGA-AJ-A3EK,Chemotherapy,carboplatin,Complete Response,126,166,NO
+1165,TCGA-AJ-A3I9,Chemotherapy,carboplatin,Clinical Progressive Disease,379,456,NO
+1167,TCGA-AJ-A3NF,Chemotherapy,chemo, nos,Complete Response,192,253,NO
+1170,TCGA-AJ-A3OJ,Chemotherapy,carboplatin,Complete Response,81,230,NO
+1172,TCGA-AJ-A3OK,Chemotherapy,carboplatin,Complete Response,71,134,NO
+1177,TCGA-AJ-A3QS,Chemotherapy,cisplatin,Complete Response,114,174,NO
+1180,TCGA-AJ-A4ZG,Chemotherapy,cisplatin,Complete Response,43,155,NO
+1188,TCGA-AP-A5FX,Chemotherapy,carboplatin,Complete Response,84,190,NO
+1202,TCGA-BG-A2AE,Chemotherapy,carboplatin,Complete Response,99,209,NO
+1205,TCGA-BG-A2L7,Chemotherapy,carboplatin,Complete Response,85,189,NO
+1206,TCGA-BG-A3PP,Chemotherapy,taxol,Complete Response,74,186,NO
+1210,TCGA-D1-A3JQ,Chemotherapy,cisplatin,Complete Response,67,173,NO
+1213,TCGA-DI-A2QY,Chemotherapy,paclitaxel,Complete Response,92,239,NO
+1214,TCGA-E6-A8L9,Chemotherapy,paclitaxel,Complete Response,75,173,NO
+1216,TCGA-EO-A1Y5,Chemotherapy,carboplatin,Complete Response,NA,NA,
+1218,TCGA-EO-A1Y7,Chemotherapy,portec3-radiation alone,Stable Disease,911,1031,NO
+1221,TCGA-EO-A2CG,Chemotherapy,carboplatin,Complete Response,114,243,NO
+1223,TCGA-EO-A2CH,Chemotherapy,carboplatin,Clinical Progressive Disease,98,276,NO
+1226,TCGA-EO-A3AV,Chemotherapy,carboplatin,Complete Response,96,216,NO
+1228,TCGA-EO-A3B1,Chemotherapy,carboplatin,Complete Response,64,247,NO
+1234,TCGA-EY-A3L3,Chemotherapy,taxol,Complete Response,119,231,NO
+1238,TCGA-EY-A4KR,Chemotherapy,carboplatin,Clinical Progressive Disease,46,179,NO
+1240,TCGA-EY-A54A,Chemotherapy,carboplatin,Complete Response,49,259,NO
+1266,TCGA-JU-AAVI,Chemotherapy,cisplatin,Partial Response,82,109,NO
+1270,TCGA-PG-A7D5,Chemotherapy,carboplatin/paclitaxel,Complete Response,60,192,NO
+1271,TCGA-QF-A5YS,Chemotherapy,carboplatin,Complete Response,109,158,NO
+1273,TCGA-QF-A5YT,Chemotherapy,cisplatin,Complete Response,158,200,NO
+1325,TCGA-AA-3692,Chemotherapy,folinic acid,Clinical Progressive Disease,31,669,NO
+1328,TCGA-AA-3713,Chemotherapy,5-fluorouracil,Partial Response,244,456,NO
+1332,TCGA-AA-3844,Chemotherapy,capecitabine,Clinical Progressive Disease,59,59,NO
+1390,TCGA-AA-A01R,Chemotherapy,5-fluorouracil,Partial Response,60,820,NO
+1403,TCGA-AD-6901,Chemotherapy,xeloda,Complete Response,61,214,NO
+1472,TCGA-NH-A6GA,Chemotherapy,oxaliplatin,Clinical Progressive Disease,61,135,NO
+1479,TCGA-NH-A8F7,Chemotherapy,fluorouracil,Partial Response,74,228,NO
+1487,TCGA-RU-A8FL,Chemotherapy,c1 folfiri/zaltrap,Clinical Progressive Disease,679,756,NO
+1493,TCGA-05-4384,Chemotherapy,cisplatin,Clinical Progressive Disease,61,153,NO
+1506,TCGA-05-5425,Chemotherapy,paclitaxel,Clinical Progressive Disease,700,761,NO
+1508,TCGA-05-5428,Chemotherapy,cisplatin,Complete Response,62,153,NO
+1515,TCGA-49-AAR4,Chemotherapy,taxol,Partial Response,57,61,NO
+1538,TCGA-50-6595,Chemotherapy,carboplatin,Clinical Progressive Disease,123,162,NO
+1542,TCGA-53-7624,Chemotherapy,irinotecan,Clinical Progressive Disease,924,966,NO
+1564,TCGA-55-6968,Chemotherapy,,Stable Disease,13,NA,NO
+1565,TCGA-55-6970,Chemotherapy,cisplatin,Stable Disease,89,117,NO
+1570,TCGA-55-6981,Chemotherapy,chemo, nos,Complete Response,25,NA,NO
+1571,TCGA-55-6982,Chemotherapy,gemzar,Clinical Progressive Disease,397,NA,NO
+1580,TCGA-55-7281,Chemotherapy,carboplatin,Clinical Progressive Disease,424,474,NO
+1588,TCGA-55-7574,Chemotherapy,topotecan,Partial Response,478,631,NO
+1592,TCGA-55-7815,Chemotherapy,chemo, nos,Clinical Progressive Disease,493,585,NO
+1599,TCGA-55-7995,Chemotherapy,carboplatin,Complete Response,483,525,NO
+1601,TCGA-55-8205,Chemotherapy,carboplatin,Complete Response,93,154,NO
+1603,TCGA-55-8301,Chemotherapy,carboplatin,Partial Response,261,NA,NO
+1610,TCGA-55-8615,Chemotherapy,carboplatin,Clinical Progressive Disease,89,NA,NO
+1618,TCGA-55-A48Z,Chemotherapy,cisplatin,Stable Disease,58,202,NO
+1624,TCGA-62-A46Y,Chemotherapy,cisplatin,Complete Response,74,256,NO
+1645,TCGA-71-6725,Chemotherapy,cisplatin,Clinical Progressive Disease,107,127,NO
+1658,TCGA-73-A9RS,Chemotherapy,carboplatin,Clinical Progressive Disease,130,186,NO
+1662,TCGA-86-7701,Chemotherapy,etoposide,Complete Response,27,207,NO
+1672,TCGA-86-7955,Chemotherapy,vepesid,Complete Response,27,274,NO
+1684,TCGA-86-8279,Chemotherapy,etoposide,Complete Response,28,119,NO
+1698,TCGA-86-A4P8,Chemotherapy,cisplatin,Complete Response,43,106,NO
+1706,TCGA-95-A4VK,Chemotherapy,cisplatin,Stable Disease,76,121,NO
+1710,TCGA-97-8176,Chemotherapy,carboplatin,Partial Response,77,161,NO
+1721,TCGA-MP-A4T9,Chemotherapy,vinorelbine,Complete Response,34,55,NO
+1734,TCGA-DB-A4XB,Chemotherapy,temodar,Stable Disease,28,57,NO
+1735,TCGA-DB-A4XD,Chemotherapy,temodar,Complete Response,24,291,NO
+1736,TCGA-DB-A4XF,Chemotherapy,temodar,Stable Disease,34,264,NO
+1738,TCGA-DB-A64O,Chemotherapy,temodar,Stable Disease,461,551,NO
+1741,TCGA-DB-A64W,Chemotherapy,temodar,Stable Disease,34,274,NO
+1742,TCGA-DB-A64X,Chemotherapy,temodar,Stable Disease,53,265,NO
+1743,TCGA-DB-A75K,Chemotherapy,temozolomide,Complete Response,28,64,NO
+1744,TCGA-DH-A66B,Chemotherapy,temozolomide,Stable Disease,25,432,NO
+1745,TCGA-DH-A66D,Chemotherapy,temozolomide,Stable Disease,31,73,NO
+1746,TCGA-DH-A66G,Chemotherapy,temodar,Partial Response,41,211,NO
+1747,TCGA-DH-A7UR,Chemotherapy,temodar,Complete Response,33,1076,NO
+1748,TCGA-DH-A7UT,Chemotherapy,temodar,Stable Disease,55,97,NO
+1749,TCGA-DH-A7UU,Chemotherapy,temodar,Stable Disease,41,88,NO
+1750,TCGA-DH-A7UV,Chemotherapy,temodar,Stable Disease,20,463,NO
+1751,TCGA-DU-8161,Chemotherapy,temozolomide,Stable Disease,39,78,NO
+1754,TCGA-DU-8162,Chemotherapy,temozolomide,Stable Disease,24,70,NO
+1755,TCGA-DU-8163,Chemotherapy,temozolomide,Stable Disease,35,81,NO
+1756,TCGA-DU-8165,Chemotherapy,temozolomide,Stable Disease,30,71,NO
+1757,TCGA-DU-8166,Chemotherapy,temozolomide,Clinical Progressive Disease,62,143,NO
+1760,TCGA-DU-8168,Chemotherapy,temozolomide,Stable Disease,25,71,NO
+1761,TCGA-DU-A5TP,Chemotherapy,temozolomide,Stable Disease,123,493,NO
+1762,TCGA-DU-A5TS,Chemotherapy,temodar,Stable Disease,25,415,NO
+1763,TCGA-DU-A5TU,Chemotherapy,temozolomide,Stable Disease,627,NA,YES
+1764,TCGA-DU-A5TY,Chemotherapy,temozolomide,Stable Disease,17,64,NO
+1771,TCGA-DU-A6S7,Chemotherapy,temozolomide,Stable Disease,23,57,NO
+1773,TCGA-DU-A76K,Chemotherapy,temozolomide,Clinical Progressive Disease,236,269,NO
+1774,TCGA-DU-A76L,Chemotherapy,temozolomide,Stable Disease,16,57,NO
+1777,TCGA-DU-A76O,Chemotherapy,temozolomide,Stable Disease,49,94,NO
+1778,TCGA-DU-A76R,Chemotherapy,temozolomide,Clinical Progressive Disease,389,394,NO
+1779,TCGA-DU-A7T8,Chemotherapy,temozolomide,Stable Disease,147,193,NO
+1784,TCGA-DU-A7TA,Chemotherapy,temozolomide,Stable Disease,33,70,NO
+1786,TCGA-DU-A7TB,Chemotherapy,temozolomide,Clinical Progressive Disease,20,57,NO
+1789,TCGA-DU-A7TD,Chemotherapy,temozolomide,Stable Disease,22,63,NO
+1790,TCGA-DU-A7TI,Chemotherapy,temozolomide,Clinical Progressive Disease,932,1085,NO
+1793,TCGA-E1-A7YD,Chemotherapy,ccnu,Clinical Progressive Disease,111,285,NO
+1794,TCGA-E1-A7YE,Chemotherapy,ccnu,Clinical Progressive Disease,81,185,NO
+1800,TCGA-E1-A7YH,Chemotherapy,temodar,Stable Disease,45,87,NO
+1806,TCGA-E1-A7YJ,Chemotherapy,temodar,Stable Disease,39,84,NO
+1809,TCGA-E1-A7YK,Chemotherapy,temodar,Stable Disease,27,68,NO
+1810,TCGA-E1-A7YL,Chemotherapy,temodar,Clinical Progressive Disease,36,78,NO
+1814,TCGA-E1-A7YM,Chemotherapy,temodar,Clinical Progressive Disease,27,75,NO
+1818,TCGA-E1-A7YN,Chemotherapy,temodar,Stable Disease,35,90,NO
+1822,TCGA-E1-A7YQ,Chemotherapy,temodar,Stable Disease,346,396,NO
+1825,TCGA-E1-A7YS,Chemotherapy,temodar,Stable Disease,67,106,NO
+1827,TCGA-E1-A7YV,Chemotherapy,temodar,Clinical Progressive Disease,38,82,NO
+1833,TCGA-E1-A7YW,Chemotherapy,ccnu,Clinical Progressive Disease,711,978,NO
+1837,TCGA-E1-A7YY,Chemotherapy,temodar,Stable Disease,982,1351,NO
+1842,TCGA-E1-A7Z2,Chemotherapy,temodar,Clinical Progressive Disease,102,213,NO
+1846,TCGA-E1-A7Z3,Chemotherapy,ccnu,Clinical Progressive Disease,1911,1921,NO
+1850,TCGA-E1-A7Z4,Chemotherapy,gliadel,Stable Disease,883,883,NO
+1858,TCGA-E1-A7Z6,Chemotherapy,temodar,Stable Disease,356,705,NO
+1868,TCGA-FG-8185,Chemotherapy,temodar,Stable Disease,21,70,NO
+1870,TCGA-FG-8189,Chemotherapy,temodar,Stable Disease,105,159,NO
+1872,TCGA-FG-8191,Chemotherapy,temodar,Stable Disease,31,76,NO
+1874,TCGA-FG-A4MW,Chemotherapy,temodar,Stable Disease,32,71,NO
+1876,TCGA-FG-A6J3,Chemotherapy,temodar,Stable Disease,27,74,NO
+1877,TCGA-FG-A70Y,Chemotherapy,temodar,Stable Disease,515,554,NO
+1879,TCGA-FG-A711,Chemotherapy,temodar,Clinical Progressive Disease,350,673,NO
+1886,TCGA-FN-7833,Chemotherapy,temozolomide,Complete Response,95,134,NO
+1887,TCGA-HT-7477,Chemotherapy,temodar,Complete Response,24,428,NO
+1888,TCGA-HT-7483,Chemotherapy,temodar,Complete Response,2861,3287,NO
+1889,TCGA-HT-7604,Chemotherapy,temodar,Partial Response,NA,2509,NO
+1890,TCGA-HT-7884,Chemotherapy,temodar,Stable Disease,44,84,NO
+1891,TCGA-HT-8011,Chemotherapy,temodar,Stable Disease,14,69,NO
+1893,TCGA-HT-8013,Chemotherapy,temodar,Clinical Progressive Disease,1334,1742,NO
+1897,TCGA-HT-8564,Chemotherapy,temodar,Clinical Progressive Disease,13,135,NO
+1898,TCGA-HT-A4DV,Chemotherapy,temodar,Complete Response,42,88,NO
+1900,TCGA-HT-A5RA,Chemotherapy,temodar,Partial Response,13,235,NO
+1901,TCGA-HT-A5RC,Chemotherapy,temodar,Clinical Progressive Disease,34,98,NO
+1903,TCGA-HT-A61C,Chemotherapy,temodar,Complete Response,27,NA,
+1904,TCGA-HT-A74K,Chemotherapy,temodar,Complete Response,35,277,NO
+1905,TCGA-HW-7487,Chemotherapy,lomustine,Clinical Progressive Disease,948,1249,NO
+1909,TCGA-HW-8319,Chemotherapy,temozolomide,Stable Disease,23,66,NO
+1912,TCGA-HW-8320,Chemotherapy,temozolomide,Stable Disease,67,108,NO
+1913,TCGA-HW-8321,Chemotherapy,temozolomide,Stable Disease,47,321,NO
+1914,TCGA-HW-A5KJ,Chemotherapy,temozolomide,Clinical Progressive Disease,16,16,NO
+1915,TCGA-HW-A5KK,Chemotherapy,temozolomide,Clinical Progressive Disease,23,176,NO
+1916,TCGA-HW-A5KL,Chemotherapy,temozolomide,Stable Disease,10,71,NO
+1919,TCGA-KT-A74X,Chemotherapy,temozolomide,Stable Disease,40,83,NO
+1920,TCGA-KT-A7W1,Chemotherapy,temozolomide,Clinical Progressive Disease,20,61,NO
+1921,TCGA-P5-A5F0,Chemotherapy,lomustine,Partial Response,89,287,NO
+1925,TCGA-P5-A5F4,Chemotherapy,lomustine,Partial Response,19,231,NO
+1928,TCGA-QH-A65R,Chemotherapy,temozolomide,Stable Disease,32,430,NO
+1932,TCGA-QH-A65X,Chemotherapy,temozolomide,Stable Disease,139,143,NO
+1936,TCGA-QH-A65Z,Chemotherapy,vincristine,Stable Disease,36,215,NO
+1939,TCGA-QH-A6CS,Chemotherapy,temozolomide,Stable Disease,45,423,NO
+1940,TCGA-QH-A6CY,Chemotherapy,temozolomide,Stable Disease,267,NA,YES
+1941,TCGA-QH-A6X4,Chemotherapy,temozolomide,Clinical Progressive Disease,196,342,NO
+1942,TCGA-QH-A6X8,Chemotherapy,temozolomide,Stable Disease,49,292,NO
+1943,TCGA-QH-A6XC,Chemotherapy,temozolomide,Clinical Progressive Disease,103,390,NO
+1944,TCGA-S9-A6TS,Chemotherapy,carmustine,Clinical Progressive Disease,1614,1697,NO
+1946,TCGA-S9-A6TV,Chemotherapy,temozolamide,Stable Disease,26,68,NO
+1947,TCGA-S9-A6TW,Chemotherapy,temozolomide,Stable Disease,25,304,NO
+1950,TCGA-S9-A6U0,Chemotherapy,temozolomide,Stable Disease,30,64,NO
+1955,TCGA-S9-A6U8,Chemotherapy,temozolomide,Stable Disease,1995,2200,NO
+1959,TCGA-S9-A6WG,Chemotherapy,temozolomide,Stable Disease,382,386,NO
+1960,TCGA-S9-A6WM,Chemotherapy,temozolomide,Stable Disease,16,64,NO
+1961,TCGA-S9-A6WN,Chemotherapy,temozolomide,Stable Disease,42,91,NO
+1963,TCGA-S9-A7IX,Chemotherapy,temozolomide,Clinical Progressive Disease,350,413,NO
+1966,TCGA-S9-A7IZ,Chemotherapy,carmustine,Stable Disease,603,NA,YES
+1968,TCGA-S9-A7J0,Chemotherapy,temozolomide,Stable Disease,59,91,NO
+1971,TCGA-S9-A7J3,Chemotherapy,lomustine,Stable Disease,2,177,NO
+1974,TCGA-S9-A7QW,Chemotherapy,temozolomide,Stable Disease,382,592,NO
+1976,TCGA-S9-A7R1,Chemotherapy,temozolamide,Stable Disease,3801,3835,NO
+1977,TCGA-S9-A7R4,Chemotherapy,temozolomide,Stable Disease,54,161,NO
+1978,TCGA-S9-A7R7,Chemotherapy,temozolomide,Stable Disease,144,526,NO
+1981,TCGA-S9-A7R8,Chemotherapy,temozolamide,Clinical Progressive Disease,771,786,NO
+1983,TCGA-S9-A89V,Chemotherapy,temozolomide,Clinical Progressive Disease,12,46,NO
+1985,TCGA-S9-A89Z,Chemotherapy,temozolomide,Stable Disease,29,308,NO
+1988,TCGA-TM-A84L,Chemotherapy,temozolomide,Clinical Progressive Disease,1066,1185,NO
+1989,TCGA-TM-A84M,Chemotherapy,procarbazine,Complete Response,138,264,NO
+1995,TCGA-VM-A8CF,Chemotherapy,temodar,Stable Disease,41,88,NO
+1996,TCGA-VV-A829,Chemotherapy,temodar,Stable Disease,0,792,NO
+1998,TCGA-WH-A86K,Chemotherapy,temodar,Stable Disease,39,84,NO
+1999,TCGA-3M-AB46,Chemotherapy,fluorouracil,Complete Response,92,212,NO
+2000,TCGA-3M-AB47,Chemotherapy,epirubicin,Stable Disease,122,153,NO
+2091,TCGA-CD-5802,Chemotherapy,epirubicin,Complete Response,123,217,NO
+2097,TCGA-CD-8524,Chemotherapy,epirubicin,Clinical Progressive Disease,64,168,NO
+2100,TCGA-CD-8525,Chemotherapy,epirubicin,Complete Response,62,157,NO
+2109,TCGA-CD-8528,Chemotherapy,epirubicin,Complete Response,105,232,NO
+2112,TCGA-CD-8529,Chemotherapy,epirubicin,Complete Response,50,148,NO
+2115,TCGA-CD-8530,Chemotherapy,epirubicin,Complete Response,75,176,NO
+2118,TCGA-CD-8531,Chemotherapy,epirubicin,Complete Response,106,197,NO
+2134,TCGA-CD-A48A,Chemotherapy,capecitabine,Complete Response,38,66,NO
+2135,TCGA-CD-A4MH,Chemotherapy,epirubicin,Complete Response,118,212,NO
+2138,TCGA-CD-A4MJ,Chemotherapy,cisplatin,Complete Response,86,186,NO
+2144,TCGA-CG-4444,Chemotherapy,5-fluorouracil,Complete Response,31,92,NO
+2151,TCGA-CG-4477,Chemotherapy,cisplatin,Clinical Progressive Disease,426,457,NO
+2171,TCGA-D7-8579,Chemotherapy,5-fluorouracilum,Complete Response,97,213,NO
+2175,TCGA-D7-A748,Chemotherapy,epirubicinum,Clinical Progressive Disease,104,104,NO
+2179,TCGA-EQ-A4SO,Chemotherapy,capecitabine,Complete Response,83,300,NO
+2182,TCGA-F1-A448,Chemotherapy,capecitabine,Complete Response,98,119,NO
+2186,TCGA-FP-7829,Chemotherapy,5-fu,Complete Response,53,85,NO
+2190,TCGA-FP-8209,Chemotherapy,5-fu,Complete Response,31,NA,NO
+2192,TCGA-FP-8210,Chemotherapy,5fu,Clinical Progressive Disease,31,62,NO
+2194,TCGA-FP-8211,Chemotherapy,xeloda,Complete Response,110,357,NO
+2196,TCGA-FP-A4BE,Chemotherapy,5-fu,Complete Response,102,239,NO
+2197,TCGA-FP-A9TM,Chemotherapy,5-fu,Complete Response,110,142,NO
+2223,TCGA-HU-A4H3,Chemotherapy,ts-1,Complete Response,18,316,NO
+2230,TCGA-IN-8462,Chemotherapy,epirubicin,Clinical Progressive Disease,298,319,NO
+2234,TCGA-IN-A6RO,Chemotherapy,irinotecan,Complete Response,83,200,NO
+2236,TCGA-IN-A6RP,Chemotherapy,irinotecan,Clinical Progressive Disease,79,NA,YES
+2240,TCGA-KB-A6F7,Chemotherapy,fluorouracil,Complete Response,150,154,NO
+2241,TCGA-KB-A93J,Chemotherapy,5-fluorouracil,Complete Response,157,255,NO
+2258,TCGA-VQ-A8DT,Chemotherapy,fluorouracil,Complete Response,94,222,NO
+2261,TCGA-VQ-A8E0,Chemotherapy,fluorouracil,Clinical Progressive Disease,NA,NA,NO
+2262,TCGA-VQ-A8E2,Chemotherapy,fluorouracil,Complete Response,145,277,NO
+2263,TCGA-VQ-A8P2,Chemotherapy,,Complete Response,NA,107,NO
+2264,TCGA-VQ-A8P3,Chemotherapy,fluorouracil,Complete Response,124,254,NO
+2265,TCGA-VQ-A8PB,Chemotherapy,fluorouracil,Complete Response,63,273,NO
+2270,TCGA-VQ-A8PU,Chemotherapy,fluorouracil,Complete Response,139,288,NO
+2271,TCGA-VQ-A8PY,Chemotherapy,fluorouracil,Complete Response,54,192,NO
+2272,TCGA-VQ-A8PZ,Chemotherapy,fluorouracil,Complete Response,121,234,NO
+2275,TCGA-VQ-A91K,Chemotherapy,fluorouracil,Complete Response,89,234,NO
+2277,TCGA-VQ-A91Q,Chemotherapy,fluorouracil,Complete Response,158,311,NO
+2278,TCGA-VQ-A91S,Chemotherapy,fluorouracil,Complete Response,122,238,NO
+2279,TCGA-VQ-A91V,Chemotherapy,cisplatin,Clinical Progressive Disease,77,228,NO
+2281,TCGA-VQ-A91W,Chemotherapy,fluorouracil,Complete Response,87,217,NO
+2288,TCGA-VQ-A94R,Chemotherapy,fluorouracil,Clinical Progressive Disease,591,645,NO
+2289,TCGA-VQ-AA64,Chemotherapy,fluorouracil,Complete Response,73,192,NO
+2290,TCGA-VQ-AA68,Chemotherapy,fluorouracil,Complete Response,152,324,NO
+2291,TCGA-VQ-AA6B,Chemotherapy,fluorouracil,Complete Response,131,262,NO
+2292,TCGA-VQ-AA6D,Chemotherapy,fluorouracil,Complete Response,77,114,NO
+2293,TCGA-VQ-AA6F,Chemotherapy,fluorouracil,Clinical Progressive Disease,119,249,NO
+2296,TCGA-VQ-AA6K,Chemotherapy,fluorouracil,Clinical Progressive Disease,136,280,NO
+2319,TCGA-G3-A25S,Chemotherapy,sunitinib,Clinical Progressive Disease,313,348,NO
+2326,TCGA-WX-AA47,Chemotherapy,sorafenib,Clinical Progressive Disease,331,493,NO
+2327,TCGA-2W-A8YY,Chemotherapy,cisplatin,Complete Response,57,99,NO
+2328,TCGA-C5-A1BQ,Chemotherapy,cisplatin,Complete Response,11,47,NO
+2332,TCGA-DS-A5RQ,Chemotherapy,cisplatin,Complete Response,63,98,NO
+2333,TCGA-DS-A7WF,Chemotherapy,cisplatin,Partial Response,80,397,NO
+2334,TCGA-DS-A7WH,Chemotherapy,cisplatin,Complete Response,74,112,NO
+2335,TCGA-DS-A7WI,Chemotherapy,cisplatin,Complete Response,80,108,NO
+2336,TCGA-EA-A3QD,Chemotherapy,cisplatin,Complete Response,75,109,NO
+2337,TCGA-EA-A43B,Chemotherapy,cisplatin,Complete Response,70,70,NO
+2339,TCGA-EA-A44S,Chemotherapy,carboplatin,Stable Disease,20,155,NO
+2344,TCGA-EA-A4BA,Chemotherapy,carboplatin,Complete Response,38,134,NO
+2349,TCGA-EX-A3L1,Chemotherapy,cisplatin,Complete Response,96,131,NO
+2350,TCGA-EX-A449,Chemotherapy,cisplatin,Complete Response,47,109,NO
+2353,TCGA-FU-A23L,Chemotherapy,cisplatin,Complete Response,80,106,NO
+2354,TCGA-FU-A3HY,Chemotherapy,cisplatin,Complete Response,60,91,NO
+2355,TCGA-FU-A3HZ,Chemotherapy,cisplatin,Complete Response,53,114,NO
+2356,TCGA-FU-A3WB,Chemotherapy,cisplatin,Complete Response,65,116,NO
+2357,TCGA-FU-A40J,Chemotherapy,carboplatin,Complete Response,104,306,NO
+2361,TCGA-HG-A9SC,Chemotherapy,cisplatin,Complete Response,69,106,NO
+2362,TCGA-HM-A4S6,Chemotherapy,cisplatin,Complete Response,223,243,NO
+2363,TCGA-IR-A3L7,Chemotherapy,cisplatin,Complete Response,67,99,NO
+2364,TCGA-IR-A3LA,Chemotherapy,cisplatin,Complete Response,81,148,NO
+2366,TCGA-IR-A3LB,Chemotherapy,cisplatin,Complete Response,72,138,NO
+2370,TCGA-IR-A3LC,Chemotherapy,cisplatin,Complete Response,NA,NA,NO
+2371,TCGA-IR-A3LH,Chemotherapy,cisplatin,Complete Response,148,183,NO
+2372,TCGA-IR-A3LI,Chemotherapy,cisplatin,Complete Response,52,73,NO
+2376,TCGA-IR-A3LK,Chemotherapy,cisplatin,Complete Response,73,101,NO
+2379,TCGA-IR-A3LL,Chemotherapy,cisplatin,Complete Response,48,80,NO
+2380,TCGA-JW-A5VH,Chemotherapy,carboplatinum,Clinical Progressive Disease,27,48,NO
+2382,TCGA-JW-A5VI,Chemotherapy,topotecan,Clinical Progressive Disease,571,623,NO
+2383,TCGA-LP-A4AU,Chemotherapy,5fu,Complete Response,91,307,NO
+2384,TCGA-MA-AA3W,Chemotherapy,cisplatin,Complete Response,75,110,NO
+2385,TCGA-MA-AA3X,Chemotherapy,cisplatin,Complete Response,92,140,NO
+2386,TCGA-MY-A5BD,Chemotherapy,cisplatin,Complete Response,70,119,NO
+2387,TCGA-MY-A5BF,Chemotherapy,cisplatin,Complete Response,160,188,NO
+2388,TCGA-MY-A913,Chemotherapy,cisplatin,Complete Response,30,79,NO
+2389,TCGA-Q1-A5R2,Chemotherapy,cisplatin,Partial Response,5,48,NO
+2390,TCGA-Q1-A5R3,Chemotherapy,cisplatin,Partial Response,21,56,NO
+2391,TCGA-Q1-A73O,Chemotherapy,cisplatin,Complete Response,54,89,NO
+2395,TCGA-UC-A7PG,Chemotherapy,cisplatin,Clinical Progressive Disease,58,90,NO
+2396,TCGA-VS-A8EC,Chemotherapy,carboplatin,Complete Response,430,617,NO
+2398,TCGA-VS-A8EH,Chemotherapy,cisplatin,Complete Response,67,88,NO
+2399,TCGA-VS-A8EI,Chemotherapy,cisplatin,Complete Response,16,47,NO
+2400,TCGA-VS-A8EJ,Chemotherapy,cisplatin,Clinical Progressive Disease,136,155,NO
+2403,TCGA-VS-A8EK,Chemotherapy,cisplatin,Partial Response,58,104,NO
+2404,TCGA-VS-A8EL,Chemotherapy,cisplatin,Complete Response,46,81,NO
+2405,TCGA-VS-A8QC,Chemotherapy,paclitaxel,Clinical Progressive Disease,35,175,NO
+2406,TCGA-VS-A8QF,Chemotherapy,cisplatin,Complete Response,92,118,NO
+2407,TCGA-VS-A8QH,Chemotherapy,gemcitabine,Partial Response,62,98,NO
+2408,TCGA-VS-A8QM,Chemotherapy,cisplatin,Clinical Progressive Disease,49,136,NO
+2410,TCGA-VS-A94W,Chemotherapy,cisplatin,Complete Response,75,104,NO
+2411,TCGA-VS-A94X,Chemotherapy,cisplatin,Partial Response,64,92,NO
+2412,TCGA-VS-A94Y,Chemotherapy,cisplatin,Clinical Progressive Disease,95,104,NO
+2413,TCGA-VS-A94Z,Chemotherapy,cisplatin,Complete Response,52,80,NO
+2414,TCGA-VS-A954,Chemotherapy,cisplatin,Complete Response,94,122,NO
+2415,TCGA-VS-A957,Chemotherapy,cisplatin,Complete Response,119,140,NO
+2416,TCGA-VS-A958,Chemotherapy,cisplatin,Complete Response,69,83,NO
+2417,TCGA-VS-A9U5,Chemotherapy,cisplatin,Complete Response,36,71,NO
+2418,TCGA-VS-A9U6,Chemotherapy,cisplatin,Stable Disease,74,105,NO
+2419,TCGA-VS-A9U7,Chemotherapy,cisplatin,Complete Response,192,220,NO
+2420,TCGA-VS-A9UA,Chemotherapy,cisplatin,Complete Response,118,162,NO
+2421,TCGA-VS-A9UB,Chemotherapy,cisplatin,Complete Response,65,100,NO
+2422,TCGA-VS-A9UC,Chemotherapy,cisplatin,Stable Disease,146,203,NO
+2423,TCGA-VS-A9UD,Chemotherapy,cisplatin,Complete Response,55,89,NO
+2424,TCGA-VS-A9UH,Chemotherapy,cisplatin,Complete Response,90,133,NO
+2425,TCGA-VS-A9UM,Chemotherapy,cisplatin,Complete Response,423,459,NO
+2428,TCGA-VS-A9UO,Chemotherapy,cisplatin,Complete Response,52,69,NO
+2429,TCGA-VS-A9UP,Chemotherapy,cisplatin,Complete Response,92,119,NO
+2430,TCGA-VS-A9UR,Chemotherapy,cisplatin,Complete Response,45,90,NO
+2431,TCGA-VS-A9UU,Chemotherapy,cisplatin,Complete Response,43,57,NO
+2432,TCGA-VS-A9UY,Chemotherapy,cisplatin,Clinical Progressive Disease,6,34,NO
+2433,TCGA-VS-A9V0,Chemotherapy,cisplatin,Complete Response,144,166,NO
+2434,TCGA-VS-A9V1,Chemotherapy,cisplatin,Clinical Progressive Disease,21,49,NO
+2435,TCGA-VS-A9V3,Chemotherapy,cisplatin,Complete Response,68,96,NO
+2436,TCGA-VS-A9V5,Chemotherapy,carboplatin,Clinical Progressive Disease,89,124,NO
+2437,TCGA-VS-AA62,Chemotherapy,cisplatin,Clinical Progressive Disease,34,64,NO
+2438,TCGA-BA-A4IF,Chemotherapy,cisplatin,Complete Response,25,53,NO
+2439,TCGA-BA-A4IG,Chemotherapy,erbitux,Complete Response,79,140,NO
+2440,TCGA-BA-A4IH,Chemotherapy,cisplatin,Complete Response,87,129,NO
+2441,TCGA-BA-A6D8,Chemotherapy,cisplatin,Complete Response,112,154,NO
+2442,TCGA-BA-A6DA,Chemotherapy,cisplatin,Complete Response,68,110,NO
+2443,TCGA-BA-A6DD,Chemotherapy,cisplatin,Clinical Progressive Disease,96,163,NO
+2444,TCGA-BA-A6DI,Chemotherapy,cisplatin,Complete Response,18,53,NO
+2445,TCGA-BA-A6DJ,Chemotherapy,cisplatin,Complete Response,105,140,NO
+2449,TCGA-BA-A8YP,Chemotherapy,,Complete Response,39,100,NO
+2450,TCGA-BB-7861,Chemotherapy,,Complete Response,43,71,NO
+2451,TCGA-BB-7864,Chemotherapy,cisplatin,Complete Response,136,179,NO
+2452,TCGA-BB-7866,Chemotherapy,cisplatin,Complete Response,71,116,NO
+2453,TCGA-BB-7872,Chemotherapy,cisplatin,Complete Response,112,154,NO
+2454,TCGA-BB-A5HU,Chemotherapy,cisplatin,Complete Response,69,97,NO
+2455,TCGA-BB-A5HY,Chemotherapy,cisplatin,Complete Response,84,121,NO
+2456,TCGA-BB-A6UM,Chemotherapy,,Complete Response,150,181,NO
+2461,TCGA-CN-6998,Chemotherapy,cisplatin,Clinical Progressive Disease,64,131,NO
+2462,TCGA-CN-A498,Chemotherapy,carboplatin,Complete Response,59,101,NO
+2467,TCGA-CN-A49A,Chemotherapy,carboplatin,Complete Response,76,126,NO
+2468,TCGA-CN-A49C,Chemotherapy,erbitux,Complete Response,26,78,NO
+2469,TCGA-CN-A63T,Chemotherapy,cisplatin,Complete Response,64,64,NO
+2470,TCGA-CN-A63W,Chemotherapy,vectibix,Complete Response,69,138,NO
+2473,TCGA-CN-A641,Chemotherapy,cisplatin,Complete Response,187,239,NO
+2474,TCGA-CN-A6UY,Chemotherapy,carboplatin,Complete Response,59,106,NO
+2475,TCGA-CN-A6V3,Chemotherapy,cisplatin,Complete Response,130,151,NO
+2476,TCGA-CN-A6V6,Chemotherapy,cisplatin,Complete Response,74,116,NO
+2477,TCGA-CN-A6V7,Chemotherapy,cisplatin,Complete Response,83,104,NO
+2478,TCGA-CQ-A4CH,Chemotherapy,cisplatin,Partial Response,120,148,NO
+2486,TCGA-CR-6491,Chemotherapy,carboplatin,Complete Response,191,201,NO
+2488,TCGA-CR-6493,Chemotherapy,paclitaxel,Complete Response,100,150,NO
+2496,TCGA-CR-7393,Chemotherapy,paclitaxel,Complete Response,-303,105,NO
+2498,TCGA-CR-7397,Chemotherapy,paclitaxel,Complete Response,63,99,NO
+2505,TCGA-D6-A6EK,Chemotherapy,cisplatin,Partial Response,39,105,NO
+2506,TCGA-DQ-7589,Chemotherapy,carboplatin,Stable Disease,9,34,NO
+2511,TCGA-DQ-7590,Chemotherapy,carboplatin,Complete Response,45,87,NO
+2513,TCGA-DQ-7593,Chemotherapy,carboplatin,Complete Response,25,67,NO
+2515,TCGA-DQ-7594,Chemotherapy,taxol,Complete Response,12,53,NO
+2517,TCGA-DQ-7595,Chemotherapy,cisplatin,Complete Response,34,62,NO
+2518,TCGA-DQ-7596,Chemotherapy,erbitux,Partial Response,13,60,NO
+2521,TCGA-F7-A50J,Chemotherapy,cisplatin,Complete Response,70,114,NO
+2522,TCGA-H7-8501,Chemotherapy,,Complete Response,76,137,NO
+2523,TCGA-H7-A6C4,Chemotherapy,cisplatin,Complete Response,74,NA,NO
+2529,TCGA-HD-7753,Chemotherapy,erbitux,Complete Response,71,85,NO
+2530,TCGA-HD-8224,Chemotherapy,cetuximab,Clinical Progressive Disease,90,147,NO
+2531,TCGA-HD-8314,Chemotherapy,cisplatin,Complete Response,79,121,NO
+2535,TCGA-IQ-7630,Chemotherapy,docetaxel,Complete Response,102,147,NO
+2536,TCGA-IQ-A61E,Chemotherapy,cisplatin,Complete Response,96,138,NO
+2537,TCGA-IQ-A61G,Chemotherapy,cisplatin,Clinical Progressive Disease,130,168,NO
+2538,TCGA-IQ-A61J,Chemotherapy,cisplatin,Complete Response,64,99,NO
+2539,TCGA-IQ-A61O,Chemotherapy,cisplatin,Complete Response,69,111,NO
+2540,TCGA-KU-A6H7,Chemotherapy,cisplatin,Complete Response,65,100,NO
+2541,TCGA-MZ-A5BI,Chemotherapy,cisplatin,Complete Response,41,70,NO
+2542,TCGA-MZ-A6I9,Chemotherapy,cisplatin,Complete Response,57,99,NO
+2545,TCGA-MZ-A7D7,Chemotherapy,cisplatin,Complete Response,77,119,NO
+2546,TCGA-P3-A5Q6,Chemotherapy,cisplatin,Complete Response,43,104,NO
+2548,TCGA-P3-A6SW,Chemotherapy,cisplatin,Complete Response,NA,122,NO
+2549,TCGA-P3-A6SX,Chemotherapy,,Complete Response,61,91,NO
+2550,TCGA-P3-A6T2,Chemotherapy,cisplatin,Complete Response,30,91,NO
+2551,TCGA-P3-A6T3,Chemotherapy,cisplatin,Complete Response,61,92,NO
+2552,TCGA-P3-A6T6,Chemotherapy,cetuximab,Clinical Progressive Disease,273,365,NO
+2554,TCGA-P3-A6T7,Chemotherapy,cisplatin,Complete Response,91,122,NO
+2555,TCGA-P3-A6T8,Chemotherapy,cisplatin,Complete Response,92,122,NO
+2556,TCGA-QK-A6IF,Chemotherapy,carboplatin,Complete Response,17,63,NO
+2558,TCGA-QK-A6IG,Chemotherapy,carboplatin,Clinical Progressive Disease,51,98,NO
+2566,TCGA-QK-A8Z7,Chemotherapy,carboplatin,Complete Response,105,166,NO
+2568,TCGA-QK-A8Z9,Chemotherapy,carboplatin,Complete Response,50,102,NO
+2570,TCGA-T2-A6WX,Chemotherapy,carboplatin,Clinical Progressive Disease,71,92,NO
+2573,TCGA-T2-A6WZ,Chemotherapy,docetaxel,Stable Disease,247,303,NO
+2575,TCGA-T2-A6X0,Chemotherapy,cisplatin,Complete Response,60,95,NO
+2576,TCGA-TN-A7HJ,Chemotherapy,cisplatin,Complete Response,31,92,NO
+2577,TCGA-TN-A7HL,Chemotherapy,cisplatin,Complete Response,35,62,NO
+2578,TCGA-UF-A7JC,Chemotherapy,cisplatin,Complete Response,131,173,NO
+2579,TCGA-UF-A7JF,Chemotherapy,cisplatin,Complete Response,71,86,NO
+2580,TCGA-UF-A7JJ,Chemotherapy,cisplatin,Complete Response,60,102,NO
+2581,TCGA-UF-A7JK,Chemotherapy,cisplatin,Complete Response,132,174,NO
+2582,TCGA-UF-A7JT,Chemotherapy,cisplatin,Complete Response,173,229,NO
+2619,TCGA-EB-A6QY,Chemotherapy,carboplatin,Complete Response,56,192,NO
+2621,TCGA-EB-A6QZ,Chemotherapy,dacarbazine,Partial Response,153,244,NO
+2624,TCGA-EB-A85J,Chemotherapy,dacarbazine,Complete Response,13,92,NO
+2649,TCGA-GF-A3OT,Chemotherapy,carboplatin,Clinical Progressive Disease,95,216,NO
+2653,TCGA-GN-A4U9,Chemotherapy,melphalan,Complete Response,60,60,NO
+2655,TCGA-GN-A8LK,Chemotherapy,ipilimumab,Clinical Progressive Disease,1248,1269,NO
+2658,TCGA-GN-A9SD,Chemotherapy,actinomycin d,Clinical Progressive Disease,1268,1268,NO
+2662,TCGA-HR-A2OH,Chemotherapy,dacarbazine,Clinical Progressive Disease,1729,1753,NO
+2673,TCGA-WE-A8K5,Chemotherapy,ipilimumab,Clinical Progressive Disease,1823,1860,NO
+2675,TCGA-WE-A8ZR,Chemotherapy,vemurafenib,Clinical Progressive Disease,137,261,NO
+2676,TCGA-WE-AAA4,Chemotherapy,melphalan,Complete Response,360,360,NO
+2681,TCGA-A2-A0CK,Chemotherapy,adriamycin,Complete Response,NA,NA,NO
+2692,TCGA-A2-A0EW,Chemotherapy,doxorubicin liposome,Clinical Progressive Disease,1696,1787,NO
+2699,TCGA-A2-A3XT,Chemotherapy,cyclophosphamide,Partial Response,35,83,NO
+2703,TCGA-A2-A3XV,Chemotherapy,carboplatin,Complete Response,62,175,NO
+2705,TCGA-A2-A3XW,Chemotherapy,adriamyicin,Complete Response,69,139,NO
+2711,TCGA-A2-A3XY,Chemotherapy,adriamycin,Complete Response,86,149,NO
+2724,TCGA-A2-A4RY,Chemotherapy,taxotere,Complete Response,58,164,NO
+2727,TCGA-A2-A4S2,Chemotherapy,adriamycin,Complete Response,47,96,NO
+2733,TCGA-A7-A4SB,Chemotherapy,docetaxel,Complete Response,61,124,NO
+2740,TCGA-A7-A4SF,Chemotherapy,carboplatin,Complete Response,89,202,NO
+2742,TCGA-A7-A5ZV,Chemotherapy,doxorubicin,Complete Response,95,137,NO
+2745,TCGA-A7-A5ZW,Chemotherapy,cyclophosphamide,Complete Response,71,176,NO
+2747,TCGA-A7-A5ZX,Chemotherapy,doxorubicin,Complete Response,76,118,NO
+2752,TCGA-A7-A6VW,Chemotherapy,taxol,Complete Response,148,257,NO
+2755,TCGA-A7-A6VX,Chemotherapy,docetaxel,Complete Response,79,142,NO
+2757,TCGA-A7-A6VY,Chemotherapy,cyclophosphamide,Complete Response,68,111,NO
+2760,TCGA-A8-A06R,Chemotherapy,5-fluorouracil,Complete Response,59,151,NO
+2763,TCGA-A8-A075,Chemotherapy,epirubicoin,Complete Response,31,122,NO
+2766,TCGA-A8-A07C,Chemotherapy,5-fluorouracil,Complete Response,0,62,NO
+2770,TCGA-A8-A07F,Chemotherapy,5-fluorouracil,Complete Response,NA,31,NO
+2773,TCGA-A8-A07G,Chemotherapy,5-fluorouracil,Complete Response,59,181,NO
+2776,TCGA-A8-A07I,Chemotherapy,5-fluorouracil,Complete Response,61,122,NO
+2780,TCGA-A8-A07J,Chemotherapy,5-fluorouracil,Complete Response,31,92,NO
+2784,TCGA-A8-A07L,Chemotherapy,,Complete Response,31,122,NO
+2785,TCGA-A8-A07O,Chemotherapy,,Complete Response,61,151,NO
+2790,TCGA-A8-A086,Chemotherapy,docetaxel,Complete Response,0,92,NO
+2792,TCGA-A8-A08B,Chemotherapy,5-fluorouracil,Complete Response,31,122,NO
+2795,TCGA-A8-A08C,Chemotherapy,5-fluorouracil,Complete Response,31,151,NO
+2798,TCGA-A8-A08F,Chemotherapy,5-fluorouracil,Complete Response,31,92,NO
+2802,TCGA-A8-A08G,Chemotherapy,5-fluorouracil,Complete Response,28,89,NO
+2806,TCGA-A8-A08I,Chemotherapy,5-fluorouracil,Complete Response,31,153,NO
+2811,TCGA-A8-A08P,Chemotherapy,5-fluorouracil,Complete Response,60,182,NO
+2815,TCGA-A8-A08X,Chemotherapy,doxorubicin,Complete Response,0,61,NO
+2819,TCGA-A8-A092,Chemotherapy,paclitaxel,Complete Response,30,91,NO
+2822,TCGA-A8-A095,Chemotherapy,5-fluorouracil,Complete Response,0,120,NO
+2825,TCGA-A8-A097,Chemotherapy,docetaxel,Complete Response,61,153,NO
+2827,TCGA-A8-A09D,Chemotherapy,doxorubicin,Complete Response,0,92,NO
+2830,TCGA-A8-A09M,Chemotherapy,paclitaxel,Complete Response,31,184,NO
+2831,TCGA-A8-A0A6,Chemotherapy,epirubicin,Complete Response,61,184,NO
+2840,TCGA-AC-A2B8,Chemotherapy,chemo, nos,Complete Response,135,NA,NO
+2841,TCGA-AC-A2BK,Chemotherapy,cytoxan,Complete Response,73,136,NO
+2847,TCGA-AC-A2FE,Chemotherapy,adriamycin,Partial Response,67,173,NO
+2852,TCGA-AC-A2FF,Chemotherapy,cytoxan,Complete Response,70,153,NO
+2855,TCGA-AC-A2FK,Chemotherapy,cytoxan,Complete Response,51,174,NO
+2859,TCGA-AC-A2QH,Chemotherapy,cytoxan,Complete Response,94,208,NO
+2861,TCGA-AC-A2QI,Chemotherapy,cytoxan,Complete Response,100,275,NO
+2864,TCGA-AC-A2QJ,Chemotherapy,cytoxan,Clinical Progressive Disease,69,111,NO
+2869,TCGA-AC-A3BB,Chemotherapy,cytoxan,Complete Response,92,197,NO
+2872,TCGA-AC-A3TM,Chemotherapy,cytoxan,Complete Response,132,213,NO
+2874,TCGA-AC-A3W5,Chemotherapy,docetaxel,Complete Response,56,139,NO
+2876,TCGA-AC-A3YI,Chemotherapy,cytoxan,Complete Response,82,167,NO
+2879,TCGA-AC-A62V,Chemotherapy,paclitaxel,Partial Response,114,245,NO
+2885,TCGA-AQ-A7U7,Chemotherapy,cyclophosphamide,Complete Response,123,193,NO
+2892,TCGA-BH-A0AV,Chemotherapy,taxotere,Complete Response,146,259,NO
+2897,TCGA-BH-A0B0,Chemotherapy,adriamycin,Complete Response,82,194,NO
+2899,TCGA-BH-A0B5,Chemotherapy,adriamycin,Complete Response,63,NA,NO
+2902,TCGA-BH-A0B7,Chemotherapy,adriamycin,Complete Response,105,168,NO
+2907,TCGA-BH-A0BS,Chemotherapy,adriamycin,Complete Response,44,207,NO
+2909,TCGA-BH-A0BT,Chemotherapy,adriamycin,Complete Response,97,139,NO
+2911,TCGA-BH-A0BW,Chemotherapy,adriamycin,Complete Response,51,114,NO
+2913,TCGA-BH-A0BZ,Chemotherapy,doxorubicin,Complete Response,76,167,NO
+2916,TCGA-BH-A0C1,Chemotherapy,adriamycin,Clinical Progressive Disease,119,1167,NO
+2918,TCGA-BH-A0C3,Chemotherapy,adriamycin,Clinical Progressive Disease,109,209,NO
+2925,TCGA-BH-A0DG,Chemotherapy,taxotere,Complete Response,48,166,NO
+2928,TCGA-BH-A0DI,Chemotherapy,adriamycin,Complete Response,131,194,NO
+2931,TCGA-BH-A0DL,Chemotherapy,cytoxan,Complete Response,58,121,NO
+2936,TCGA-BH-A0DV,Chemotherapy,taxotere,Complete Response,48,176,NO
+2939,TCGA-BH-A0DX,Chemotherapy,taxotere,Complete Response,79,143,NO
+2943,TCGA-BH-A0E9,Chemotherapy,taxotere,Complete Response,96,503,NO
+2952,TCGA-BH-A0W7,Chemotherapy,taxotere,Complete Response,76,138,NO
+2954,TCGA-BH-A18F,Chemotherapy,taxotere,Complete Response,101,189,NO
+2956,TCGA-BH-A18H,Chemotherapy,adriamycin,Complete Response,34,118,NO
+2961,TCGA-BH-A202,Chemotherapy,carboplatin,Complete Response,47,169,NO
+2966,TCGA-BH-A5IZ,Chemotherapy,adriamycin,Complete Response,77,140,NO
+3009,TCGA-C8-A9FZ,Chemotherapy,doxorubicin,Complete Response,29,99,NO
+3012,TCGA-D8-A3Z6,Chemotherapy,cyclophosphamidum,Stable Disease,22,86,NO
+3015,TCGA-E2-A3DX,Chemotherapy,trastuzumab,Complete Response,119,427,NO
+3016,TCGA-E2-A572,Chemotherapy,taxol,Complete Response,147,200,NO
+3017,TCGA-E2-A573,Chemotherapy,taxotere,Complete Response,104,167,NO
+3033,TCGA-E9-A1R2,Chemotherapy,taxotere,Complete Response,36,144,NO
+3036,TCGA-E9-A227,Chemotherapy,taxotere,Complete Response,92,197,NO
+3037,TCGA-E9-A2JS,Chemotherapy,cyclophosphamide,Complete Response,17,191,NO
+3046,TCGA-E9-A3X8,Chemotherapy,cyclophosphane,Complete Response,14,160,NO
+3049,TCGA-E9-A5FK,Chemotherapy,cyclophosphamide,Complete Response,21,200,NO
+3052,TCGA-E9-A6HE,Chemotherapy,adriamycin,Complete Response,104,174,NO
+3058,TCGA-EW-A3U0,Chemotherapy,cisplatin,Complete Response,85,127,NO
+3062,TCGA-EW-A424,Chemotherapy,docetaxel,Complete Response,118,181,NO
+3064,TCGA-GM-A2D9,Chemotherapy,xeloda,Clinical Progressive Disease,1362,1455,NO
+3066,TCGA-GM-A2DA,Chemotherapy,fluorouracil,Complete Response,74,147,NO
+3081,TCGA-GM-A2DB,Chemotherapy,taxol,Complete Response,91,167,NO
+3085,TCGA-GM-A2DC,Chemotherapy,xeloda,Complete Response,57,119,NO
+3093,TCGA-GM-A2DF,Chemotherapy,taxol,Complete Response,82,159,NO
+3105,TCGA-GM-A2DM,Chemotherapy,taxol,Complete Response,81,169,NO
+3116,TCGA-GM-A3XG,Chemotherapy,paclitaxel,Complete Response,163,247,NO
+3120,TCGA-GM-A3XL,Chemotherapy,fluorouracil,Complete Response,100,163,NO
+3124,TCGA-GM-A3XN,Chemotherapy,paclitaxel,Complete Response,134,211,NO
+3128,TCGA-GM-A4E0,Chemotherapy,xeloda,Complete Response,121,184,NO
+3139,TCGA-LL-A441,Chemotherapy,taxotere,Complete Response,61,133,NO
+3141,TCGA-LL-A5YO,Chemotherapy,taxotere,Complete Response,56,160,NO
+3143,TCGA-LL-A73Z,Chemotherapy,adriamycin,Clinical Progressive Disease,18,60,NO
+3149,TCGA-LL-A7SZ,Chemotherapy,adriamycin,Complete Response,62,104,NO
+3152,TCGA-LL-A8F5,Chemotherapy,abraxane,Complete Response,189,259,NO
+3153,TCGA-MS-A51U,Chemotherapy,paclitaxel,Stable Disease,130,178,NO
+3156,TCGA-OL-A5D7,Chemotherapy,cytoxan,Complete Response,41,104,NO
+3158,TCGA-OL-A5RU,Chemotherapy,cyclophosphamide,Complete Response,71,134,NO
+3160,TCGA-OL-A5RV,Chemotherapy,doxorubicin,Complete Response,63,161,NO
+3163,TCGA-OL-A5RW,Chemotherapy,adriamycin,Complete Response,69,234,NO
+3168,TCGA-OL-A5S0,Chemotherapy,taxol,Complete Response,67,228,NO
+3169,TCGA-OL-A66I,Chemotherapy,adriamycin,Complete Response,43,312,NO
+3172,TCGA-OL-A66O,Chemotherapy,cytoxan,Complete Response,129,192,NO
+3176,TCGA-OL-A6VO,Chemotherapy,taxotere,Complete Response,71,147,NO
+3178,TCGA-PE-A5DD,Chemotherapy,,Complete Response,38,NA,NO
+3179,TCGA-PE-A5DE,Chemotherapy,taxotere,Complete Response,42,105,NO
+3183,TCGA-S3-A6ZG,Chemotherapy,doxorubicin,Complete Response,52,100,NO
+3185,TCGA-S3-A6ZH,Chemotherapy,adriamycin,Complete Response,141,185,NO
+3191,TCGA-S3-AA14,Chemotherapy,adriamycin,Complete Response,62,104,NO
+3193,TCGA-S3-AA15,Chemotherapy,adriamycin,Complete Response,82,125,NO
+3198,TCGA-XX-A899,Chemotherapy,cytoxan,Complete Response,96,201,NO
+3219,TCGA-QR-A70P,Chemotherapy,cyclophosphamide, vincristine, and dacarbazine,Clinical Progressive Disease,966,NA,NO
+3222,TCGA-WB-A81Q,Chemotherapy,vincristine,Clinical Progressive Disease,620,704,NO
+3226,TCGA-N5-A4R8,Chemotherapy,ifosfamide,Complete Response,68,189,NO
+3228,TCGA-N5-A4RF,Chemotherapy,carboplatin,Complete Response,69,174,NO
+3236,TCGA-N5-A4RO,Chemotherapy,ifosfamide,Stable Disease,67,141,NO
+3239,TCGA-N5-A4RS,Chemotherapy,ifosfamide,Complete Response,NA,135,NO
+3241,TCGA-N5-A4RT,Chemotherapy,cisplatin,Complete Response,66,101,NO
+3246,TCGA-N5-A4RV,Chemotherapy,ifosfamide,Complete Response,NA,NA,NO
+3250,TCGA-N5-A59F,Chemotherapy,carboplatin,Complete Response,70,182,NO
+3252,TCGA-N6-A4V9,Chemotherapy,carboplatin,Complete Response,33,148,NO
+3255,TCGA-N6-A4VE,Chemotherapy,carboplatin,Clinical Progressive Disease,45,152,NO
+3260,TCGA-N6-A4VG,Chemotherapy,carboplatin,Partial Response,62,166,NO
+3269,TCGA-N7-A59B,Chemotherapy,carboplatin,Complete Response,72,183,NO
+3275,TCGA-N8-A4PN,Chemotherapy,taxol,Complete Response,46,151,NO
+3283,TCGA-N9-A4PZ,Chemotherapy,carboplatin,Complete Response,88,193,NO
+3288,TCGA-N9-A4Q1,Chemotherapy,cisplatin,Complete Response,67,95,NO
+3292,TCGA-N9-A4Q3,Chemotherapy,paclitaxel,Partial Response,771,1128,NO
+3295,TCGA-N9-A4Q7,Chemotherapy,carboplatin,Complete Response,86,205,NO
+3298,TCGA-N9-A4Q8,Chemotherapy,paclitaxel,Clinical Progressive Disease,252,356,NO
+3300,TCGA-NA-A4QW,Chemotherapy,taxol,Complete Response,126,231,NO
+3301,TCGA-ND-A4WC,Chemotherapy,carboplatin,Complete Response,59,215,NO
+3309,TCGA-A4-7287,Chemotherapy,cisplatin,Clinical Progressive Disease,254,282,NO

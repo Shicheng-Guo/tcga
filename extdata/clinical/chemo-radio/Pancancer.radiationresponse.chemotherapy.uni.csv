@@ -1,0 +1,704 @@
+,X,bcr_patient_barcode,radiation_type,radiation_dosage,radiation_treatment_ongoing,days_to_radiation_therapy_start,days_to_radiation_therapy_end,measure_of_response
+9,9,TCGA-AF-A56N,External,5040,NO,54,95,Complete Response
+11,11,TCGA-AG-3591,External,50,NO,31,92,Complete Response
+12,12,TCGA-AG-3593,External,50,NO,61,92,Complete Response
+13,13,TCGA-AG-3600,External,41,NO,31,92,Complete Response
+14,14,TCGA-AG-3885,External,50,NO,30,91,Complete Response
+16,16,TCGA-AG-3894,External,50,NO,61,92,Complete Response
+17,17,TCGA-AG-4022,External,50,NO,122,153,Complete Response
+18,18,TCGA-AG-A00C,External,50,NO,61,92,Complete Response
+19,19,TCGA-AG-A00H,External,50,NO,90,121,Complete Response
+20,21,TCGA-AG-A01L,External,NA,NO,61,91,Complete Response
+21,22,TCGA-AG-A01W,External,50,NO,31,92,Complete Response
+22,23,TCGA-AG-A01Y,External,50,NO,62,121,Complete Response
+23,24,TCGA-AG-A02N,External,50,NO,59,89,Complete Response
+25,26,TCGA-AG-A036,External,NA,NO,92,215,Complete Response
+32,210,TCGA-3H-AB3O,External,60,NO,130,164,Partial Response
+34,61,TCGA-3H-AB3S,External,45,NO,132,152,Radiographic Progressive Disease
+38,111,TCGA-3H-AB3X,External,45,NO,236,271,Complete Response
+42,171,TCGA-LK-A4O7,External,56,NO,268,322,Radiographic Progressive Disease
+43,181,TCGA-MQ-A6BQ,External,NA,NO,NA,NA,Stable Disease
+44,191,TCGA-MQ-A6BR,External,NA,NO,NA,665,Complete Response
+45,20,TCGA-SC-A6LM,External,5040,NO,110,148,Partial Response
+47,221,TCGA-SC-A6LQ,External,5040,NO,169,209,Stable Disease
+48,231,TCGA-SC-A6LR,External,4680,NO,182,219,Stable Disease
+49,241,TCGA-SC-AA5Z,External,5220,NO,254,297,Partial Response
+50,261,TCGA-SH-A7BC,External,21,NO,280,280,Partial Response
+51,271,TCGA-SH-A7BD,,16,NO,455,458,Partial Response
+57,33,TCGA-UT-A88C,External,45,NO,189,232,Complete Response
+59,35,TCGA-UT-A88D,External,54,NO,160,218,Complete Response
+65,36,TCGA-2G-AAF6,External,26,NO,38,56,Complete Response
+66,42,TCGA-2G-AAF8,External,26,NO,31,49,Complete Response
+67,51,TCGA-2G-AAFG,External,26,NO,49,65,Complete Response
+74,122,TCGA-2G-AAKG,External,26,NO,4670,4687,Complete Response
+97,103,TCGA-G9-A9S0,External,3000,NO,423,435,Partial Response
+171,117,TCGA-IC-A6RF,External,35,NO,342,342,Complete Response
+176,712,TCGA-JY-A93D,External,3960,NO,178,207,Complete Response
+177,86,TCGA-KH-A6WC,,NA,NO,53,175,Complete Response
+178,94,TCGA-L5-A88W,External,50,NO,105,113,Radiographic Progressive Disease
+179,104,TCGA-L7-A56G,External,4140,NO,49,80,Stable Disease
+180,118,TCGA-L7-A6VZ,External,4500,NO,125,163,Complete Response
+182,133,TCGA-LN-A49M,External,50,NO,95,136,Complete Response
+183,144,TCGA-LN-A49O,External,45,NO,76,104,Radiographic Progressive Disease
+185,164,TCGA-LN-A49R,External,45,NO,143,194,Complete Response
+187,184,TCGA-LN-A49U,External,50,NO,33,75,Complete Response
+188,194,TCGA-LN-A49V,External,45,NO,25,65,Complete Response
+189,203,TCGA-LN-A49W,External,45,NO,53,82,Complete Response
+191,224,TCGA-LN-A49Y,External,50,NO,92,126,Radiographic Progressive Disease
+192,234,TCGA-LN-A4A1,External,36,NO,200,236,Radiographic Progressive Disease
+193,244,TCGA-LN-A4A2,External,50,NO,47,83,Complete Response
+194,253,TCGA-LN-A4A3,External,50,NO,39,74,Radiographic Progressive Disease
+196,273,TCGA-LN-A4A6,External,45,NO,146,178,Complete Response
+197,282,TCGA-LN-A4MQ,External,50,NO,102,127,Complete Response
+198,293,TCGA-LN-A4MR,External,36,NO,237,270,Complete Response
+199,303,TCGA-LN-A5U6,External,50,NO,36,66,Complete Response
+200,313,TCGA-LN-A7HV,External,50,NO,36,71,Complete Response
+202,332,TCGA-LN-A7HX,External,45,NO,138,160,Complete Response
+203,342,TCGA-LN-A7HY,External,50,NO,104,159,Complete Response
+204,352,TCGA-LN-A7HZ,External,50,NO,112,153,Complete Response
+205,362,TCGA-LN-A8HZ,External,45,NO,42,72,Complete Response
+208,391,TCGA-LN-A9FP,External,50,NO,40,82,Complete Response
+210,413,TCGA-LN-A9FR,External,50,NO,33,69,Complete Response
+212,431,TCGA-V5-A7RC,External,5040,NO,26,67,Radiographic Progressive Disease
+213,441,TCGA-V5-A7RE,External,4500,NO,34,66,Partial Response
+214,451,TCGA-V5-AASV,External,5400,NO,36,77,Partial Response
+216,471,TCGA-VR-A8EQ,External,4500,NO,167,206,Complete Response
+217,481,TCGA-VR-A8ER,External,4500,NO,245,280,Complete Response
+219,501,TCGA-VR-AA4D,External,4500,NO,224,261,Radiographic Progressive Disease
+228,95,TCGA-3B-A9HT,External,6600,NO,51,106,Complete Response
+231,125,TCGA-DX-A3U7,External,3000,NO,1312,1323,Radiographic Progressive Disease
+232,134,TCGA-DX-A3UC,External,2400,NO,1427,1428,Radiographic Progressive Disease
+235,165,TCGA-DX-A6B8,Internal,900,NO,7,12,Complete Response
+241,225,TCGA-DX-A6YX,External,6300,NO,85,135,Complete Response
+247,283,TCGA-DX-A7EQ,External,6600,NO,111,167,Complete Response
+257,392,TCGA-DX-A8BT,External,6300,NO,63,112,Complete Response
+258,402,TCGA-DX-A8BU,External,6300,NO,52,100,Radiographic Progressive Disease
+259,415,TCGA-DX-A8BV,External,5400,NO,496,537,Partial Response
+270,561,TCGA-HB-A43Z,External,4500,NO,207,239,Complete Response
+274,614,TCGA-IF-A3RQ,External,61.8,NO,455,523,Partial Response
+277,661,TCGA-K1-A3PN,External,28,NO,60,90,Radiographic Progressive Disease
+280,691,TCGA-K1-A6RU,,NA,NO,NA,NA,Radiographic Progressive Disease
+282,714,TCGA-LI-A67I,External,6600,NO,67,125,Complete Response
+290,822,TCGA-QQ-A8VD,External,54,NO,1641,1684,Stable Disease
+293,851,TCGA-RN-AAAQ,External,6300,NO,40,89,Complete Response
+297,90,TCGA-SI-A71O,,6000,NO,194,236,Stable Disease
+298,921,TCGA-SI-A71P,External,21.6,NO,113,128,Complete Response
+308,1031,TCGA-X6-A7WC,External,50,NO,624,634,Stable Disease
+316,1121,TCGA-X6-A8C6,External,6400,NO,120,165,Complete Response
+337,205,TCGA-OU-A5PI,External,48,NO,476,486,Stable Disease
+351,911,TCGA-3A-A9I5,External,5040,NO,110,147,Complete Response
+353,128,TCGA-3A-A9I9,External,5000,NO,97,134,Stable Disease
+354,136,TCGA-3A-A9IC,External,5000,NO,125,159,Stable Disease
+356,156,TCGA-3A-A9IX,External,5000,NO,96,128,Complete Response
+357,167,TCGA-F2-7273,External,NA,NO,53,90,Radiographic Progressive Disease
+358,177,TCGA-F2-A44G,External,5440,NO,98,144,Complete Response
+359,197,TCGA-F2-A44H,External,5040,NO,228,267,Complete Response
+361,2111,TCGA-FB-A545,External,45,NO,113,149,Complete Response
+363,237,TCGA-FB-AAPP,External,4500,NO,135,166,Radiographic Progressive Disease
+364,246,TCGA-FB-AAPY,External,5580,NO,152,182,Complete Response
+366,265,TCGA-H6-8124,External,5040,NO,166,205,Complete Response
+367,276,TCGA-HV-A7OP,External,5040,NO,75,77,Radiographic Progressive Disease
+368,284,TCGA-HV-AA8V,,NA,NO,540,565,Radiographic Progressive Disease
+369,295,TCGA-HZ-7289,External,4500,NO,438,467,Radiographic Progressive Disease
+370,317,TCGA-HZ-7918,External,5400,NO,98,137,Complete Response
+371,325,TCGA-HZ-7920,External,5040,NO,79,120,Complete Response
+372,334,TCGA-HZ-8317,External,3000,NO,105,116,Radiographic Progressive Disease
+373,344,TCGA-HZ-8519,External,5000,NO,73,134,Complete Response
+374,355,TCGA-HZ-8637,External,5040,NO,201,243,Complete Response
+375,364,TCGA-HZ-A49G,External,5040,NO,252,290,Radiographic Progressive Disease
+376,374,TCGA-HZ-A49I,External,5040,NO,56,93,Radiographic Progressive Disease
+377,384,TCGA-HZ-A4BK,External,4500,NO,130,532,Radiographic Progressive Disease
+378,403,TCGA-LB-A8F3,External,5040,NO,133,200,Complete Response
+381,432,TCGA-OE-A75W,External,4500,NO,118,153,Radiographic Progressive Disease
+383,463,TCGA-RB-AA9M,,NA,NO,129,188,Radiographic Progressive Disease
+387,518,TCGA-YB-A89D,External,5000,NO,74,123,Complete Response
+388,521,TCGA-YY-A8LH,External,5400,NO,99,135,Complete Response
+392,419,TCGA-BT-A2LD,External,NA,NO,555,555,Radiographic Progressive Disease
+397,1013,TCGA-CF-A47S,External,30,NO,109,115,Complete Response
+398,1113,TCGA-CF-A47T,External,30,NO,127,139,Radiographic Progressive Disease
+403,168,TCGA-DK-AA6S,External,5940,NO,612,661,Radiographic Progressive Disease
+404,187,TCGA-DK-AA6T,External,3000,NO,24,24,Complete Response
+405,198,TCGA-DK-AA6W,External,4500,NO,263,295,Partial Response
+415,319,TCGA-G2-A2EL,External,30,NO,376,397,Stable Disease
+417,335,TCGA-GU-A42R,External,3000,NO,556,569,Radiographic Progressive Disease
+418,345,TCGA-GV-A3JW,External,NA,NO,321,321,Partial Response
+419,356,TCGA-GV-A40E,External,3000,NO,231,244,Radiographic Progressive Disease
+425,454,TCGA-XF-A9SH,External,5400,NO,1187,1240,Stable Disease
+426,464,TCGA-XF-A9SU,External,30,NO,107,117,Radiographic Progressive Disease
+427,474,TCGA-XF-A9T5,External,45,NO,880,911,Complete Response
+429,519,TCGA-XF-AAME,External,45,NO,1821,1871,Partial Response
+431,532,TCGA-XF-AAMJ,External,NA,NO,173,204,Complete Response
+445,149,TCGA-33-AASI,External,54,NO,195,195,Stable Disease
+448,199,TCGA-37-A5EL,External,35,NO,215,222,Partial Response
+455,267,TCGA-43-A475,External,6000,NO,35,77,Complete Response
+459,305,TCGA-52-7812,External,30,NO,334,357,Radiographic Progressive Disease
+460,3110,TCGA-56-7579,External,5000,NO,93,125,Radiographic Progressive Disease
+461,327,TCGA-56-7730,External,,NO,117,148,Radiographic Progressive Disease
+462,336,TCGA-56-7822,External,4280,NO,356,413,Radiographic Progressive Disease
+463,346,TCGA-56-8308,External,6400,NO,59,98,Stable Disease
+465,385,TCGA-56-A62T,External,6000,NO,39,84,Complete Response
+466,395,TCGA-58-8391,External,50,NO,133,180,Complete Response
+467,405,TCGA-58-A46K,External,50,NO,182,223,Complete Response
+478,523,TCGA-66-2757,External,50,NO,788,789,Radiographic Progressive Disease
+479,533,TCGA-66-2759,External,50,NO,0,0,Complete Response
+480,542,TCGA-66-2778,External,50,NO,143,145,Complete Response
+481,553,TCGA-66-2783,External,45,NO,0,0,Complete Response
+484,582,TCGA-68-A59I,External,2000,NO,116,492,Stable Disease
+500,752,TCGA-NC-A5HG,External,50,NO,125,163,Complete Response
+501,762,TCGA-NC-A5HP,Internal,20,NO,485,485,Radiographic Progressive Disease
+502,772,TCGA-NC-A5HQ,External,54,NO,158,202,Complete Response
+503,782,TCGA-NC-A5HT,External,60,NO,265,292,Partial Response
+516,1014,TCGA-4V-A9QQ,External,60,NO,261,304,Partial Response
+524,188,TCGA-X7-A8M6,External,NA,NO,1986,2046,Radiographic Progressive Disease
+525,1910,TCGA-XM-AAZ1,External,5400,NO,67,110,Stable Disease
+707,1581,TCGA-06-1806,External,60,NO,26,64,Stable Disease
+743,1941,TCGA-06-A5U0,External,6000,NO,31,74,Radiographic Progressive Disease
+745,1961,TCGA-06-A6S1,External,41.1,NO,8,45,Radiographic Progressive Disease
+746,1971,TCGA-06-A7TK,External,60,NO,34,76,Stable Disease
+747,1981,TCGA-06-A7TL,External,60,NO,25,71,Stable Disease
+938,389,TCGA-19-A60I,External,5945,NO,72,114,Stable Disease
+939,390,TCGA-19-A6J5,External,6000,NO,34,76,Stable Disease
+1052,5181,TCGA-4W-AA9S,External,55,NO,56,105,Complete Response
+1085,5511,TCGA-87-5896,External,6000,NO,3,64,Complete Response
+1086,1103,TCGA-2E-A9G8,Internal,2200,NO,122,122,Stable Disease
+1089,626,TCGA-5S-A9Q8,Internal,2100,NO,186,202,Complete Response
+1117,3512,TCGA-A5-A1OH,Internal,2100,NO,251,265,Complete Response
+1122,4114,TCGA-A5-AB3J,Internal,2100,NO,85,98,Complete Response
+1123,4312,TCGA-AJ-A23M,External,NA,NO,184,215,Stable Disease
+1125,459,TCGA-AJ-A23N,External,6200,NO,165,206,Radiographic Progressive Disease
+1127,479,TCGA-AJ-A2QM,Internal,1500,NO,172,184,Complete Response
+1129,5113,TCGA-AJ-A3BD,External,5040,NO,118,156,Complete Response
+1131,5312,TCGA-AJ-A3BF,External,5940,NO,411,457,Radiographic Progressive Disease
+1134,564,TCGA-AJ-A3BG,External,6000,NO,123,184,Complete Response
+1136,594,TCGA-AJ-A3EK,Internal,2100,NO,84,81,Complete Response
+1137,604,TCGA-AJ-A3I9,Internal,2100,NO,127,141,Complete Response
+1138,6111,TCGA-AJ-A3NF,External,4500,NO,158,193,Complete Response
+1142,653,TCGA-AJ-A3OJ,External,NA,NO,233,263,Complete Response
+1144,674,TCGA-AJ-A3OK,Internal,7000,NO,158,177,Complete Response
+1145,684,TCGA-AJ-A3QS,External,NA,NO,114,143,Complete Response
+1148,7111,TCGA-AJ-A4ZG,Internal,NA,NO,51,70,Complete Response
+1185,1122,TCGA-AP-A5FX,External,4500,NO,273,305,Complete Response
+1253,1882,TCGA-BG-A2AE,External,4500,NO,230,273,Complete Response
+1254,1891,TCGA-BG-A2L7,Internal,21.1,NO,189,202,Complete Response
+1257,1922,TCGA-BG-A3PP,External,19.8,NO,238,253,Complete Response
+1310,2452,TCGA-D1-A3JQ,External,5040,NO,200,237,Complete Response
+1320,2552,TCGA-DI-A2QY,External,4500,NO,88,129,Complete Response
+1324,2592,TCGA-E6-A8L9,Internal,30,NO,106,120,Complete Response
+1327,2632,TCGA-EO-A1Y5,Internal,NA,NO,280,283,Complete Response
+1328,2642,TCGA-EO-A1Y7,,48.6,NO,117,155,Radiographic Progressive Disease
+1334,2701,TCGA-EO-A2CG,External,4500,NO,285,319,Complete Response
+1335,2713,TCGA-EO-A2CH,External,800,NO,578,NA,Radiographic Progressive Disease
+1336,2722,TCGA-EO-A3AV,External,4500,NO,232,267,Complete Response
+1337,2732,TCGA-EO-A3B1,External,4.5,NO,105,141,Complete Response
+1368,3103,TCGA-EY-A3L3,Internal,1500,NO,198,198,Complete Response
+1369,3115,TCGA-EY-A4KR,External,720,NO,112,117,Radiographic Progressive Disease
+1373,3172,TCGA-EY-A54A,External,4500,NO,140,176,Complete Response
+1377,3222,TCGA-JU-AAVI,External,4860,NO,82,123,Partial Response
+1380,3252,TCGA-PG-A7D5,Internal,15,NO,108,108,Complete Response
+1383,3282,TCGA-QF-A5YS,External,4500,NO,172,212,Complete Response
+1385,3301,TCGA-QF-A5YT,External,50.4,NO,165,204,Complete Response
+1391,2103,TCGA-AA-3692,External,39,NO,31,426,Radiographic Progressive Disease
+1393,628,TCGA-AA-3713,External,50,NO,275,306,Radiographic Progressive Disease
+1395,1019,TCGA-AA-3844,External,31,NO,393,424,Radiographic Progressive Disease
+1396,1216,TCGA-AA-A01R,External,50,NO,881,943,Radiographic Progressive Disease
+1397,1314,TCGA-AD-6901,External,NA,NO,488,503,Radiographic Progressive Disease
+1407,2814,TCGA-NH-A6GA,External,3000,NO,106,118,Radiographic Progressive Disease
+1408,2914,TCGA-NH-A8F7,External,4500,NO,466,468,Partial Response
+1409,3116,TCGA-RU-A8FL,Internal,568.1,NO,788,788,Stable Disease
+1411,3104,TCGA-05-4384,External,,NO,183,214,Radiographic Progressive Disease
+1415,820,TCGA-05-5425,External,40,NO,516,547,Radiographic Progressive Disease
+1416,919,TCGA-05-5428,External,64,NO,215,274,Complete Response
+1442,4313,TCGA-49-AAR4,External,4,500 cGy,NO,118,153,Complete Response
+1459,6112,TCGA-50-6595,External,54,NO,123,161,Radiographic Progressive Disease
+1462,645,TCGA-53-7624,External,30,NO,613,624,Radiographic Progressive Disease
+1464,664,TCGA-55-6968,External,,NO,13,57,Stable Disease
+1465,675,TCGA-55-6970,External,5940,NO,90,124,Stable Disease
+1467,705,TCGA-55-6981,External,6120,NO,65,114,Complete Response
+1468,7112,TCGA-55-6982,External,03500,NO,642,687,Radiographic Progressive Disease
+1469,728,TCGA-55-7281,External,,NO,339,370,Radiographic Progressive Disease
+1472,755,TCGA-55-7574,External,,NO,487,487,Stable Disease
+1473,765,TCGA-55-7815,External,,NO,616,616,Radiographic Progressive Disease
+1476,792,TCGA-55-7995,External,6500,NO,483,525,Complete Response
+1479,826,TCGA-55-8205,External,3500,NO,508,525,Radiographic Progressive Disease
+1481,854,TCGA-55-8301,External,6660,NO,257,309,Partial Response
+1482,864,TCGA-55-8615,External,,NO,426,446,Radiographic Progressive Disease
+1484,883,TCGA-55-A48Z,External,5040,NO,154,195,Stable Disease
+1488,934,TCGA-62-A46Y,External,50,NO,227,256,Complete Response
+1499,1053,TCGA-71-6725,External,70,NO,159,204,Radiographic Progressive Disease
+1506,1123,TCGA-73-A9RS,Internal,12,NO,53,53,Radiographic Progressive Disease
+1519,1273,TCGA-86-7701,External,29,NO,917,929,Radiographic Progressive Disease
+1520,1282,TCGA-86-7955,External,62,NO,114,190,Complete Response
+1522,1303,TCGA-86-8279,External,66,NO,139,208,Complete Response
+1523,1315,TCGA-86-A4P8,External,50.4,NO,145,186,Complete Response
+1527,1353,TCGA-95-A4VK,External,50.4,NO,202,202,Stable Disease
+1530,1393,TCGA-97-8176,External,1500,NO,91,105,Partial Response
+1535,1453,TCGA-MP-A4T9,External,5000,NO,132,166,Complete Response
+1870,3216,TCGA-DB-A4XB,External,5940,NO,28,79,Stable Disease
+1872,3515,TCGA-DB-A4XD,External,5890,NO,24,69,Stable Disease
+1874,3714,TCGA-DB-A4XF,External,6000,NO,34,74,Stable Disease
+1875,3815,TCGA-DB-A64O,External,6000,NO,222,264,Stable Disease
+1876,3915,TCGA-DB-A64W,External,5940,NO,34,79,Stable Disease
+1877,4015,TCGA-DB-A64X,External,,NO,53,83,Stable Disease
+1878,4117,TCGA-DB-A75K,External,5949,NO,28,73,Complete Response
+1886,5014,TCGA-DH-A66B,External,60,NO,24,67,Stable Disease
+1887,5214,TCGA-DH-A66D,External,60,NO,31,73,Stable Disease
+1888,5315,TCGA-DH-A66G,External,59.4,NO,166,211,Partial Response
+1889,5414,TCGA-DH-A7UR,External,61.2,NO,33,83,Complete Response
+1890,5512,TCGA-DH-A7UT,External,6000,NO,55,97,Stable Disease
+1891,568,TCGA-DH-A7UU,External,6120,NO,41,88,Stable Disease
+1892,575,TCGA-DH-A7UV,External,6120,NO,20,67,Stable Disease
+1950,1164,TCGA-DU-8161,,1800,NO,26,26,Stable Disease
+1952,1184,TCGA-DU-8162,External,5940,NO,24,70,Stable Disease
+1954,1205,TCGA-DU-8163,External,5940,NO,35,81,Stable Disease
+1955,12110,TCGA-DU-8165,External,6000,NO,30,71,Stable Disease
+1956,1225,TCGA-DU-8166,External,60,NO,53,106,Radiographic Progressive Disease
+1958,1245,TCGA-DU-8168,External,6000,NO,25,71,Stable Disease
+1959,1255,TCGA-DU-A5TP,External,60,NO,32,76,Stable Disease
+1961,1275,TCGA-DU-A5TS,External,54,NO,25,49,Stable Disease
+1964,1304,TCGA-DU-A5TU,External,54,NO,131,166,Radiographic Progressive Disease
+1965,1319,TCGA-DU-A5TY,External,6000,NO,17,34,Stable Disease
+1967,1335,TCGA-DU-A6S7,External,60,NO,23,67,Stable Disease
+1968,1345,TCGA-DU-A76K,External,59.4,NO,34,82,Stable Disease
+1969,1355,TCGA-DU-A76L,External,60,NO,16,57,Stable Disease
+1970,1364,TCGA-DU-A76O,External,60,NO,49,94,Stable Disease
+1971,1385,TCGA-DU-A76R,External,30,NO,98,135,Radiographic Progressive Disease
+1973,1405,TCGA-DU-A7T8,External,5940,NO,147,193,Stable Disease
+1974,14110,TCGA-DU-A7TA,External,54,NO,33,70,Stable Disease
+1975,1425,TCGA-DU-A7TB,External,54,NO,88,124,Stable Disease
+1976,1434,TCGA-DU-A7TD,External,60,NO,22,63,Stable Disease
+1977,1445,TCGA-DU-A7TI,External,59,NO,NA,NA,Radiographic Progressive Disease
+1987,1544,TCGA-E1-A7YD,External,5400,NO,34,81,Stable Disease
+1988,1554,TCGA-E1-A7YE,External,5940,NO,14,73,Stable Disease
+1989,1564,TCGA-E1-A7YH,External,6000,NO,45,87,Stable Disease
+1990,1573,TCGA-E1-A7YJ,External,5940,NO,39,84,Stable Disease
+1991,1584,TCGA-E1-A7YK,,,NO,27,68,Stable Disease
+1992,1594,TCGA-E1-A7YL,External,6000,NO,36,78,Radiographic Progressive Disease
+1993,1603,TCGA-E1-A7YM,External,5940,NO,27,75,Radiographic Progressive Disease
+1994,1618,TCGA-E1-A7YN,External,6000,NO,35,90,Stable Disease
+1996,1654,TCGA-E1-A7YQ,External,,NO,92,184,Stable Disease
+1997,1664,TCGA-E1-A7YS,External,,NO,67,106,Stable Disease
+1998,1674,TCGA-E1-A7YV,External,5940,NO,38,82,Radiographic Progressive Disease
+1999,1684,TCGA-E1-A7YW,External,5940,NO,641,686,Stable Disease
+2000,1694,TCGA-E1-A7YY,External,5400,NO,2143,2184,Stable Disease
+2001,1703,TCGA-E1-A7Z2,External,6000,NO,286,328,Stable Disease
+2002,1718,TCGA-E1-A7Z3,External,5600,NO,1821,1866,Stable Disease
+2003,1723,TCGA-E1-A7Z4,External,5940,NO,916,961,Radiographic Progressive Disease
+2005,1743,TCGA-E1-A7Z6,External,5580,NO,907,964,Radiographic Progressive Disease
+2019,1884,TCGA-FG-8185,External,5940,NO,26,70,Stable Disease
+2022,1918,TCGA-FG-8189,External,5040,NO,105,159,Stable Disease
+2023,1924,TCGA-FG-8191,External,5700,NO,31,76,Stable Disease
+2025,1944,TCGA-FG-A4MW,External,5940,NO,32,71,Stable Disease
+2030,1994,TCGA-FG-A6J3,External,5940,NO,27,74,Stable Disease
+2031,2003,TCGA-FG-A70Y,External,5510,NO,515,554,Stable Disease
+2033,2024,TCGA-FG-A711,External,6000,NO,733,774,Radiographic Progressive Disease
+2037,2074,TCGA-FN-7833,External,6000,NO,95,120,Complete Response
+2043,2134,TCGA-HT-7477,External,5940,NO,24,83,Complete Response
+2048,2184,TCGA-HT-7483,External,5400,NO,2876,2918,Complete Response
+2051,22110,TCGA-HT-7604,,,NO,NA,2183,Partial Response
+2071,2419,TCGA-HT-7884,External,5040,NO,44,84,Stable Disease
+2072,2424,TCGA-HT-8011,External,6185,NO,14,69,Stable Disease
+2073,2434,TCGA-HT-8013,External,5400,NO,103,146,Stable Disease
+2080,2503,TCGA-HT-8564,External,5940,NO,35,128,Radiographic Progressive Disease
+2081,2517,TCGA-HT-A4DV,External,5940,NO,42,88,Complete Response
+2083,2534,TCGA-HT-A5RA,External,5940,NO,22,68,Partial Response
+2084,2544,TCGA-HT-A5RC,External,5940,NO,34,98,Radiographic Progressive Disease
+2089,2594,TCGA-HT-A61C,External,5857,NO,27,69,Complete Response
+2091,2619,TCGA-HT-A74K,External,5940,NO,35,79,Complete Response
+2092,2624,TCGA-HW-7487,External,60,NO,871,930,Radiographic Progressive Disease
+2094,2644,TCGA-HW-8319,External,6000,NO,23,66,Stable Disease
+2095,2654,TCGA-HW-8320,External,6000,NO,68,109,Stable Disease
+2096,2664,TCGA-HW-8321,External,5000,NO,28,62,Stable Disease
+2098,2684,TCGA-HW-A5KJ,External,60,NO,107,169,Stable Disease
+2099,2693,TCGA-HW-A5KK,External,6000,NO,23,84,Radiographic Progressive Disease
+2100,2703,TCGA-HW-A5KL,External,6000,NO,10,71,Stable Disease
+2103,2744,TCGA-KT-A74X,External,5400,NO,40,83,Stable Disease
+2104,2754,TCGA-KT-A7W1,External,4600,NO,20,61,Radiographic Progressive Disease
+2107,2784,TCGA-P5-A5F0,External,60,NO,23,70,Partial Response
+2108,2794,TCGA-P5-A5F4,External,60,NO,19,80,Partial Response
+2118,2893,TCGA-QH-A65R,External,52,NO,32,69,Stable Disease
+2119,2903,TCGA-QH-A65X,External,54,NO,63,103,Stable Disease
+2120,2918,TCGA-QH-A65Z,External,54,NO,337,375,Stable Disease
+2121,2924,TCGA-QH-A6CS,External,54,NO,45,84,Stable Disease
+2126,2974,TCGA-QH-A6CY,External,56,NO,30,67,Stable Disease
+2127,2984,TCGA-QH-A6X4,External,54,NO,101,138,Complete Response
+2128,2993,TCGA-QH-A6X8,External,54,NO,49,90,Stable Disease
+2129,3003,TCGA-QH-A6XC,External,54,NO,36,75,Complete Response
+2131,3024,TCGA-S9-A6TS,External,59.4,NO,0,78,Stable Disease
+2132,3034,TCGA-S9-A6TV,External,54,NO,26,68,Stable Disease
+2133,3044,TCGA-S9-A6TW,External,49,4,NO,1057,1104,Complete Response
+2136,3072,TCGA-S9-A6U0,External,60,NO,30,64,Stable Disease
+2139,3109,TCGA-S9-A6U8,External,59,4,NO,381,NA,Partial Response
+2141,3124,TCGA-S9-A6WG,External,60,NO,28,71,Stable Disease
+2145,3162,TCGA-S9-A6WM,External,60,NO,16,64,Stable Disease
+2146,3173,TCGA-S9-A6WN,External,60,NO,117,160,Stable Disease
+2149,3202,TCGA-S9-A7IX,External,59.4,NO,36,87,Stable Disease
+2152,3233,TCGA-S9-A7IZ,External,60,NO,42,85,Stable Disease
+2153,3243,TCGA-S9-A7J0,External,60,NO,59,101,Stable Disease
+2154,3253,TCGA-S9-A7J3,External,59.4,NO,177,247,Stable Disease
+2155,3263,TCGA-S9-A7QW,External,59.4,NO,36,81,Stable Disease
+2157,3283,TCGA-S9-A7R1,External,54,NO,-70,NA,Stable Disease
+2160,3317,TCGA-S9-A7R4,External,54,NO,54,161,Stable Disease
+2161,3323,TCGA-S9-A7R7,External,54,NO,50,92,Radiographic Progressive Disease
+2163,3343,TCGA-S9-A7R8,External,60,NO,54,NA,Stable Disease
+2165,3362,TCGA-S9-A89V,External,45,NO,12,46,Radiographic Progressive Disease
+2166,3372,TCGA-S9-A89Z,External,59.4,NO,29,77,Stable Disease
+2174,3452,TCGA-TM-A84L,External,60,NO,1065,1109,Radiographic Progressive Disease
+2175,3462,TCGA-TM-A84M,External,59.06,NO,73,122,Complete Response
+2181,3522,TCGA-VM-A8CF,External,5040,NO,42,81,Stable Disease
+2183,3542,TCGA-VV-A829,External,,NO,0,61,Stable Disease
+2186,3572,TCGA-WH-A86K,External,5940,NO,39,84,Stable Disease
+2187,1129,TCGA-3M-AB46,External,45,NO,120,151,Partial Response
+2188,2125,TCGA-3M-AB47,External,NA,NO,122,242,Stable Disease
+2190,4105,TCGA-CD-5802,External,50,NO,123,217,Complete Response
+2191,569,TCGA-CD-8524,External,50,NO,74,110,Radiographic Progressive Disease
+2192,639,TCGA-CD-8525,External,50,NO,67,103,Complete Response
+2193,738,TCGA-CD-8528,External,50,NO,115,147,Complete Response
+2194,830,TCGA-CD-8529,External,50,NO,50,88,Complete Response
+2195,929,TCGA-CD-8530,External,50,NO,84,115,Complete Response
+2196,1028,TCGA-CD-8531,External,50,NO,104,134,Complete Response
+2197,1130,TCGA-CD-A48A,External,24,NO,33,53,Complete Response
+2198,1226,TCGA-CD-A4MH,External,50,NO,118,148,Complete Response
+2199,1320,TCGA-CD-A4MJ,External,50,NO,94,125,Complete Response
+2200,1426,TCGA-CG-4444,External,45,NO,31,92,Complete Response
+2201,1619,TCGA-CG-4477,External,NA,NO,426,457,Radiographic Progressive Disease
+2208,2319,TCGA-D7-8579,External,45,NO,125,156,Complete Response
+2211,2620,TCGA-D7-A748,External,34,NO,42,104,Radiographic Progressive Disease
+2213,2820,TCGA-EQ-A4SO,External,5040,NO,179,222,Complete Response
+2215,3218,TCGA-F1-A448,External,4500,NO,158,195,Complete Response
+2216,3318,TCGA-FP-7829,External,5040,NO,53,92,Complete Response
+2217,3416,TCGA-FP-8209,External,4500,NO,108,143,Complete Response
+2218,3517,TCGA-FP-8210,External,4500,NO,31,72,Radiographic Progressive Disease
+2219,3616,TCGA-FP-8211,External,6000,NO,316,357,Complete Response
+2220,3715,TCGA-FP-A4BE,External,4500,NO,130,162,Complete Response
+2221,3816,TCGA-FP-A9TM,External,4500,NO,110,142,Complete Response
+2231,4916,TCGA-HU-A4H3,External,2300,NO,420,431,Partial Response
+2232,5015,TCGA-IN-8462,External,NA,NO,403,417,Radiographic Progressive Disease
+2233,5116,TCGA-IN-A6RO,External,30,NO,83,96,Complete Response
+2234,5215,TCGA-IN-A6RP,External,30,NO,79,92,Radiographic Progressive Disease
+2235,5316,TCGA-KB-A6F7,External,4500,NO,178,210,Complete Response
+2236,5415,TCGA-KB-A93J,External,45,NO,178,217,Complete Response
+2247,657,TCGA-VQ-A8DT,External,4500,NO,124,167,Complete Response
+2248,667,TCGA-VQ-A8E0,External,4500,NO,174,215,Radiographic Progressive Disease
+2249,678,TCGA-VQ-A8E2,External,4500,NO,176,218,Complete Response
+2250,688,TCGA-VQ-A8P2,,NA,NO,NA,107,Complete Response
+2251,696,TCGA-VQ-A8P3,External,4500,NO,154,191,Complete Response
+2253,7115,TCGA-VQ-A8PB,External,4500,NO,185,220,Complete Response
+2254,7212,TCGA-VQ-A8PU,External,4500,NO,188,224,Complete Response
+2255,747,TCGA-VQ-A8PY,External,4500,NO,159,201,Complete Response
+2256,758,TCGA-VQ-A8PZ,External,4500,NO,230,269,Complete Response
+2257,768,TCGA-VQ-A91K,External,4500,NO,183,228,Complete Response
+2258,778,TCGA-VQ-A91Q,External,5040,NO,239,286,Complete Response
+2259,788,TCGA-VQ-A91S,External,4500,NO,151,196,Complete Response
+2260,795,TCGA-VQ-A91V,External,4500,NO,92,128,Radiographic Progressive Disease
+2261,807,TCGA-VQ-A91W,External,4500,NO,188,224,Complete Response
+2262,8113,TCGA-VQ-A94R,External,4500,NO,524,564,Radiographic Progressive Disease
+2263,8211,TCGA-VQ-AA64,External,4500,NO,108,144,Complete Response
+2264,837,TCGA-VQ-AA68,External,4500,NO,194,238,Complete Response
+2265,847,TCGA-VQ-AA6B,External,4500,NO,159,198,Complete Response
+2266,856,TCGA-VQ-AA6D,External,4500,NO,134,204,Complete Response
+2267,867,TCGA-VQ-AA6F,External,4500,NO,193,242,Radiographic Progressive Disease
+2268,876,TCGA-VQ-AA6K,External,4500,NO,173,222,Radiographic Progressive Disease
+2276,838,TCGA-G3-A25S,External,76,NO,129,393,Radiographic Progressive Disease
+2279,1137,TCGA-WX-AA47,Internal,NA,NO,156,340,Radiographic Progressive Disease
+2280,1138,TCGA-2W-A8YY,External,45,NO,47,79,Complete Response
+2293,1427,TCGA-C5-A1BQ,External,NA,NO,7,69,Complete Response
+2362,877,TCGA-DS-A5RQ,External,4500,NO,62,103,Complete Response
+2363,886,TCGA-DS-A7WF,External,3000,NO,341,397,Radiographic Progressive Disease
+2365,906,TCGA-DS-A7WH,External,5040,NO,74,112,Complete Response
+2366,9112,TCGA-DS-A7WI,External,5040,NO,81,123,Complete Response
+2367,9210,TCGA-EA-A3QD,External,4500,NO,75,112,Complete Response
+2370,954,TCGA-EA-A43B,External,82,NO,70,131,Complete Response
+2372,976,TCGA-EA-A44S,External,37.4,NO,41,68,Stable Disease
+2373,986,TCGA-EA-A4BA,External,37.7,NO,58,79,Complete Response
+2380,1056,TCGA-EX-A3L1,External,4500,NO,84,130,Complete Response
+2382,1076,TCGA-EX-A449,External,5040,NO,49,86,Complete Response
+2384,11011,TCGA-FU-A23L,External,4500,NO,75,113,Complete Response
+2388,1147,TCGA-FU-A3HY,External,4500,NO,61,95,Complete Response
+2390,1165,TCGA-FU-A3HZ,External,4500,NO,66,114,Complete Response
+2392,1185,TCGA-FU-A3WB,External,4500,NO,65,85,Complete Response
+2393,1196,TCGA-FU-A40J,External,4500,NO,89,196,Complete Response
+2396,1228,TCGA-HG-A9SC,,NA,NO,69,108,Complete Response
+2400,1264,TCGA-HM-A4S6,External,4500,NO,222,262,Complete Response
+2403,1296,TCGA-IR-A3L7,External,5040,NO,65,105,Complete Response
+2404,1305,TCGA-IR-A3LA,External,5040,NO,81,124,Complete Response
+2405,13110,TCGA-IR-A3LB,External,5040,NO,72,118,Complete Response
+2406,1327,TCGA-IR-A3LC,External,4500,NO,NA,153,Complete Response
+2409,1356,TCGA-IR-A3LH,External,4500,NO,148,182,Complete Response
+2411,1375,TCGA-IR-A3LI,External,5040,NO,50,91,Complete Response
+2412,1386,TCGA-IR-A3LK,External,5040,NO,71,108,Complete Response
+2413,1396,TCGA-IR-A3LL,External,5040,NO,48,89,Complete Response
+2416,1428,TCGA-JW-A5VH,External,1900,NO,40,46,Radiographic Progressive Disease
+2417,1435,TCGA-JW-A5VI,External,4500,NO,29,75,Complete Response
+2422,1485,TCGA-LP-A4AU,External,65,NO,104,135,Complete Response
+2425,15110,TCGA-MA-AA3W,External,4500,NO,75,110,Complete Response
+2426,1525,TCGA-MA-AA3X,External,5040,NO,85,140,Complete Response
+2428,1545,TCGA-MY-A5BD,External,60,NO,60,126,Complete Response
+2429,1555,TCGA-MY-A5BF,External,45,NO,158,193,Complete Response
+2430,1565,TCGA-MY-A913,Internal,21,NO,98,108,Complete Response
+2433,1595,TCGA-Q1-A5R2,External,600,NO,51,198,Partial Response
+2434,1604,TCGA-Q1-A5R3,External,3000,NO,43,80,Partial Response
+2436,1624,TCGA-Q1-A73O,External,5040,NO,48,124,Complete Response
+2445,17110,TCGA-UC-A7PG,External,4400,NO,58,90,Radiographic Progressive Disease
+2449,1755,TCGA-VS-A8EC,External,4500,NO,38,74,Partial Response
+2453,1795,TCGA-VS-A8EH,External,4500,NO,68,108,Complete Response
+2456,1825,TCGA-VS-A8EI,External,4500,NO,8,48,Complete Response
+2458,1844,TCGA-VS-A8EJ,External,4500,NO,423,463,Radiographic Progressive Disease
+2459,1855,TCGA-VS-A8EK,External,4500,NO,64,113,Partial Response
+2460,1865,TCGA-VS-A8EL,External,4500,NO,39,80,Complete Response
+2467,1935,TCGA-VS-A8QC,External,4500,NO,137,175,Radiographic Progressive Disease
+2469,1955,TCGA-VS-A8QF,External,4500,NO,99,133,Complete Response
+2472,1985,TCGA-VS-A8QH,External,4500,NO,126,161,Partial Response
+2474,2004,TCGA-VS-A8QM,External,4500,NO,106,141,Radiographic Progressive Disease
+2475,20110,TCGA-VS-A94W,Internal,2800,NO,126,137,Complete Response
+2477,2035,TCGA-VS-A94X,Internal,2800,NO,107,129,Partial Response
+2480,2065,TCGA-VS-A94Y,External,4500,NO,89,137,Radiographic Progressive Disease
+2481,2075,TCGA-VS-A94Z,External,4500,NO,49,87,Complete Response
+2487,2135,TCGA-VS-A954,External,4500,NO,97,139,Complete Response
+2490,2165,TCGA-VS-A957,External,4500,NO,108,147,Complete Response
+2492,2185,TCGA-VS-A958,Internal,2800,NO,118,129,Complete Response
+2498,2245,TCGA-VS-A9U5,External,900,NO,80,91,Complete Response
+2501,2275,TCGA-VS-A9U6,External,900,NO,120,129,Stable Disease
+2504,2305,TCGA-VS-A9U7,Internal,2800,NO,226,245,Complete Response
+2506,2325,TCGA-VS-A9UA,Internal,2400,NO,167,178,Complete Response
+2508,2345,TCGA-VS-A9UB,Internal,2800,NO,106,116,Complete Response
+2510,2365,TCGA-VS-A9UC,External,3240,NO,146,173,Stable Disease
+2511,2375,TCGA-VS-A9UD,External,4500,NO,54,90,Complete Response
+2513,2395,TCGA-VS-A9UH,External,4500,NO,100,145,Complete Response
+2521,2475,TCGA-VS-A9UM,External,4500,NO,430,465,Complete Response
+2524,2504,TCGA-VS-A9UO,Internal,2800,NO,92,108,Complete Response
+2526,2525,TCGA-VS-A9UP,External,4500,NO,90,124,Complete Response
+2530,2565,TCGA-VS-A9UR,External,4500,NO,44,85,Complete Response
+2533,2595,TCGA-VS-A9UU,Internal,2800,NO,78,95,Complete Response
+2535,26110,TCGA-VS-A9UY,Internal,2800,NO,56,74,Radiographic Progressive Disease
+2539,2655,TCGA-VS-A9V0,External,4500,NO,132,169,Complete Response
+2541,2675,TCGA-VS-A9V1,External,4500,NO,20,52,Radiographic Progressive Disease
+2543,2694,TCGA-VS-A9V3,Internal,2600,NO,131,156,Complete Response
+2547,2745,TCGA-VS-A9V5,External,4500,NO,95,136,Radiographic Progressive Disease
+2548,2755,TCGA-VS-AA62,Internal,2800,NO,69,90,Radiographic Progressive Disease
+2573,2136,TCGA-BA-A4IF,External,7000,NO,33,75,Complete Response
+2574,2226,TCGA-BA-A4IG,External,6000,NO,86,132,Complete Response
+2575,2427,TCGA-BA-A4IH,External,6600,NO,88,136,Complete Response
+2576,2520,TCGA-BA-A6D8,External,6600,NO,107,154,Complete Response
+2578,2720,TCGA-BA-A6DA,External,6600,NO,68,112,Complete Response
+2579,2824,TCGA-BA-A6DD,External,3800,NO,89,133,Radiographic Progressive Disease
+2582,3130,TCGA-BA-A6DI,External,6400,NO,18,62,Complete Response
+2583,3220,TCGA-BA-A6DJ,External,6600,NO,104,160,Complete Response
+2585,3418,TCGA-BA-A8YP,External,6200,NO,49,102,Complete Response
+2592,4120,TCGA-BB-7861,,NA,NO,43,71,Complete Response
+2594,4318,TCGA-BB-7864,External,6000,NO,136,179,Complete Response
+2595,4416,TCGA-BB-7866,External,7000,NO,70,116,Complete Response
+2598,4716,TCGA-BB-7872,External,6600,NO,112,154,Complete Response
+2600,4918,TCGA-BB-A5HU,External,6600,NO,68,110,Complete Response
+2601,5118,TCGA-BB-A5HY,External,182,NO,83,127,Complete Response
+2604,5417,TCGA-BB-A6UM,,NA,NO,150,181,Complete Response
+2645,1006,TCGA-CN-6998,External,6840,NO,63,141,Radiographic Progressive Disease
+2646,10114,TCGA-CN-A498,External,6440,NO,51,107,Complete Response
+2648,1039,TCGA-CN-A49A,External,6600,NO,76,128,Complete Response
+2651,1066,TCGA-CN-A49C,External,7300,NO,26,78,Complete Response
+2652,1077,TCGA-CN-A63T,External,9,NO,64,72,Complete Response
+2654,1097,TCGA-CN-A63W,External,66,NO,69,145,Complete Response
+2655,11012,TCGA-CN-A641,External,60,NO,185,239,Complete Response
+2656,11114,TCGA-CN-A6UY,External,6900,NO,59,101,Complete Response
+2657,11211,TCGA-CN-A6V3,External,6600,NO,130,178,Complete Response
+2658,1148,TCGA-CN-A6V6,External,6600,NO,74,119,Complete Response
+2659,1157,TCGA-CN-A6V7,External,7000,NO,83,132,Complete Response
+2682,14112,TCGA-CQ-A4CH,External,6600,NO,119,163,Complete Response
+2722,1986,TCGA-CR-6491,External,NA,NO,191,201,Complete Response
+2724,2005,TCGA-CR-6493,External,7000,NO,100,150,Complete Response
+2748,2286,TCGA-CR-7393,External,NA,NO,62,104,Complete Response
+2750,23111,TCGA-CR-7397,External,4860,NO,61,100,Complete Response
+2830,3143,TCGA-D6-A6EK,External,70,NO,39,105,Partial Response
+2844,3303,TCGA-DQ-7589,External,66,NO,119,164,Complete Response
+2845,3324,TCGA-DQ-7590,External,70,NO,45,91,Complete Response
+2848,3353,TCGA-DQ-7593,External,70,NO,25,82,Complete Response
+2849,3373,TCGA-DQ-7594,External,70,NO,12,61,Complete Response
+2850,3382,TCGA-DQ-7595,External,70,NO,34,85,Complete Response
+2851,3392,TCGA-DQ-7596,External,70,NO,19,69,Partial Response
+2855,3433,TCGA-F7-A50J,External,66,NO,70,114,Complete Response
+2861,3492,TCGA-H7-8501,,NA,NO,76,137,Complete Response
+2863,35110,TCGA-H7-A6C4,External,63,NO,74,113,Complete Response
+2870,3619,TCGA-HD-7753,External,6630,NO,68,126,Complete Response
+2873,3642,TCGA-HD-8224,External,6600,NO,97,147,Radiographic Progressive Disease
+2874,3652,TCGA-HD-8314,External,6000,NO,79,114,Complete Response
+2875,3662,TCGA-IQ-7630,External,60,NO,102,147,Complete Response
+2877,3681,TCGA-IQ-A61E,External,60,NO,103,142,Complete Response
+2878,3691,TCGA-IQ-A61G,External,60,NO,131,168,Radiographic Progressive Disease
+2879,3701,TCGA-IQ-A61J,External,60,NO,62,101,Complete Response
+2883,3742,TCGA-IQ-A61O,External,66,NO,69,127,Complete Response
+2888,3791,TCGA-KU-A6H7,External,6660,NO,65,115,Complete Response
+2897,3891,TCGA-MZ-A5BI,External,69.96,NO,40,86,Complete Response
+2898,3919,TCGA-MZ-A6I9,External,69.96,NO,57,102,Complete Response
+2899,3932,TCGA-MZ-A7D7,External,66,NO,77,126,Complete Response
+2901,3971,TCGA-P3-A5Q6,External,4000,NO,49,98,Complete Response
+2907,4042,TCGA-P3-A6SW,External,6480,NO,61,122,Complete Response
+2908,4062,TCGA-P3-A6SX,External,5940,NO,30,91,Complete Response
+2911,4091,TCGA-P3-A6T2,External,NA,NO,30,91,Complete Response
+2912,4109,TCGA-P3-A6T3,External,6640,NO,61,120,Complete Response
+2914,4132,TCGA-P3-A6T6,External,6600,NO,30,61,Complete Response
+2916,4152,TCGA-P3-A6T7,External,6600,NO,91,122,Complete Response
+2918,4172,TCGA-P3-A6T8,External,5000,NO,92,122,Complete Response
+2920,4202,TCGA-QK-A6IF,External,70,NO,16,63,Complete Response
+2923,4232,TCGA-QK-A6IG,External,66,NO,51,98,Radiographic Progressive Disease
+2935,4361,TCGA-QK-A8Z7,External,70.29,NO,101,151,Complete Response
+2936,4391,TCGA-QK-A8Z9,External,60.06,NO,49,99,Complete Response
+2950,4562,TCGA-T2-A6WX,External,6996,NO,71,128,Radiographic Progressive Disease
+2952,4581,TCGA-T2-A6WZ,External,6000,NO,139,170,Radiographic Progressive Disease
+2953,4601,TCGA-T2-A6X0,External,66,NO,63,99,Complete Response
+2955,4632,TCGA-TN-A7HJ,External,6600,NO,43,98,Complete Response
+2956,4642,TCGA-TN-A7HL,External,6000,NO,35,77,Complete Response
+2967,4771,TCGA-UF-A7JC,External,5000,NO,132,173,Complete Response
+2971,4818,TCGA-UF-A7JF,External,6600,NO,56,125,Complete Response
+2975,4851,TCGA-UF-A7JJ,External,6000,NO,59,107,Complete Response
+2977,4871,TCGA-UF-A7JK,External,6400,NO,127,NA,Complete Response
+2983,4932,TCGA-UF-A7JT,External,6120,NO,176,229,Complete Response
+3090,3523,TCGA-EB-A6QY,External,42,NO,260,276,Complete Response
+3093,3823,TCGA-EB-A6QZ,External,52,NO,11,31,Complete Response
+3094,3922,TCGA-EB-A85J,External,40,NO,202,223,Complete Response
+3171,1248,TCGA-GF-A3OT,External,4800,NO,52,77,Radiographic Progressive Disease
+3182,1358,TCGA-GN-A4U9,,NA,NO,408,469,Radiographic Progressive Disease
+3183,1367,TCGA-GN-A8LK,,20,NO,1476,1482,Radiographic Progressive Disease
+3184,1387,TCGA-GN-A9SD,External,20,NO,1738,1744,Partial Response
+3185,1398,TCGA-HR-A2OH,External,30,NO,1916,1930,Radiographic Progressive Disease
+3189,1438,TCGA-WE-A8K5,External,30,NO,1609,1623,Radiographic Progressive Disease
+3191,1466,TCGA-WE-A8ZR,External,48,NO,98,123,Radiographic Progressive Disease
+3196,15112,TCGA-WE-AAA4,External,18,NO,691,691,Radiographic Progressive Disease
+3214,2028,TCGA-A2-A0CK,External,5040,NO,243,280,Complete Response
+3236,4420,TCGA-A2-A0EW,External,5040,NO,211,249,Complete Response
+3281,9113,TCGA-A2-A3XT,External,5040,NO,233,275,Complete Response
+3285,968,TCGA-A2-A3XV,External,50,NO,211,246,Complete Response
+3287,989,TCGA-A2-A3XW,External,5040,NO,265,308,Complete Response
+3288,1008,TCGA-A2-A3XY,External,,NO,NA,366,Complete Response
+3290,10213,TCGA-A2-A4RY,External,5000,NO,192,238,Complete Response
+3296,1088,TCGA-A2-A4S2,External,4500,NO,224,260,Complete Response
+3323,1459,TCGA-A7-A4SB,External,6100,NO,167,217,Complete Response
+3327,1497,TCGA-A7-A4SF,External,6100,NO,232,279,Complete Response
+3328,1507,TCGA-A7-A5ZV,External,6100,NO,270,316,Complete Response
+3329,15113,TCGA-A7-A5ZW,External,6100,NO,207,252,Complete Response
+3330,15210,TCGA-A7-A5ZX,External,5040,NO,227,263,Complete Response
+3331,1567,TCGA-A7-A6VW,External,50.40,NO,285,331,Complete Response
+3332,1576,TCGA-A7-A6VX,External,4500,NO,170,204,Complete Response
+3334,1596,TCGA-A7-A6VY,External,4500,NO,211,247,Complete Response
+3337,1628,TCGA-A8-A06R,External,60,NO,181,212,Complete Response
+3340,1657,TCGA-A8-A075,External,,NO,214,275,Complete Response
+3342,1677,TCGA-A8-A07C,External,,NO,153,184,Complete Response
+3343,1686,TCGA-A8-A07F,External,,NO,181,212,Complete Response
+3344,1697,TCGA-A8-A07G,External,,,181,212,Complete Response
+3345,1705,TCGA-A8-A07I,External,,NO,245,304,Complete Response
+3346,17111,TCGA-A8-A07J,External,,NO,153,184,Complete Response
+3347,1727,TCGA-A8-A07L,External,,NO,153,184,Complete Response
+3348,1737,TCGA-A8-A07O,External,,NO,182,212,Complete Response
+3354,1806,TCGA-A8-A086,External,62,NO,123,153,Complete Response
+3355,18111,TCGA-A8-A08B,External,,NO,122,184,Complete Response
+3356,18210,TCGA-A8-A08C,External,,NO,182,243,Complete Response
+3357,1836,TCGA-A8-A08F,External,,NO,184,215,Complete Response
+3358,1856,TCGA-A8-A08G,External,,NO,150,212,Complete Response
+3359,1867,TCGA-A8-A08I,External,,NO,184,212,Complete Response
+3361,1887,TCGA-A8-A08P,External,,NO,182,244,Complete Response
+3363,19111,TCGA-A8-A08X,External,60,NO,153,182,Complete Response
+3365,1946,TCGA-A8-A092,External,60,NO,181,273,Complete Response
+3367,1976,TCGA-A8-A095,External,,NO,120,181,Complete Response
+3368,1987,TCGA-A8-A097,External,,NO,153,184,Complete Response
+3372,2029,TCGA-A8-A09D,External,67,NO,214,274,Complete Response
+3374,2056,TCGA-A8-A09M,External,,NO,214,276,Complete Response
+3379,21012,TCGA-A8-A0A6,External,,NO,214,275,Complete Response
+3382,21310,TCGA-AC-A2B8,External,,NO,80,122,Complete Response
+3383,2149,TCGA-AC-A2BK,External,6000,NO,203,254,Complete Response
+3384,2157,TCGA-AC-A2FE,External,5040,NO,178,219,Partial Response
+3386,2177,TCGA-AC-A2FF,External,5040,NO,336,377,Complete Response
+3387,2187,TCGA-AC-A2FK,External,5040,NO,243,280,Complete Response
+3388,2196,TCGA-AC-A2QH,External,6040,NO,246,305,Complete Response
+3389,2207,TCGA-AC-A2QI,External,6040,NO,309,355,Complete Response
+3390,22113,TCGA-AC-A2QJ,External,05000,NO,241,279,Radiographic Progressive Disease
+3392,2236,TCGA-AC-A3BB,External,6040,NO,217,261,Complete Response
+3395,2267,TCGA-AC-A3TM,External,5040,NO,219,266,Complete Response
+3397,2287,TCGA-AC-A3W5,External,5256,NO,154,182,Complete Response
+3398,2306,TCGA-AC-A3YI,External,6000,NO,250,297,Complete Response
+3401,2336,TCGA-AC-A62V,External,3250,NO,21,46,Partial Response
+3435,2687,TCGA-AQ-A7U7,External,6000,NO,236,278,Complete Response
+3491,3285,TCGA-BH-A0AV,External,66.4,NO,259,308,Complete Response
+3493,3304,TCGA-BH-A0B0,External,6000,NO,194,236,Complete Response
+3496,3335,TCGA-BH-A0B5,External,5040,NO,257,302,Complete Response
+3500,3383,TCGA-BH-A0B7,External,5040,NO,305,356,Complete Response
+3513,35111,TCGA-BH-A0BS,External,6040,NO,245,302,Complete Response
+3515,3534,TCGA-BH-A0BT,External,66.4,NO,167,227,Complete Response
+3516,3543,TCGA-BH-A0BW,External,50.4,NO,146,184,Complete Response
+3518,3563,TCGA-BH-A0BZ,External,50,NO,257,293,Complete Response
+3522,36110,TCGA-BH-A0C1,External,3500,NO,84,101,Radiographic Progressive Disease
+3523,3625,TCGA-BH-A0C3,External,6640,NO,209,262,Radiographic Progressive Disease
+3525,3643,TCGA-BH-A0DG,External,6000,NO,166,181,Complete Response
+3527,3663,TCGA-BH-A0DI,External,50,NO,362,402,Complete Response
+3530,3692,TCGA-BH-A0DL,External,6640,NO,154,205,Complete Response
+3534,3733,TCGA-BH-A0DV,External,6040,NO,177,223,Complete Response
+3535,3743,TCGA-BH-A0DX,External,5040,NO,171,221,Complete Response
+3539,3782,TCGA-BH-A0E9,External,5040,NO,150,189,Complete Response
+3563,4024,TCGA-BH-A0W7,External,1600,NO,168,229,Complete Response
+3564,4032,TCGA-BH-A18F,External,5000,NO,189,223,Complete Response
+3567,4063,TCGA-BH-A18H,External,50.4,NO,219,259,Complete Response
+3572,4133,TCGA-BH-A202,External,6100,NO,182,231,Complete Response
+3574,4153,TCGA-BH-A5IZ,,,NO,280,323,Complete Response
+3579,4203,TCGA-C8-A9FZ,External,44,NO,119,155,Complete Response
+3611,4523,TCGA-D8-A3Z6,External,45,NO,234,260,Stable Disease
+3675,5182,TCGA-E2-A3DX,External,6040,NO,218,262,Complete Response
+3677,5202,TCGA-E2-A572,,60.4,NO,196,263,Complete Response
+3678,5222,TCGA-E2-A573,External,66.4,NO,201,251,Complete Response
+3688,5323,TCGA-E9-A1R2,External,6240,NO,174,223,Complete Response
+3703,5471,TCGA-E9-A227,External,5256,NO,216,245,Complete Response
+3713,5571,TCGA-E9-A2JS,External,45,NO,105,133,Complete Response
+3717,5616,TCGA-E9-A3X8,External,40,NO,52,78,Complete Response
+3718,5621,TCGA-E9-A5FK,External,80,NO,130,154,Complete Response
+3724,5681,TCGA-E9-A6HE,External,50.4,NO,259,299,Complete Response
+3742,5861,TCGA-EW-A3U0,External,109,NO,229,281,Complete Response
+3744,5881,TCGA-EW-A424,External,60,NO,231,281,Complete Response
+3749,5931,TCGA-GM-A2D9,External,30,NO,1413,1434,Stable Disease
+3750,5941,TCGA-GM-A2DA,External,,NO,284,326,Complete Response
+3754,5981,TCGA-GM-A2DB,External,,NO,271,317,Complete Response
+3755,5991,TCGA-GM-A2DC,External,60,NO,236,278,Complete Response
+3756,600,TCGA-GM-A2DF,External,64,NO,250,294,Complete Response
+3759,6031,TCGA-GM-A2DM,External,52,NO,237,273,Complete Response
+3762,6071,TCGA-GM-A3XG,External,60,NO,372,415,Complete Response
+3763,6081,TCGA-GM-A3XL,External,60,NO,274,315,Complete Response
+3764,6091,TCGA-GM-A3XN,External,60,NO,359,394,Complete Response
+3765,6101,TCGA-GM-A4E0,External,60,NO,315,357,Complete Response
+3768,6131,TCGA-LL-A441,External,6600,NO,153,216,Complete Response
+3772,6181,TCGA-LL-A5YO,External,40/48,NO,192,210,Complete Response
+3775,6221,TCGA-LL-A73Z,External,42.72,NO,125,151,Radiographic Progressive Disease
+3776,6231,TCGA-LL-A7SZ,External,45,NO,239,275,Complete Response
+3778,6251,TCGA-LL-A8F5,External,54.72,NO,282,316,Complete Response
+3781,6281,TCGA-MS-A51U,External,,NO,218,266,Radiographic Progressive Disease
+3782,6291,TCGA-OL-A5D7,External,5040,NO,134,550,Complete Response
+3783,6301,TCGA-OL-A5RU,External,5040,NO,160,197,Complete Response
+3784,6321,TCGA-OL-A5RV,External,5040,NO,202,249,Complete Response
+3785,6331,TCGA-OL-A5RW,External,5040,NO,184,234,Complete Response
+3786,6341,TCGA-OL-A5S0,External,60.4,NO,153,202,Complete Response
+3788,6361,TCGA-OL-A66I,External,5041,NO,239,285,Complete Response
+3791,6391,TCGA-OL-A66O,External,6040,NO,77,121,Complete Response
+3792,6401,TCGA-OL-A6VO,External,,NO,156,201,Complete Response
+3793,6415,TCGA-PE-A5DD,External,,NO,130,160,Complete Response
+3794,6421,TCGA-PE-A5DE,External,4600,NO,124,167,Complete Response
+3795,6431,TCGA-S3-A6ZG,External,6040,NO,269,326,Complete Response
+3796,6441,TCGA-S3-A6ZH,External,110,NO,304,351,Complete Response
+3798,6461,TCGA-S3-AA14,External,6440,NO,221,267,Complete Response
+3799,6471,TCGA-S3-AA15,External,114,NO,286,359,Complete Response
+3803,6521,TCGA-XX-A899,External,5040,NO,230,278,Complete Response
+3843,2159,TCGA-QR-A70P,External,,NO,704,704,Radiographic Progressive Disease
+3847,1069,TCGA-WB-A81Q,Systemic,310,NO,123,551,Radiographic Progressive Disease
+3848,1189,TCGA-N5-A4R8,Internal,1800,NO,54,64,Complete Response
+3849,2160,TCGA-N5-A4RF,Internal,1800,NO,76,97,Complete Response
+3850,3146,TCGA-N5-A4RO,External,3000,NO,371,384,Radiographic Progressive Disease
+3851,4135,TCGA-N5-A4RS,Internal,21,NO,70,77,Complete Response
+3852,5104,TCGA-N5-A4RT,External,5040,NO,63,106,Complete Response
+3853,790,TCGA-N5-A4RV,Internal,2100,NO,86,116,Complete Response
+3854,880,TCGA-N5-A59F,Internal,1800,NO,82,103,Complete Response
+3855,959,TCGA-N6-A4V9,External,45,NO,183,208,Complete Response
+3857,1190,TCGA-N6-A4VE,External,45,NO,203,240,Radiographic Progressive Disease
+3859,1539,TCGA-N6-A4VG,External,45,NO,230,237,Partial Response
+3862,1838,TCGA-N7-A59B,Internal,36,NO,43,64,Complete Response
+3863,1937,TCGA-N8-A4PN,External,5040,NO,185,223,Complete Response
+3864,2038,TCGA-N9-A4PZ,External,3000,NO,54,63,Complete Response
+3865,2168,TCGA-N9-A4Q1,External,45,NO,66,98,Complete Response
+3867,2337,TCGA-N9-A4Q3,External,42,NO,1219,1249,Stable Disease
+3870,2640,TCGA-N9-A4Q7,Internal,30,NO,79,88,Complete Response
+3871,2736,TCGA-N9-A4Q8,Internal,30,NO,134,144,Complete Response
+3873,2930,TCGA-NA-A4QW,Internal,NA,NO,84,91,Complete Response
+3878,3428,TCGA-ND-A4WC,Internal,2100,NO,150,181,Complete Response
+3885,4136,TCGA-A4-7287,External,3000,NO,520,533,Radiographic Progressive Disease
