@@ -1,3 +1,9 @@
+##############################################################################################################
+# The script was used to do co-expression analysis between miR32A and 104 TFs within miR32A promoter regions
+# Shihcheng.Guo@Gmail.com
+# 2020/01/22
+##############################################################################################################
+
 id2phen4<-function(filename){
   library("stringr")
   as.array(str_extract(filename,"TCGA-[0-9|a-z|A-Z]*-[0-9|a-z|A-Z]*-[0-9]*"))
