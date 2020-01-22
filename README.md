@@ -1,7 +1,7 @@
 
 ```
-load("/home/guosa/hpc/project/TCGA/pancancer/miRNA/data/TCGA-Pancancer.miRNAseq.RData")
-load("/home/local/MFLDCLIN/guosa/hpc/methylation/Pancancer/RNA-seq/rnaseqdata.pancancer.RData")
+load("~/hpc/project/TCGA/pancancer/miRNA/data/TCGA-Pancancer.miRNAseq.RData")
+load("~/hpc/methylation/Pancancer/RNA-seq/rnaseqdata.pancancer.RData")
 ```
 
 Timeline: 
