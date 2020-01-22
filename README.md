@@ -2,6 +2,7 @@
 
 Timeline: 
 
+* miR23A and TFs: identified and validate TFs binding to miR23A: TransmiR2 + TCGA-co-expression 
 * [1470](/extdata/clinical/chemo-radio/) unique patients with responses to radiation-therapy and [1538](/extdata/clinical/chemo-radio/) patients with the response to chemotherapy. 
 * When we merge both of them, there are [703](/extdata/clinical/chemo-radio/) unique patients with clear response to both chemo- and radio-therapy. 
 * 2020/01/19: identify all the individual have both [chemotherapy]() and [radiotherapy]() treatment
